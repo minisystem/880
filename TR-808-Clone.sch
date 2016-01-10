@@ -1198,7 +1198,7 @@ F 3 "" H 5375 12375 60  0000 C CNN
 $EndComp
 Text GLabel 5775 12375 2    60   Input ~ 0
 WHITE_NOISE
-Text Notes 825  6425 0    100  ~ 0
+Text Notes 825  6550 0    200  ~ 40
 SNARE DRUM\n
 $Comp
 L MMBT3904 Q39
@@ -1993,7 +1993,7 @@ Text GLabel 10325 3475 2    60   Output ~ 0
 BD
 Text Notes 8075 5075 0    60   ~ 12
 BD\nLEVEL
-Text Notes 825  875  0    100  ~ 0
+Text Notes 800  1025 0    200  ~ 40
 BASS DRUM\n
 $Comp
 L MMBT3904 Q50
@@ -2813,7 +2813,7 @@ F 3 "" H 16975 4700 60  0000 C CNN
 $EndComp
 Text Notes 17200 4775 0    60   ~ 12
 LT/LC\nREVERB\n
-Text Notes 10850 875  0    100  ~ 0
+Text Notes 10875 1000 0    200  ~ 40
 LOW TOM/CONGA
 $Comp
 L TL072- U17
@@ -3633,7 +3633,7 @@ F 3 "" H 26775 4700 60  0000 C CNN
 $EndComp
 Text Notes 27000 4775 0    60   ~ 12
 MT/MC\nREVERB\n
-Text Notes 20650 875  0    100  ~ 0
+Text Notes 20675 1000 0    200  ~ 40
 MID TOM/CONGA
 $Comp
 L TL072- U18
@@ -4453,7 +4453,7 @@ F 3 "" H 36625 4700 60  0000 C CNN
 $EndComp
 Text Notes 36850 4775 0    60   ~ 12
 HT/HC\nREVERB\n
-Text Notes 30500 875  0    100  ~ 0
+Text Notes 30500 1000 0    200  ~ 40
 HI TOM/CONGA
 Text Notes 23725 2350 0    60   ~ 0
 C89 omitted
@@ -6192,7 +6192,7 @@ F 3 "" H 8825 21000 60  0000 C CNN
 	1    8825 21000
 	1    0    0    -1  
 $EndComp
-Text Notes 825  13425 0    100  ~ 0
+Text Notes 800  13525 0    200  ~ 40
 CLAP/MARACAS
 $Comp
 L MMBT3904 Q59
@@ -10073,7 +10073,7 @@ Wire Notes Line
 	20925 13525 10775 13525
 Wire Notes Line
 	10775 13525 10775 6250
-Text Notes 10875 6475 0    100  ~ 0
+Text Notes 10850 6550 0    200  ~ 40
 RIM SHOT/CLAVES\n
 Text Notes 29425 29400 0    200  ~ 40
 CHECK PIN ORIENTATION ON ALL LEVEL POTS\n
