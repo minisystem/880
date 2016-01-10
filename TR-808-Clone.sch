@@ -807,8 +807,8 @@ F 3 "" H 1400 9400 60  0000 C CNN
 $EndComp
 Text GLabel 1250 8075 0    60   Input ~ 0
 SD_TRIG
-Text GLabel 1250 7275 0    60   Input ~ 0
-ACCENT
+Text GLabel 1500 7275 0    60   Input ~ 0
+COMMON_TRIG
 $Comp
 L R_US R199
 U 1 1 5689BAB2
@@ -1312,8 +1312,8 @@ F 3 "" H 1475 5000 60  0000 C CNN
 $EndComp
 Text GLabel 1475 3400 0    60   Input ~ 0
 BD_TRIG
-Text GLabel 1325 2375 0    60   Input ~ 0
-ACCENT
+Text GLabel 1675 2375 0    60   Input ~ 0
+COMMON_TRIG
 $Comp
 L TL072- U15
 U 2 1 568BD582
@@ -2085,8 +2085,8 @@ F 3 "" H 11450 4275 60  0000 C CNN
 $EndComp
 Text GLabel 11300 2950 0    60   Input ~ 0
 LT_TRIG
-Text GLabel 11300 2150 0    60   Input ~ 0
-ACCENT
+Text GLabel 11650 2150 0    60   Input ~ 0
+COMMON_TRIG
 $Comp
 L R_US R215
 U 1 1 569028F6
@@ -2938,8 +2938,8 @@ F 3 "" H 21250 4275 60  0000 C CNN
 $EndComp
 Text GLabel 21100 2950 0    60   Input ~ 0
 MT_TRIG
-Text GLabel 21100 2150 0    60   Input ~ 0
-ACCENT
+Text GLabel 21500 2150 0    60   Input ~ 0
+COMMON_TRIG
 $Comp
 L R_US R251
 U 1 1 569845CC
@@ -3758,8 +3758,8 @@ F 3 "" H 31100 4275 60  0000 C CNN
 $EndComp
 Text GLabel 30950 2950 0    60   Input ~ 0
 HT_TRIG
-Text GLabel 30950 2150 0    60   Input ~ 0
-ACCENT
+Text GLabel 31225 2150 0    60   Input ~ 0
+COMMON_TRIG
 $Comp
 L R_US R270
 U 1 1 569884B4
@@ -4591,8 +4591,8 @@ F 3 "" H 1425 16800 60  0000 C CNN
 $EndComp
 Text GLabel 1425 15200 0    60   Input ~ 0
 CP_TRIG
-Text GLabel 1400 14600 0    60   Input ~ 0
-ACCENT
+Text GLabel 1575 14600 0    60   Input ~ 0
+COMMON_TRIG
 Text Notes 2625 16225 0    60   ~ 0
 CP
 Text Notes 2150 16225 0    60   ~ 0
@@ -6285,7 +6285,7 @@ $EndComp
 Text GLabel 11700 7900 0    60   Input ~ 0
 RS_TRIG
 Text GLabel 11700 7100 0    60   Input ~ 0
-ACCENT
+COMMON_TRIG
 $Comp
 L D D61
 U 1 1 56C73F6C
@@ -7180,7 +7180,7 @@ Connection ~ 1875 7900
 Wire Wire Line
 	2275 7275 2275 7700
 Wire Wire Line
-	1250 7275 1875 7275
+	1500 7275 1875 7275
 Wire Wire Line
 	1875 7275 2275 7275
 Wire Wire Line
@@ -7368,7 +7368,7 @@ Connection ~ 1950 3000
 Wire Wire Line
 	2350 2375 2350 2800
 Wire Wire Line
-	1325 2375 1950 2375
+	1675 2375 1950 2375
 Wire Wire Line
 	1950 2375 2350 2375
 Wire Wire Line
@@ -7650,7 +7650,7 @@ Connection ~ 11925 2775
 Wire Wire Line
 	12325 2150 12325 2575
 Wire Wire Line
-	11300 2150 11925 2150
+	11650 2150 11925 2150
 Wire Wire Line
 	11925 2150 12325 2150
 Wire Wire Line
@@ -8001,7 +8001,7 @@ Connection ~ 21725 2775
 Wire Wire Line
 	22125 2150 22125 2575
 Wire Wire Line
-	21100 2150 21725 2150
+	21500 2150 21725 2150
 Wire Wire Line
 	21725 2150 22125 2150
 Wire Wire Line
@@ -8352,7 +8352,7 @@ Connection ~ 31575 2775
 Wire Wire Line
 	31975 2150 31975 2575
 Wire Wire Line
-	30950 2150 31575 2150
+	31225 2150 31575 2150
 Wire Wire Line
 	31575 2150 31975 2150
 Wire Wire Line
@@ -8707,7 +8707,7 @@ Connection ~ 1900 15225
 Wire Wire Line
 	2450 14600 2450 15025
 Wire Wire Line
-	1400 14600 1900 14600
+	1575 14600 1900 14600
 Wire Wire Line
 	1900 14600 2450 14600
 Wire Wire Line
@@ -10087,7 +10087,7 @@ F1 "voicing_board.sch" 200
 F2 "+V" I L 19525 16125 60 
 F3 "-V" I L 19525 16250 60 
 F4 "GND" I L 19525 16375 60 
-F5 "ACCENT" I L 19525 16500 60 
+F5 "COMMON_TRIG" I L 19525 16500 60 
 F6 "CB_TRIG" I L 19525 16600 60 
 F7 "CB" O L 19525 16700 60 
 F8 "CY_TRIG" I L 19525 16800 60 
