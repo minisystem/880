@@ -187,13 +187,13 @@ F 3 "~" H 10425 5000 60  0000 C CNN
 	1    10425 5000
 	-1   0    0    -1  
 $EndComp
-Text GLabel 17200 2700 0    50   Input ~ 0
+Text GLabel 17200 2700 0    50   Output ~ 0
 ~RESET
-Text GLabel 17700 2600 2    50   Output ~ 0
+Text GLabel 17700 2600 2    50   Input ~ 0
 ISP_MOSI
-Text GLabel 17200 2500 0    50   Input ~ 0
+Text GLabel 17200 2500 0    50   Output ~ 0
 ISP_MISO
-Text GLabel 17200 2600 0    50   Output ~ 0
+Text GLabel 17200 2600 0    50   BiDi ~ 0
 ISP_SCK
 $Comp
 L GND_E #PWR?
@@ -437,7 +437,7 @@ Wire Wire Line
 	8800 4675 9275 4675
 Wire Wire Line
 	9275 4675 9275 4925
-Text GLabel 8800 4475 2    50   Output ~ 0
+Text GLabel 8800 4475 2    50   BiDi ~ 0
 ISP_SCK
 Text GLabel 8800 4275 2    50   Output ~ 0
 ISP_MOSI
@@ -2398,9 +2398,9 @@ Wire Wire Line
 	1025 6325 1475 6325
 Wire Wire Line
 	1475 6325 1475 6000
-Text HLabel 2050 10775 0    60   Input ~ 0
+Text HLabel 2050 10775 0    60   BiDi ~ 0
 SPI_SCK
-Text HLabel 8575 10775 0    60   Input ~ 0
+Text HLabel 8575 10775 0    60   BiDi ~ 0
 SPI_SCK
 Wire Wire Line
 	8575 11725 8575 12175
@@ -2415,9 +2415,9 @@ Text HLabel 8575 10975 0    60   Input ~ 0
 SWITCH_LATCH
 Text HLabel 2050 10625 0    60   Input ~ 0
 SPI_SW_DATA
-Text HLabel 24400 9225 0    60   Input ~ 0
+Text HLabel 24400 9225 0    60   BiDi ~ 0
 SPI_SCK
-Text HLabel 24400 12875 0    60   Input ~ 0
+Text HLabel 24400 12875 0    60   BiDi ~ 0
 SPI_SCK
 Text GLabel 8800 3975 2    50   Output ~ 0
 SPI_EN
@@ -2629,6 +2629,18 @@ Text GLabel 6400 5125 0    50   Output ~ 0
 SPI_MOSI
 Text GLabel 8800 4825 2    50   Input ~ 0
 SPI_MISO
-Text HLabel 8800 4925 2    50   Output ~ 0
+Text HLabel 8800 4925 2    50   BiDi ~ 0
 SPI_SCK
+Wire Notes Line
+	575  675  575  5025
+Wire Notes Line
+	575  5025 4850 5025
+Wire Notes Line
+	4850 5025 4850 675 
+Wire Notes Line
+	4850 675  575  675 
+Text GLabel 8800 5125 2    50   Output ~ 0
+LED_LATCH
+Text HLabel 8800 5025 2    50   Output ~ 0
+SWITCH_LATCH
 $EndSCHEMATC
