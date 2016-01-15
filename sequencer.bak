@@ -568,6 +568,4 @@ Text GLabel 12100 5250 0    60   Input ~ 0
 DIN_START
 Text GLabel 11975 5450 0    60   Input ~ 0
 DIN_CLK
-Text GLabel 8900 5700 2    40   Output ~ 0
-UART_TX
 $EndSCHEMATC
