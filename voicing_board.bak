@@ -2077,9 +2077,9 @@ F 3 "" H 13800 13425 60  0000 C CNN
 	0    1    -1   0   
 $EndComp
 Text HLabel 1150 1300 0    100  Input ~ 0
-+V
+V+
 Text HLabel 1150 1475 0    100  Input ~ 0
--V
+V-
 Text HLabel 1150 1825 0    100  Input ~ 0
 GND
 $Comp

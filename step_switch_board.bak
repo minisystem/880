@@ -968,4 +968,38 @@ Text HLabel 2450 3425 0    60   Input ~ 0
 SPI_SW_DATA
 Text HLabel 10425 5275 0    60   Output ~ 0
 SPI_MISO
+Text HLabel 1400 1050 0    100  Input ~ 0
+5V
+Text HLabel 1400 1175 0    100  Input ~ 0
+GND
+$Comp
+L 5V #PWR?
+U 1 1 56B2ED48
+P 1550 925
+F 0 "#PWR?" H 1550 775 50  0001 C CNN
+F 1 "5V" H 1550 1100 50  0000 C CNN
+F 2 "" H 1550 925 60  0000 C CNN
+F 3 "" H 1550 925 60  0000 C CNN
+	1    1550 925 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 1050 1550 1050
+Wire Wire Line
+	1550 1050 1550 925 
+$Comp
+L GND_E #PWR?
+U 1 1 56B2F078
+P 1550 1350
+F 0 "#PWR?" V 1550 1350 30  0001 C CNN
+F 1 "GND_E" H 1550 1280 30  0001 C CNN
+F 2 "~" H 1550 1350 60  0000 C CNN
+F 3 "~" H 1550 1350 60  0000 C CNN
+	1    1550 1350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 1175 1550 1175
+Wire Wire Line
+	1550 1175 1550 1350
 $EndSCHEMATC
