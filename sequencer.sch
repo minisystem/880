@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr C 22000 17000
 encoding utf-8
-Sheet 4 4
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -1746,8 +1746,6 @@ Text GLabel 8425 4125 2    50   BiDi ~ 0
 DIN_TEMPO_CLK
 Text GLabel 8425 4525 2    50   BiDi ~ 0
 DIN_FILL
-Text GLabel 8425 4325 2    50   Output ~ 0
-TRIG
 Text GLabel 8425 4425 2    50   BiDi ~ 0
 DIN_TEMPO_CLK
 Text GLabel 8425 4025 2    50   BiDi ~ 0
@@ -2063,8 +2061,6 @@ Connection ~ 5525 4325
 Connection ~ 5525 4425
 Text GLabel 6025 3375 0    50   Output ~ 0
 SPI_MOSI
-Text GLabel 8425 3075 2    50   Input ~ 0
-SPI_MISO
 Text HLabel 8425 3175 2    50   BiDi ~ 0
 SPI_SCK
 Wire Notes Line
@@ -2078,11 +2074,7 @@ Wire Notes Line
 Text HLabel 8425 3275 2    50   Output ~ 0
 SWITCH_LATCH
 Text HLabel 8425 2225 2    50   Output ~ 0
-SPI_EN
-Text HLabel 8825 7125 0    50   Input ~ 0
-SPI_EN
-Text HLabel 9025 10775 0    50   Input ~ 0
-SPI_EN
+~SPI_EN
 Text HLabel 8425 3375 2    50   Output ~ 0
 LED_LATCH
 Text HLabel 9125 7825 0    50   Input ~ 0
@@ -2816,10 +2808,6 @@ Text HLabel 16450 7625 0    50   BiDi ~ 0
 SPI_SCK
 Text HLabel 16450 11275 0    50   BiDi ~ 0
 SPI_SCK
-Text HLabel 16125 7125 0    50   Input ~ 0
-SPI_EN
-Text HLabel 16350 10775 0    50   Input ~ 0
-SPI_EN
 Text HLabel 16450 7825 0    50   Input ~ 0
 LED_LATCH
 Text HLabel 16450 11475 0    50   Input ~ 0
@@ -3579,10 +3567,6 @@ Text HLabel 12075 7625 0    50   BiDi ~ 0
 SPI_SCK
 Text HLabel 12075 11275 0    50   BiDi ~ 0
 SPI_SCK
-Text HLabel 11750 7125 0    50   Input ~ 0
-SPI_EN
-Text HLabel 11975 10775 0    50   Input ~ 0
-SPI_EN
 Text HLabel 12075 7825 0    50   Input ~ 0
 LED_LATCH
 Text HLabel 12075 11475 0    50   Input ~ 0
@@ -3647,4 +3631,59 @@ Wire Wire Line
 Wire Wire Line
 	10900 6925 10525 6925
 NoConn ~ 10525 10975
+Text GLabel 8425 3075 2    50   Input ~ 0
+SPI_MISO
+Text HLabel 11750 7125 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 8825 7125 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 16125 7125 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 16350 10775 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 11975 10775 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 9025 10775 0    50   Input ~ 0
+~SPI_EN
+Text HLabel 8425 4325 2    50   Output ~ 0
+TRIG
+$Comp
+L POT_US VR?
+U 1 1 56DE6A39
+P 5225 3275
+F 0 "VR?" V 5125 3125 50  0000 C CNN
+F 1 "TEMPO" V 5050 3125 50  0000 C CNN
+F 2 "" H 5225 3275 60  0000 C CNN
+F 3 "" H 5225 3275 60  0000 C CNN
+	1    5225 3275
+	0    1    -1   0   
+$EndComp
+$Comp
+L GND_E #PWR?
+U 1 1 56DE884F
+P 5225 3600
+F 0 "#PWR?" V 5225 3600 30  0001 C CNN
+F 1 "GND_E" H 5225 3530 30  0001 C CNN
+F 2 "~" H 5225 3600 60  0000 C CNN
+F 3 "~" H 5225 3600 60  0000 C CNN
+	1    5225 3600
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5225 3475 5225 3600
+Wire Wire Line
+	5375 3275 6025 3275
+$Comp
+L 5V #PWR?
+U 1 1 56DEA35E
+P 5225 2950
+F 0 "#PWR?" H 5225 2800 50  0001 C CNN
+F 1 "5V" H 5225 3125 50  0000 C CNN
+F 2 "" H 5225 2950 60  0000 C CNN
+F 3 "" H 5225 2950 60  0000 C CNN
+	1    5225 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5225 2950 5225 3075
 $EndSCHEMATC
