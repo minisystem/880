@@ -1749,9 +1749,9 @@ F 3 "~" H 9800 4050 60  0000 C CNN
 	1    9800 4050
 	-1   0    0    -1  
 $EndComp
-Text HLabel 20500 3450 0    100  Input ~ 0
+Text HLabel 20500 3450 0    60   Input ~ 0
 V+
-Text HLabel 20500 3750 0    100  Input ~ 0
+Text HLabel 20500 3750 0    60   Input ~ 0
 GND
 $Comp
 L GND_E #PWR?
@@ -1768,7 +1768,7 @@ Wire Wire Line
 	20500 3750 20725 3750
 Wire Wire Line
 	20725 3750 20725 3925
-Text HLabel 20500 3275 0    100  Input ~ 0
+Text HLabel 20500 3275 0    60   Input ~ 0
 5V
 $Comp
 L 5V #PWR?
