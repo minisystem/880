@@ -4308,15 +4308,15 @@ F 3 "" H 3725 775 60  0000 C CNN
 	0    1    -1   0   
 $EndComp
 Text GLabel 4375 1525 2    100  Output ~ 0
-TRIG
+VB_TRIG
 Text GLabel 8125 1325 0    100  Input ~ 0
-TRIG
+VB_TRIG
 Text GLabel 10175 1325 0    100  Input ~ 0
-TRIG
+VB_TRIG
 Text GLabel 1875 2800 0    100  Input ~ 0
-TRIG
+VB_TRIG
 Text GLabel 13500 8225 2    100  Input ~ 0
-TRIG
+VB_TRIG
 $Comp
 L R_US R19
 U 1 1 56F7906A
@@ -6076,5 +6076,5 @@ Wire Notes Line
 Wire Notes Line
 	20875 8025 17650 8025
 Text Notes 17700 8350 0    200  ~ 40
-POWER DECOUPLING
+POWER FILTERING\n
 $EndSCHEMATC
