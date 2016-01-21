@@ -67,7 +67,7 @@ F 3 "~" H 5775 2675 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 6325 2425 2    60   Output ~ 0
-UART RX
+UART_RX
 $Comp
 L R_US R398
 U 1 1 56A0046A
@@ -446,7 +446,7 @@ ISP_MISO
 Text GLabel 12700 3025 2    50   Input ~ 0
 ~RESET
 Text GLabel 12700 3175 2    50   Input ~ 0
-UART RX
+UART_RX
 $Comp
 L 5V #PWR0419
 U 1 1 56A36BFD
@@ -1353,8 +1353,6 @@ Connection ~ 8250 6275
 Connection ~ 8250 7075
 Connection ~ 8250 7875
 Connection ~ 8250 8675
-Text GLabel 9825 7700 0    50   Input ~ 0
-SPI_MOSI
 $Comp
 L R_US R407
 U 1 1 56ABBF1E
@@ -1535,7 +1533,7 @@ F 3 "" H 10525 9950 60  0000 C CNN
 $EndComp
 Connection ~ 10525 10000
 Text GLabel 3200 1350 0    60   Input ~ 0
-UART TX
+UART_TX
 $Comp
 L MIDI_DIN X1
 U 1 1 56A00452
@@ -4281,4 +4279,9 @@ Wire Wire Line
 	14275 5825 14275 7250
 Wire Wire Line
 	14275 7250 14175 7250
+NoConn ~ 2000 1550
+Text GLabel 9825 7700 0    50   Input ~ 0
+SPI_MOSI
+Connection ~ 20700 12400
+Connection ~ 20700 12850
 $EndSCHEMATC
