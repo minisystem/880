@@ -2,10 +2,10 @@
 
   (general
     (links 2130)
-    (no_connects 956)
+    (no_connects 958)
     (area 67.924999 52.924999 368.075001 153.075001)
     (thickness 1.6)
-    (drawings 21)
+    (drawings 23)
     (tracks 0)
     (zones 0)
     (modules 1101)
@@ -29975,7 +29975,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DBF)
-    (at 218 163.075001)
+    (at 299 77)
     (path /56936895/569C3E9F)
     (fp_text reference VR-1 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30035,7 +30035,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DD1)
-    (at 218 163.075001)
+    (at 299 95)
     (path /56936895/5693E84D)
     (fp_text reference VR2 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30095,7 +30095,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DE3)
-    (at 218 163.075001)
+    (at 317 95)
     (path /56936895/56A334E6)
     (fp_text reference VR3-1 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30125,7 +30125,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DEC)
-    (at 218 163.075001)
+    (at 155 59)
     (path /568E9AF8)
     (fp_text reference VR4 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30155,7 +30155,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DF5)
-    (at 218 163.075001)
+    (at 155 77)
     (path /568DA9DE)
     (fp_text reference VR5 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30185,7 +30185,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30DFE)
-    (at 218 163.075001)
+    (at 281 59)
     (path /56936895/5693E545)
     (fp_text reference VR5-1 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30215,7 +30215,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E07)
-    (at 218 163.075001)
+    (at 155 95)
     (path /568DD323)
     (fp_text reference VR6 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30245,7 +30245,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E10)
-    (at 218 163.075001)
+    (at 299 59)
     (path /56936895/569E6A2E)
     (fp_text reference VR6-1 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30275,7 +30275,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E19)
-    (at 218 163.075001)
+    (at 173 59)
     (path /568955CF)
     (fp_text reference VR7 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30305,7 +30305,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E22)
-    (at 218 163.075001)
+    (at 317 59)
     (path /56936895/569575BE)
     (fp_text reference VR7-1 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30335,7 +30335,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E2B)
-    (at 218 163.075001)
+    (at 173 77)
     (path /56890683)
     (fp_text reference VR8 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30395,7 +30395,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E3D)
-    (at 218 163.075001)
+    (at 173 95)
     (path /5689BFEA)
     (fp_text reference VR9 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30425,7 +30425,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E46)
-    (at 218 163.075001)
+    (at 191 59)
     (path /5694D151)
     (fp_text reference VR10 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30455,7 +30455,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E4F)
-    (at 218 163.075001)
+    (at 191 77)
     (path /56928C00)
     (fp_text reference VR11 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30485,7 +30485,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E58)
-    (at 218 163.075001)
+    (at 209 59)
     (path /56984791)
     (fp_text reference VR12 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30515,7 +30515,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E61)
-    (at 218 163.075001)
+    (at 209 77)
     (path /569846F5)
     (fp_text reference VR13 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30545,7 +30545,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E6A)
-    (at 218 163.075001)
+    (at 227 59)
     (path /56988679)
     (fp_text reference VR14 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30575,7 +30575,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E73)
-    (at 218 163.075001)
+    (at 227 77)
     (path /569885DD)
     (fp_text reference VR15 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30605,7 +30605,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E7C)
-    (at 218 163.075001)
+    (at 245 59)
     (path /56DA52BD)
     (fp_text reference VR16 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30635,7 +30635,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54CC0670) (tstamp 56A30E85)
-    (at 218 163.075001)
+    (at 263 59)
     (path /56C1DA06)
     (fp_text reference VR17 (at 0 4) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -30884,6 +30884,8 @@
     )
   )
 
+  (gr_line (start 335 95) (end 68 95) (angle 90) (layer Eco1.User) (width 0.2) (tstamp 56A3380D))
+  (gr_line (start 335 77) (end 68 77) (angle 90) (layer Eco1.User) (width 0.2) (tstamp 56A33805))
   (gr_line (start 101 53) (end 101 153) (layer Eco1.User) (width 0.2) (tstamp 56A337A2))
   (gr_line (start 119 53) (end 119 153) (layer Eco1.User) (width 0.2) (tstamp 56A337A0))
   (gr_line (start 137 53) (end 137 153) (layer Eco1.User) (width 0.2) (tstamp 56A3379E))
