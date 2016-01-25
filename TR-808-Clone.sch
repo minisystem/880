@@ -9508,9 +9508,7 @@ Wire Wire Line
 Wire Wire Line
 	7675 2550 8175 2550
 Wire Wire Line
-	7125 2550 7275 2550
-Wire Wire Line
-	6475 2550 7100 2550
+	6475 2550 7275 2550
 Connection ~ 13975 12475
 Wire Wire Line
 	11950 12275 11950 12350
