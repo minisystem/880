@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source E:/Documents/KiCad/TR-808-Clone/TR-808-Clone.sch)
-    (date "2016-01-25 3:10:09 PM")
+    (source E:\Documents\KiCad\TR-808-Clone\TR-808-Clone.sch)
+    (date "2016-01-28 6:47:37 PM")
     (tool "Eeschema (2015-11-11 BZR 6310, Git 8f79b4f)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1286,7 +1286,7 @@
       (tstamp 56984761))
     (comp (ref C96)
       (value 0.039μ)
-      (footprint MyModules:2MM-POL-CAP)
+      (footprint MyModules:SM0603-C-JRL)
       (libsource (lib MySynthParts) (part C_US))
       (sheetpath (names /) (tstamps /))
       (tstamp 5698476B))
