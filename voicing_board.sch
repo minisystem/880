@@ -6127,4 +6127,5 @@ F 3 "" H 13350 8875 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 Connection ~ 13350 9025
+Connection ~ 19150 5850
 $EndSCHEMATC
