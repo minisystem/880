@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source E:/Documents/KiCad/TR-808-Clone/TR-808-Clone.sch)
-    (date "2016-02-17 5:50:47 PM")
+    (date "2016-02-19 5:51:27 PM")
     (tool "Eeschema (2015-11-11 BZR 6310, Git 8f79b4f)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
