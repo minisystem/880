@@ -2922,7 +2922,7 @@ Text HLabel 13275 15600 0    50   BiDi ~ 0
 SPI_SCK
 Text HLabel 13275 15800 0    50   Input ~ 0
 LED_LATCH
-Text HLabel 15625 16400 2    60   Output ~ 0
+Text HLabel 10700 16100 2    60   Output ~ 0
 SPI_LED_DATA
 Text HLabel 13175 15100 0    50   Input ~ 0
 ~SPI_EN
@@ -3507,12 +3507,6 @@ Wire Wire Line
 	9075 10250 9075 10900
 Connection ~ 9775 10250
 Wire Wire Line
-	10475 8150 10475 9350
-Wire Wire Line
-	10475 9350 8575 9350
-Wire Wire Line
-	8575 9350 8575 11350
-Wire Wire Line
 	8775 7450 9075 7450
 Wire Wire Line
 	8825 7200 8825 7450
@@ -3521,7 +3515,7 @@ Wire Wire Line
 	8825 6600 8825 6800
 Connection ~ 9075 6600
 Wire Wire Line
-	8575 11350 9075 11350
+	8600 11350 9075 11350
 Wire Wire Line
 	9075 11100 8975 11100
 Connection ~ 9775 6350
@@ -4148,10 +4142,6 @@ Wire Wire Line
 Wire Wire Line
 	11150 11675 11300 11675
 Wire Wire Line
-	12775 13500 12775 15350
-Wire Wire Line
-	12775 15350 13275 15350
-Wire Wire Line
 	15975 13750 16325 13750
 Wire Wire Line
 	13275 15100 13175 15100
@@ -4206,8 +4196,6 @@ Wire Wire Line
 Wire Wire Line
 	14775 7250 14675 7250
 Connection ~ 20700 12400
-Wire Wire Line
-	14725 16400 15625 16400
 Wire Wire Line
 	14675 15600 14825 15600
 Wire Wire Line
@@ -4353,4 +4341,14 @@ Wire Wire Line
 Wire Wire Line
 	10575 12275 10750 12275
 Connection ~ 16325 14975
+Wire Wire Line
+	12375 15350 12375 8150
+Wire Wire Line
+	12375 8150 10475 8150
+Wire Wire Line
+	13275 15350 12375 15350
+Wire Wire Line
+	8600 16400 14725 16400
+Wire Wire Line
+	8600 11350 8600 16400
 $EndSCHEMATC
