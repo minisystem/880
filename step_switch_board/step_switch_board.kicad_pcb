@@ -240,13 +240,13 @@
     (uvia_drill 0.1)
   )
 
-  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 54130A77) (tstamp 56A30D7A)
+  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 56D09440) (tstamp 56A30D7A)
     (at 158.5 174.5 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /569A1382)
     (attr smd)
-    (fp_text reference U38 (at 0 3.55 270) (layer B.SilkS)
+    (fp_text reference U38 (at -3 5 360) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 74HC165 (at 0 -3.55 270) (layer B.Fab)
@@ -297,13 +297,13 @@
     )
   )
 
-  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 54130A77) (tstamp 56A30D8E)
+  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 56D09439) (tstamp 56A30D8E)
     (at 262.5 174.5 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /569A12F7)
     (attr smd)
-    (fp_text reference U39 (at 0 3.55 270) (layer B.SilkS)
+    (fp_text reference U39 (at -2.75 4.5 360) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 74HC165 (at 0 -3.55 270) (layer B.Fab)
@@ -411,13 +411,13 @@
     )
   )
 
-  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 54130A77) (tstamp 56A30DB6)
+  (module Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm (layer B.Cu) (tedit 56D0940A) (tstamp 56A30DB6)
     (at 269 159.5 180)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /56B9698B)
     (attr smd)
-    (fp_text reference U41 (at 0 3.55 180) (layer B.SilkS)
+    (fp_text reference U41 (at -5.5 2.25 180) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 74AC595 (at 0 -3.55 180) (layer B.Fab)
@@ -1883,11 +1883,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D08046) (tstamp 56A2F794)
+  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D09419) (tstamp 56A2F794)
     (at 131.25 157.5 180)
     (path /56B9697E)
     (attr smd)
-    (fp_text reference C195 (at 0 1.4 180) (layer B.SilkS)
+    (fp_text reference C195 (at 0 -1.5 180) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 0.1µ (at 0 0 180) (layer B.SilkS) hide
@@ -1910,11 +1910,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D08046) (tstamp 56A2F78E)
+  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D09412) (tstamp 56A2F78E)
     (at 230.75 159 270)
     (path /56B9692B)
     (attr smd)
-    (fp_text reference C194 (at 0 1.4 270) (layer B.SilkS)
+    (fp_text reference C194 (at 2 0 360) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 0.1µ (at 0 0 270) (layer B.SilkS) hide
@@ -2019,7 +2019,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-WHT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2054,7 +2054,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-WHT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2089,7 +2089,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-WHT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2124,7 +2124,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-WHT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2159,7 +2159,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-YLW.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2194,7 +2194,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-YLW.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2229,7 +2229,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-YLW.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2264,7 +2264,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-YLW.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2299,7 +2299,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-ORG.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2334,7 +2334,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-ORG.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
@@ -2369,7 +2369,7 @@
       (net 2 +5V))
     (pad "" np_thru_hole circle (at 0 -4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-ORG.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
