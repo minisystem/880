@@ -2018,10 +2018,10 @@
     )
   )
 
-  (module MyModules:2MM-POL-CAP (layer B.Cu) (tedit 56D8908A) (tstamp 56A2F308)
+  (module MyModules:2MM-POL-CAP (layer B.Cu) (tedit 56D9BE8A) (tstamp 56A2F308)
     (at 316 119.75)
     (path /56936895/5693E789)
-    (fp_text reference C39-1 (at -4 -0.75 270) (layer B.SilkS)
+    (fp_text reference C39-1 (at -3.2 -2.35 90) (layer B.SilkS)
       (effects (font (size 0.6 0.6) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 0.47μ (at 0 -3.5) (layer B.SilkS) hide
@@ -20651,11 +20651,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D89048) (tstamp 56A300AD)
+  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D9BE5A) (tstamp 56A300AD)
     (at 326.5 99.5 270)
     (path /56936895/56A42A47)
     (attr smd)
-    (fp_text reference R134 (at -2 0 360) (layer B.SilkS)
+    (fp_text reference R134 (at 2.7 0.3 450) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 100K (at 0 0 270) (layer B.SilkS) hide
@@ -20840,11 +20840,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D88D7E) (tstamp 56A30083)
+  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D9BE5E) (tstamp 56A30083)
     (at 329.25 98.25)
     (path /56936895/56A1BC23)
     (attr smd)
-    (fp_text reference R130-1 (at -0.25 -1.5) (layer B.SilkS)
+    (fp_text reference R130-1 (at -0.35 -1.35) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 10K (at 0 0) (layer B.SilkS) hide
@@ -22271,11 +22271,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D89083) (tstamp 56A2FF45)
+  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D9BE9E) (tstamp 56A2FF45)
     (at 311.75 120.75)
     (path /56936895/5693E68E)
     (attr smd)
-    (fp_text reference R98 (at 2 0 90) (layer B.SilkS)
+    (fp_text reference R98 (at 0.05 -0.05 90) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 100 (at 0 0) (layer B.SilkS) hide
@@ -25079,11 +25079,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D89077) (tstamp 56A2FCD5)
+  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D9C5B5) (tstamp 56A2FCD5)
     (at 317.25 123.75 90)
     (path /56936895/569FC4EC)
     (attr smd)
-    (fp_text reference R6-1 (at -2 -0.25 180) (layer B.SilkS)
+    (fp_text reference R6-1 (at -1.95 -0.05 180) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 10K (at 0 0 90) (layer B.SilkS) hide
@@ -25241,11 +25241,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D8907A) (tstamp 56A2FCB1)
+  (module MyModules:SM0603-R-JRL (layer B.Cu) (tedit 56D9C5B1) (tstamp 56A2FCB1)
     (at 319 123.75 270)
     (path /56936895/569FC4E6)
     (attr smd)
-    (fp_text reference R3-1 (at 3 0 270) (layer B.SilkS)
+    (fp_text reference R3-1 (at -2.75 -0.1 450) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 22K (at 0 0 270) (layer B.SilkS) hide
@@ -29075,11 +29075,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D8907E) (tstamp 56A2F338)
+  (module MyModules:SM0603-C-JRL (layer B.Cu) (tedit 56D9C5A1) (tstamp 56A2F338)
     (at 314.25 123.75 270)
     (path /56936895/5693E69C)
     (attr smd)
-    (fp_text reference C43-1 (at -0.25 -1.5 270) (layer B.SilkS)
+    (fp_text reference C43-1 (at 0.15 -1.35 270) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
     (fp_text value 0.0015μ (at 0 0 270) (layer B.SilkS) hide

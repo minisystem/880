@@ -1,4 +1,4 @@
-update=2016-01-25 6:20:50 PM
+update=2016-03-04 12:41:58 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName29=valves
 LibName30=E:/Documents/KiCad/MyLibs/MySynthParts
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

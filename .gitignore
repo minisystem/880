@@ -1,0 +1,8 @@
+#.gitignore TR-808 Clone
+
+Gerbers/
+shapes3D/
+*.wrl
+/step_switch_board/Gerbers/
+/step_switch_board/shapes3D/
+/step_switch_board/*.wrl
