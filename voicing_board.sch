@@ -4994,7 +4994,6 @@ Wire Wire Line
 	6225 15050 6225 15075
 Wire Wire Line
 	6225 14250 7075 14250
-Connection ~ 5250 12725
 Wire Wire Line
 	5250 12725 5250 14450
 Wire Wire Line
