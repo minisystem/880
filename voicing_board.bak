@@ -4411,9 +4411,6 @@ Wire Wire Line
 Wire Wire Line
 	1600 6725 1600 6875
 Wire Wire Line
-	1600 6875 1850 6875
-Connection ~ 1750 6875
-Wire Wire Line
 	1200 6875 1200 7650
 Wire Wire Line
 	1200 7600 1350 7600
@@ -5765,4 +5762,6 @@ F 3 "" H 13350 8875 60  0000 C CNN
 $EndComp
 Connection ~ 13350 9025
 Connection ~ 19150 5850
+Wire Wire Line
+	1600 6875 1850 6875
 $EndSCHEMATC

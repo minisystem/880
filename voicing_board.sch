@@ -4407,12 +4407,7 @@ Wire Wire Line
 	1200 6175 1750 6175
 Connection ~ 1750 6175
 Wire Wire Line
-	1400 6725 1600 6725
-Wire Wire Line
-	1600 6725 1600 6875
-Wire Wire Line
-	1600 6875 1850 6875
-Connection ~ 1750 6875
+	1400 6725 1850 6725
 Wire Wire Line
 	1200 6875 1200 7650
 Wire Wire Line
@@ -4436,8 +4431,6 @@ Wire Wire Line
 	1200 8050 1200 8100
 Connection ~ 1200 7600
 Wire Wire Line
-	1600 8325 1600 8475
-Wire Wire Line
 	1200 8475 1200 9250
 Wire Wire Line
 	1200 9200 1350 9200
@@ -4460,9 +4453,7 @@ Wire Wire Line
 	1200 9650 1200 9700
 Connection ~ 1200 9200
 Wire Wire Line
-	1600 8325 1400 8325
-Wire Wire Line
-	1600 8475 1850 8475
+	1400 8325 1850 8325
 Wire Wire Line
 	2950 7600 3050 7600
 Wire Wire Line
@@ -5765,4 +5756,10 @@ F 3 "" H 13350 8875 60  0000 C CNN
 $EndComp
 Connection ~ 13350 9025
 Connection ~ 19150 5850
+NoConn ~ 1600 6875
+Wire Wire Line
+	1850 6725 1850 6875
+Wire Wire Line
+	1850 8325 1850 8475
+NoConn ~ 1600 8475
 $EndSCHEMATC
