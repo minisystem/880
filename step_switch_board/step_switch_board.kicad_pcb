@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew "(2015-11-11 BZR 6310, Git 8f79b4f)-product")
+(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
 
   (general
     (links 181)
@@ -70,8 +70,8 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFEF67F)
     (pcbplotparams
-      (layerselection 0x00080_00000000)
-      (usegerberextensions false)
+      (layerselection 0x010f0_80000001)
+      (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -85,15 +85,15 @@
       (psnegative false)
       (psa4output false)
       (plotreference true)
-      (plotvalue true)
+      (plotvalue false)
       (plotinvisibletext false)
-      (padsonsilk true)
-      (subtractmaskfromsilk false)
-      (outputformat 3)
+      (padsonsilk false)
+      (subtractmaskfromsilk true)
+      (outputformat 1)
       (mirror false)
-      (drillshape 2)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ../Gerbers/))
+      (outputdirectory Gerbers/))
   )
 
   (net 0 "")

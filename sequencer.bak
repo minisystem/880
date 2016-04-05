@@ -4371,4 +4371,10 @@ Wire Wire Line
 	14225 9900 17625 9900
 Wire Wire Line
 	17625 9900 17625 8950
+Text Notes 13475 3650 0    50   ~ 0
+Not sure which DIN tempo clock\ntimer to use so connected to both\nOC2B and OC0A\n
+Text Notes 13350 3475 0    50   ~ 0
+*
+Text Notes 13350 3775 0    50   ~ 0
+*
 $EndSCHEMATC
