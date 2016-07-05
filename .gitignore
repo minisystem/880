@@ -2,6 +2,7 @@
 
 Gerbers/
 shapes3D/
+_autosave*
 *.wrl
 /step_switch_board/Gerbers/
 /step_switch_board/shapes3D/

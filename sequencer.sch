@@ -1110,9 +1110,9 @@ F 3 "~" H 9775 12300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 8700 10150 0    60   ~ 0
-SPI TRIG LATCH 4
-Text Notes 8825 6550 0    60   ~ 0
 SPI TRIG LATCH 6
+Text Notes 8825 6550 0    60   ~ 0
+SPI TRIG LATCH 8
 $Comp
 L 5V #PWR437
 U 1 1 56ABC0C9
@@ -1764,9 +1764,9 @@ F 3 "~" H 20700 13125 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 17000 10200 0    60   ~ 0
-SPI LED LATCH 3
+SPI LED LATCH 5
 Text Notes 16900 6550 0    60   ~ 0
-SPI LED LATCH 1
+SPI LED LATCH 3
 $Comp
 L LED D28
 U 1 1 56BACAA8
@@ -2249,9 +2249,9 @@ F 3 "~" H 16325 12400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 12975 10125 0    60   ~ 0
-SPI LED LATCH 0
-Text Notes 13025 6550 0    60   ~ 0
 SPI LED LATCH 2
+Text Notes 13025 6550 0    60   ~ 0
+SPI LED LATCH 4
 $Comp
 L LED D40
 U 1 1 56BC4A6A
@@ -2971,7 +2971,7 @@ F 3 "~" H 16325 16175 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 12975 14175 0    60   ~ 0
-SPI LED LATCH 5
+SPI LED LATCH 7
 Text Notes 4650 1200 0    50   ~ 0
 1. DIN SYNC IN/OUT\n2. MIDI IN\n3. MIDI OUT
 $Comp
