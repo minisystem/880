@@ -7093,7 +7093,7 @@ F 3 "" H 7475 2550 60  0000 C CNN
 	1    7475 2550
 	0    1    1    0   
 $EndComp
-Text Notes 750  29025 0    100  ~ 0
+Text Notes 750  29025 0    200  ~ 40
 A: LOG TAPER\nB: LINEAR TAPER\nC: ANTI-LOG TAPER
 Text Notes 23600 2350 0    100  ~ 0
 **
