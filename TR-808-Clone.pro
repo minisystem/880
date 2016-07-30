@@ -1,4 +1,4 @@
-update=2016-03-04 12:41:58 PM
+update=2016-07-29 9:30:16 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -57,8 +57,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=E:/Documents/KiCad/MyLibs/MySynthParts
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -69,3 +67,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
