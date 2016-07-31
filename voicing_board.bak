@@ -926,8 +926,6 @@ F 3 "" H 8000 7375 60  0000 C CNN
 	1    8000 7375
 	1    0    0    -1  
 $EndComp
-Text Notes 2300 6025 0    60   ~ 0
-ADJUST THIS DIVIDER\nFOR 12V OPERATION???
 $Comp
 L TL072- U6-1
 U 1 1 5693E52C
@@ -5739,7 +5737,7 @@ Wire Wire Line
 Wire Wire Line
 	1850 8325 1850 8475
 NoConn ~ 1600 8475
-Text Notes 2475 6300 0    60   ~ 0
+Text Notes 2500 6300 0    60   ~ 0
 Change R60 to 7.5K\nfor 5V at Q9 emitter
 Text Notes 9675 12925 0    60   ~ 0
 Increase C41 to \naccommodate 1meg pot\nisntead of 2meg pot?
@@ -5767,4 +5765,6 @@ F 3 "" H 12000 4300 50  0000 L CNN
 	1    12000 4300
 	-1   0    0    -1  
 $EndComp
+Text Notes 2350 6125 0    60   ~ 0
+ADJUST THIS DIVIDER\nFOR 12V OPERATION\n\n
 $EndSCHEMATC
