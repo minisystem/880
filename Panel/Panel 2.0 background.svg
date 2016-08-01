@@ -213,9 +213,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="3.668675"
-     inkscape:cx="975.17201"
-     inkscape:cy="73.484279"
+     inkscape:zoom="1.2970725"
+     inkscape:cx="666.65001"
+     inkscape:cy="65.697087"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1344,7 +1344,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.5772358,0,0,1.5772358,591.39157,49.82597)"
+       transform="matrix(1.5772358,0,0,1.5772358,591.39157,53.369277)"
        id="g9687">
       <path
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2996,12 +2996,12 @@
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1022.247,719.47173 0,34.37006"
+       d="m 1022.247,723.01504 0,34.37006"
        id="path9691"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1005.062,736.65675 34.3701,0"
+       d="m 1005.062,740.20006 34.3701,0"
        id="path9693"
        inkscape:connector-curvature="0" />
     <path
@@ -5075,7 +5075,7 @@
     <rect
        ry="6.4197097e-017"
        rx="9.2593559e-017"
-       y="757.73291"
+       y="761.27625"
        x="1006.6408"
        height="10.820082"
        width="31.212311"
@@ -5529,12 +5529,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text5969"
-       y="766.31512"
+       y="769.85846"
        x="1007.9221"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.78945541px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.85963726px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#b3b3b3;fill-opacity:1"
-         y="766.31512"
+         y="769.85846"
          x="1007.9221"
          id="tspan5971"
          sodipodi:role="line">SHIFT</tspan></text>
@@ -7926,13 +7926,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.78945541px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="991.90741"
-       y="777.85706"
+       y="781.40039"
        id="text8334"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8336"
          x="991.90741"
-         y="777.85706"
+         y="781.40039"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.85963726px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff6600;fill-opacity:1">WRITE/NEXT</tspan></text>
     <rect
        ry="1.0126008e-016"
@@ -8321,7 +8321,7 @@
     <circle
        id="circle49797"
        r="16.830704"
-       cy="1024.0189"
+       cy="1027.5623"
        cx="1022.247"
        style="fill:#000000;fill-opacity:0;stroke:#b3b3b3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
@@ -9720,7 +9720,7 @@
     <circle
        style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        cx="1022.2471"
-       cy="1024.0189"
+       cy="1027.5623"
        r="16.830704"
        id="circle5934" />
     <circle
