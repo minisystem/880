@@ -5768,5 +5768,5 @@ $EndComp
 Text Notes 2350 6125 0    60   ~ 0
 ADJUST THIS DIVIDER\nFOR 12V OPERATION\n\n
 Text Notes 9750 3750 0    60   ~ 0
-Simulate this OH decay circuit
+Simulate this OH decay circuit!
 $EndSCHEMATC
