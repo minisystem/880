@@ -3,7 +3,7 @@
   (general
     (links 2002)
     (no_connects 62)
-    (area 49.388543 38.138999 368.325001 180.800002)
+    (area 67.924999 50.924999 368.075001 156.075001)
     (thickness 1.6)
     (drawings 346)
     (tracks 7112)
@@ -29425,7 +29425,7 @@
   )
 
   (module synth:CONN-2X3-0100R (layer B.Cu) (tedit 51DDD458) (tstamp 57A150A1)
-    (at 156.25 144.25)
+    (at 162 145.25)
     (path /569FCCE7/57DDE11C)
     (fp_text reference P4 (at 0 6.985) (layer B.SilkS) hide
       (effects (font (thickness 0.3048)) (justify mirror))
