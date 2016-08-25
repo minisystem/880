@@ -1,0 +1,112 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:MySynthParts
+LIBS:step_switch_board-cache
+EELAYER 25 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TACT_SWITCH SW?
+U 1 1 569A34F9
+P 2700 1300
+F 0 "SW?" V 2850 1525 50  0000 C CNN
+F 1 "B3W-4050" V 2600 1300 50  0000 C CNN
+F 2 "MyModules:BF-4050-OMRON" H 2700 1150 60  0001 C CNN
+F 3 "" H 2700 1150 60  0000 C CNN
+	1    2700 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X01 P?
+U 1 1 57BF387D
+P 2025 1550
+F 0 "P?" H 2025 1650 50  0000 C CNN
+F 1 "CONN_01X01" V 2125 1550 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 2025 1550 60  0001 C CNN
+F 3 "" H 2025 1550 60  0000 C CNN
+	1    2025 1550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2225 875  2225 1550
+Wire Wire Line
+	2450 1300 2225 1300
+Connection ~ 2225 1300
+Wire Wire Line
+	3075 875  3075 1550
+Wire Wire Line
+	2950 1300 3075 1300
+Connection ~ 3075 1300
+$Comp
+L CONN_01X01 P?
+U 1 1 57BF3A4E
+P 2025 875
+F 0 "P?" H 2025 975 50  0000 C CNN
+F 1 "CONN_01X01" V 2125 875 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 2025 875 60  0001 C CNN
+F 3 "" H 2025 875 60  0000 C CNN
+	1    2025 875 
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P?
+U 1 1 57BF3A77
+P 3275 875
+F 0 "P?" H 3275 975 50  0000 C CNN
+F 1 "CONN_01X01" V 3375 875 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 3275 875 60  0001 C CNN
+F 3 "" H 3275 875 60  0000 C CNN
+	1    3275 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P?
+U 1 1 57BF3AB3
+P 3275 1550
+F 0 "P?" H 3275 1650 50  0000 C CNN
+F 1 "CONN_01X01" V 3375 1550 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01" H 3275 1550 60  0001 C CNN
+F 3 "" H 3275 1550 60  0000 C CNN
+	1    3275 1550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
