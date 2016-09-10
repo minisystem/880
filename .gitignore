@@ -4,6 +4,9 @@ Gerbers/
 shapes3D/
 _autosave*
 *.wrl
+*.bak
+/Panel/*.bak
+/Panel/*.ems
 *.svg.2016_*
 /step_switch_board/Gerbers/
 /step_switch_board/shapes3D/

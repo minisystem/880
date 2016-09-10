@@ -3,7 +3,7 @@
   (general
     (links 6)
     (no_connects 0)
-    (area -8.300001 -6.300001 8.050001 6.300001)
+    (area -11.858333 -8.1214 11.608334 10.825)
     (thickness 1.6)
     (drawings 4)
     (tracks 11)
@@ -248,11 +248,6 @@
       (net 2 "Net-(P3-Pad1)"))
     (pad "" np_thru_hole circle (at 0 -4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 0 4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-black-cap.wrl"
-      (at (xyz 0 0 0))
-      (scale (xyz 0.3937 0.3937 0.3937))
-      (rotate (xyz -90 0 0))
-    )
   )
 
   (gr_line (start -8.25 6.25) (end -8.25 -6.25) (angle 90) (layer Edge.Cuts) (width 0.1))
