@@ -26401,6 +26401,11 @@
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-black-cap.wrl"
+      (at (xyz 0 0 0.135))
+      (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module MyModules:BF-4050-PCB-ADAPT (layer F.Cu) (tedit 57C8A362) (tstamp 56A3095F)
@@ -26434,7 +26439,7 @@
       (rotate (xyz 0 0 0))
     )
     (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-black-cap.wrl"
-      (at (xyz 0 0 0.1))
+      (at (xyz 0 0 0.135))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
     )
@@ -26469,6 +26474,11 @@
       (at (xyz 0 0 0.1))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
+    )
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-black-cap.wrl"
+      (at (xyz 0 0 0.135))
+      (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -32243,7 +32253,7 @@
     (pad 1 thru_hole circle (at -2.5 7.5) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask F.SilkS)
       (net 2 GND))
     (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/ALPHA-9MM-15-T18.wrl"
-      (at (xyz 0 0 0))
+      (at (xyz 0 0 0.295))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 180 0))
     )
