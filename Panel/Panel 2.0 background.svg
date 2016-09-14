@@ -213,9 +213,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="14.6747"
-     inkscape:cx="123.56321"
-     inkscape:cy="126.16678"
+     inkscape:zoom="0.91716876"
+     inkscape:cx="581.91261"
+     inkscape:cy="66.169082"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -1514,7 +1514,7 @@
        id="circle9931"
        inkscape:connector-curvature="0" />
     <g
-       transform="translate(-138.89112,-180.0735)"
+       transform="matrix(1,0,0,0.97744359,-138.89112,-159.47529)"
        style="display:inline"
        id="g10332">
       <path
@@ -1780,15 +1780,15 @@
        cx="244.49399"
        cy="548.86139"
        id="circle6262"
-       r="5.4921207" />
+       r="5.6692863" />
     <circle
-       r="5.4921207"
+       r="5.6692863"
        id="circle7279"
        cy="404.82281"
        cx="276.37793"
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       r="5.4921207"
+       r="5.6692863"
        id="circle7307"
        cy="595.80963"
        cx="595.2818"
