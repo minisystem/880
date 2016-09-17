@@ -8,7 +8,7 @@
     (drawings 52)
     (tracks 66)
     (zones 0)
-    (modules 38)
+    (modules 45)
     (nets 3)
   )
 
@@ -61,7 +61,7 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 1 9)
+    (pad_size 1 8.5)
     (pad_drill 1)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
@@ -106,6 +106,83 @@
     (uvia_drill 0.1)
     (add_net "Net-(P1-Pad1)")
     (add_net "Net-(P3-Pad1)")
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9AB0)
+    (at 56.75 48)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9AAC)
+    (at 61.75 46.5)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9AA8)
+    (at 60.25 46.5)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCAA44) (tstamp 57DD9AA4)
+    (at 56.75 46.5)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 4 1) (drill oval 4 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9AA0)
+    (at 56.75 45)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9A9C)
+    (at 53.25 46.5)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DD9A98)
+    (at 51.75 46.5)
+    (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole oval (at 0 0) (size 1 1) (drill oval 1) (layers *.Cu *.Mask F.SilkS))
   )
 
   (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCA91A) (tstamp 57DCBE54)
@@ -895,7 +972,7 @@
     (pad "" np_thru_hole circle (at 0 4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCAA9B) (tstamp 57DCB834)
+  (module MyModules:HOLE-0.125-INCH (layer F.Cu) (tedit 57DCAB86) (tstamp 57DCB834)
     (at 56.75 39.75)
     (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -903,7 +980,7 @@
     (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
-    (pad "" np_thru_hole oval (at 0 0) (size 1 9) (drill oval 1 9) (layers *.Cu *.Mask F.SilkS))
+    (pad "" np_thru_hole oval (at 0 0) (size 1 8.5) (drill oval 1 8.5) (layers *.Cu *.Mask F.SilkS))
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x01 (layer B.Cu) (tedit 57BF37B6) (tstamp 57BF370D)
@@ -1048,6 +1125,7 @@
     (pad "" np_thru_hole circle (at 0 4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
   )
 
+  (gr_arc (start 50.25 46.5) (end 50.25 46) (angle 180) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 56.75 30) (end 57.25 30) (angle 180) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 50.25 33) (end 50.25 32.5) (angle 180) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 63.25 33) (end 63.25 33.5) (angle 180) (layer Edge.Cuts) (width 0.1))
@@ -1076,9 +1154,8 @@
   (gr_line (start 57.25 59.5) (end 57.25 49) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 40 59.5) (end 56.25 59.5) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 40 47) (end 40 59.5) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 51.75 47) (end 40 47) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 51.75 46) (end 51.75 47) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 40 46) (end 51.75 46) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 50.25 47) (end 40 47) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 40 46) (end 50.25 46) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 40 33.5) (end 40 46) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 40 20) (end 40 32.5) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 50.25 33.5) (end 40 33.5) (angle 90) (layer Edge.Cuts) (width 0.1))

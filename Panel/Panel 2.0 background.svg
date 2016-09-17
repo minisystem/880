@@ -213,9 +213,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2"
-     inkscape:cx="408.6368"
-     inkscape:cy="85.59295"
+     inkscape:zoom="1"
+     inkscape:cx="502.38764"
+     inkscape:cy="122.02418"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -355,7 +355,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -1798,7 +1798,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Hole Centres"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        transform="translate(-28.677234,-14.163174)"
        inkscape:connector-curvature="0"
