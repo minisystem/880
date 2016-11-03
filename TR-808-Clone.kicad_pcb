@@ -2,11 +2,11 @@
 
   (general
     (links 1990)
-    (no_connects 13)
+    (no_connects 12)
     (area 67.341667 47.825 368.325001 159.375)
     (thickness 1.6)
     (drawings 1061)
-    (tracks 7795)
+    (tracks 7800)
     (zones 0)
     (modules 1047)
     (nets 696)
@@ -14,7 +14,7 @@
 
   (page B)
   (layers
-    (0 F.Cu signal hide)
+    (0 F.Cu signal)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -69,7 +69,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (grid_origin 176.4 61.15)
-    (visible_elements 7FFFA6FF)
+    (visible_elements 7FFFE6FF)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
       (usegerberextensions true)
@@ -4875,13 +4875,13 @@
     )
   )
 
-  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 57C06843) (tstamp 56A2F920)
+  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 581AA5A3) (tstamp 56A2F920)
     (at 239.2 83.2)
     (path /56C8CF40)
     (fp_text reference D63 (at -2.15 -0.2 90) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 0 -1.905) (layer B.SilkS) hide
+    (fp_text value 1N4148 (at -0.1 -0.05) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.508 0.508) (end 0.508 -0.508) (layer B.SilkS) (width 0.15))
@@ -4971,14 +4971,14 @@
     )
   )
 
-  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 56D5E840) (tstamp 56A2F908)
+  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 581A8B53) (tstamp 56A2F908)
     (at 219.75 97 90)
     (path /569884FF)
     (fp_text reference D59 (at -10.65 4.55 360) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 0 -1.905 90) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value 1N4148 (at 0.15 0.05 90) (layer B.SilkS) hide
+      (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
     )
     (fp_line (start 0.508 0.508) (end 0.508 -0.508) (layer B.SilkS) (width 0.15))
     (fp_line (start -0.508 0.508) (end -0.508 -0.508) (layer B.SilkS) (width 0.15))
@@ -4995,14 +4995,14 @@
     )
   )
 
-  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 56D108B2) (tstamp 56A2F902)
+  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 581A58FF) (tstamp 56A2F902)
     (at 203.75 90 270)
     (path /569845E9)
     (fp_text reference D58 (at -2.25 0 360) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 0 -1.905 270) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value 1N4148 (at -0.05 -0.05 270) (layer B.SilkS) hide
+      (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
     )
     (fp_line (start 0.508 0.508) (end 0.508 -0.508) (layer B.SilkS) (width 0.15))
     (fp_line (start -0.508 0.508) (end -0.508 -0.508) (layer B.SilkS) (width 0.15))
@@ -5019,14 +5019,14 @@
     )
   )
 
-  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 56D50EB9) (tstamp 56A2F8FC)
+  (module MyModules:SOD323-C1A2 (layer B.Cu) (tedit 581A5881) (tstamp 56A2F8FC)
     (at 205.75 97 90)
     (path /56984617)
     (fp_text reference D57 (at -10.45 7.75 180) (layer B.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 0 -1.905 90) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value 1N4148 (at -0.15 0.05 90) (layer B.SilkS) hide
+      (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
     )
     (fp_line (start 0.508 0.508) (end 0.508 -0.508) (layer B.SilkS) (width 0.15))
     (fp_line (start -0.508 0.508) (end -0.508 -0.508) (layer B.SilkS) (width 0.15))
@@ -35085,6 +35085,11 @@
   (segment (start 132.19964 74.8001) (end 132.19964 73.75) (width 0.25) (layer B.Cu) (net 37))
   (segment (start 135.23 75.75) (end 135.25 75.77) (width 0.25) (layer B.Cu) (net 37))
   (segment (start 135.25 75.77) (end 135.25 77.3991) (width 0.25) (layer B.Cu) (net 37))
+  (segment (start 240.7 94.95) (end 240.7 95.8491) (width 0.25) (layer F.Cu) (net 38))
+  (segment (start 240.7 95.8491) (end 240.75 95.8991) (width 0.25) (layer F.Cu) (net 38))
+  (segment (start 240.59964 97.1) (end 240.59964 95.05036) (width 0.25) (layer B.Cu) (net 38))
+  (segment (start 240.59964 95.05036) (end 240.7 94.95) (width 0.25) (layer B.Cu) (net 38))
+  (via (at 240.7 94.95) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 38))
   (segment (start 336 97.27) (end 335.39948 97.27) (width 0.25) (layer B.Cu) (net 38))
   (segment (start 335.39948 97.27) (end 334.62948 96.5) (width 0.25) (layer B.Cu) (net 38))
   (segment (start 334.62948 96.5) (end 333.4 96.5) (width 0.25) (layer B.Cu) (net 38))
