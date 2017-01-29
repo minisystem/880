@@ -1,7 +1,7 @@
-SYSTEM 79 Eurorack 808 Rhythm Composer
+SYSTEM 80 Eurorack 808 Rhythm Composer
 ======================================
 
-This is a clone of the Roland TR-808 Rhythm Composer, formatted for Eurorack. It is currently under heavy development.
+This is a clone of the TR-808 drum machine, formatted for Eurorack. It is currently under heavy development.
 
 Hardware design by Minisystem: jeff@minisystem.ca 
 

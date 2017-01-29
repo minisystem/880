@@ -213,9 +213,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="234.79751"
-     inkscape:cy="308.70717"
+     inkscape:zoom="3.3539924"
+     inkscape:cx="340.33094"
+     inkscape:cy="42.598782"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -275,7 +275,7 @@
        orientation="1,0"
        id="guide8342" />
     <sodipodi:guide
-       position="212.59565,31.89654"
+       position="274.51517,5.6883136"
        orientation="0,1"
        id="guide8356" />
     <sodipodi:guide
@@ -283,7 +283,7 @@
        orientation="1,0"
        id="guide8358" />
     <sodipodi:guide
-       position="372.05306,343.69828"
+       position="320.66749,31.89654"
        orientation="1,0"
        id="guide8360" />
     <sodipodi:guide
@@ -303,7 +303,7 @@
        orientation="0,1"
        id="guide5845" />
     <sodipodi:guide
-       position="244.49399,172.73366"
+       position="228.54151,15.95161"
        orientation="1,0"
        id="guide6351" />
     <sodipodi:guide
@@ -319,11 +319,11 @@
        orientation="0,1"
        id="guide7123" />
     <sodipodi:guide
-       position="182.47852,31.89654"
+       position="143.16984,266.76064"
        orientation="1,0"
        id="guide8340" />
     <sodipodi:guide
-       position="308.27341,343.69827"
+       position="274.60252,31.896558"
        orientation="1,0"
        id="guide6245" />
     <sodipodi:guide
@@ -355,7 +355,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -6911,31 +6911,19 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.85963726px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff6600"
            id="tspan7081">SYNC</tspan></text>
     </g>
-    <g
-       id="g6292"
-       transform="translate(-70.152221,-0.01397714)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0.7090528;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7091"
-         width="56.501461"
-         height="8.1492147"
-         x="275.70435"
-         y="755.34875"
-         rx="1.6761566e-016"
-         ry="4.8350454e-017" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.09209156px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="277.22214"
-         y="762.07001"
-         id="text7093"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan7095"
-           x="277.22214"
-           y="762.07001"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.39472771px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#b3b3b3;fill-opacity:1">MIDI CHANNEL</tspan></text>
-    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7093"
+       y="768.67078"
+       x="258.46066"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.81656456px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0085992,0.99147412)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.21104336px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none"
+         y="768.67078"
+         x="258.46066"
+         id="tspan7095"
+         sodipodi:role="line">MIDI CH</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7131"
@@ -6980,7 +6968,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffeeaa;stroke-width:0.64968216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g6287"
-       transform="translate(-71.294017,-0.01580815)">
+       transform="translate(66.733301,-0.01580815)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:0.70829791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect8342"
@@ -8342,6 +8330,79 @@
            id="tspan20080"
            sodipodi:role="line">BANK</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect26511"
+       width="15.055219"
+       height="8.5851402"
+       x="135.64223"
+       y="487.74756" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.09209156px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="137.03705"
+       y="494.6868"
+       id="text26513"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan26515"
+         x="137.03705"
+         y="494.6868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.39472771px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#b3b3b3;fill-opacity:1">INT</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.70866142;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 143.16984,477.41033 0,10.33723"
+       id="path26517"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text26519"
+       y="761.95831"
+       x="182.5074"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.09209156px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan26521"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.39472771px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffeeaa;fill-opacity:1"
+         y="761.95831"
+         x="182.5074"
+         sodipodi:role="line">NUM</tspan></text>
+    <g
+       id="g26539"
+       transform="translate(693.18475,-70.536108)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#050403;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect26541"
+         width="23.762484"
+         height="8.2463427"
+         x="241.00499"
+         y="754.52991"
+         rx="7.0493126e-017"
+         ry="4.8926717e-017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.09209156px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#050403;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="242.52893"
+         y="761.29974"
+         id="text26543"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26545"
+           x="242.52893"
+           y="761.29974"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.39472771px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#050403;fill-opacity:1">FUNC</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.09209156px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="228.53249"
+       y="761.95831"
+       id="text26547"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="228.53249"
+         y="761.95831"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.39472771px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffeeaa;fill-opacity:1"
+         id="tspan26549">EDIT</tspan></text>
   </g>
   <g
      inkscape:label="Silk Screen Template"
