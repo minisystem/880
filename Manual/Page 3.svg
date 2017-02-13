@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Control Descriptions.svg">
+   sodipodi:docname="Page 3.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82871581"
-     inkscape:cx="349.58079"
-     inkscape:cy="489.79648"
+     inkscape:cx="353.76048"
+     inkscape:cy="704.96612"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -283,33 +283,6 @@
          x="24.679668"
          sodipodi:role="line" /></text>
     <text
-       id="text7025"
-       y="215.85052"
-       x="135.83107"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       xml:space="preserve"
-       sodipodi:linespacing="110%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         y="215.85052"
-         x="135.83107"
-         sodipodi:role="line"
-         id="tspan7040">When the Rythtm Composer is set to use an ex-</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         y="219.34302"
-         x="135.83107"
-         sodipodi:role="line"
-         id="tspan7044">ternal clock source, the Tempo Control knob be-</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         y="222.83553"
-         x="135.83107"
-         sodipodi:role="line"
-         id="tspan7046">comes inactive.</tspan><tspan
-         id="tspan7033"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         y="226.32802"
-         x="135.83107"
-         sodipodi:role="line" /></text>
-    <text
        id="text7052"
        y="29.84165"
        x="198.37224"
@@ -361,27 +334,14 @@
            width="100%"
            height="100%"
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
-         id="flowPara7148">The MODE selector control is located in the upper left corner of the control panel and is used to select different operations for both programming and play playing the instrument. Pressing the MODE key cycles through each of the six modes:  PATTERN </flowPara></flowRoot>    <rect
+         id="flowPara7148">The MODE selector control is located in the upper left corner of the control panel and is used to select different operations for both programming and playing the instrument. Pressing the MODE key cycles through each of the six modes:  PATTERN CLEAR, </flowPara></flowRoot>    <rect
        y="32.418083"
        x="135.83331"
        height="18.665201"
-       width="66"
+       width="67"
        id="rect7150"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7196"
-       transform="translate(0,1.7575026)"><flowRegion
-         id="flowRegion7198"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7150"
-           id="use7200"
-           width="100%"
-           height="100%"
-           transform="translate(0.09543776,-1.7572103)" /></flowRegion><flowPara
-         id="flowPara7202">CLEAR, 1st PART, 2nd PART, MANUAL PLAY, PLAY, and COMPOSE. Holding the SHIFT/WRITE key while pressing the MODE key reverses the dir-ection of the selection cycle.</flowPara></flowRoot>    <rect
+    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7204"
        width="67"
@@ -401,7 +361,7 @@
            width="100%"
            height="100%"
            transform="translate(0.07638776,7.617764)" /></flowRegion><flowPara
-         id="flowPara7212">erns are initialized to 16 steps for the 1st part and 0 steps for the 2nd part. The red CLEAR button is used in combination with the step switches to determine the number of steps in a pattern. A combi-nation of different pattern lengths and PRE-SCALE settings allows different time signatures to be achieved.</flowPara></flowRoot>    <rect
+         id="flowPara7212">of up to 32 steps, the 2nd PART mode is used. Patt-erns are initialized to 16 steps for the 1st part and 0 steps for the 2nd part. The red CLEAR button is used in combination with the step switches to determine the number of steps in a pattern. A combination of different pattern lengths and PRE-SCALE settings allows diff-erent time signatures to be achieved.</flowPara></flowRoot>    <rect
        y="130.62355"
        x="66.092064"
        height="17.053032"
@@ -428,7 +388,7 @@
            width="100%"
            height="100%"
            transform="translate(0.10178776,-1.7542907)" /></flowRegion><flowPara
-         id="flowPara7228">cleared using the red CLEAR button. Programming the sequencer of Rhythm Patterns is accomplished with the STEP buttons and the SHIFT/WRITE key.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7228">cleared using the red CLEAR button. Programming the sequence of Rhythm Patterns is accomplished with the STEP buttons and the SHIFT/WRITE key.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot7230"
@@ -444,7 +404,7 @@
          id="flowPara7236">The COMPOSE mode allows any of the Rhythm Patterns stored in memory to be linked together into a composition called a Rhythm Track. Each of the 12 Rhythm Tracks can contain a unique sequence of up to 64 patterns.  The Rhythm Track memories can be </flowPara></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7248"
-       width="64.700005"
+       width="66"
        height="51.977409"
        x="66.080383"
        y="157.86168" />
@@ -470,7 +430,7 @@
        x="135.92876"
        y="157.87247" />
     <rect
-       y="211.88019"
+       y="213.70358"
        x="135.92876"
        height="20.93277"
        width="66"
@@ -486,19 +446,6 @@
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7260"
-       transform="translate(-0.01168,1.7717409)"><flowRegion
-         id="flowRegion7262"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7248"
-           id="use7264"
-           width="100%"
-           height="100%"
-           transform="translate(0.01168,-1.7717409)" /></flowRegion><flowPara
-         id="flowPara7266">There are 12 Instrument/Track selector buttons.  When programming Rhythm Patterns these butt-ons are used to select a drum voice or Accent to program From the left the drum voices are AC (ACCENT), BD (BASS DRUM), SD (SNARE DRUM), LT (LOW TOM) or LOW CONGA), MT (MID TOM or MID CONGA), HT  (HI TOM or HI CONGA), RS (RIM SHOT or CLAVES), CP (HANDCLAP or MARA- CAS), CB (COWBELL), CY (CYMBAL), OH (OPEN HIHAT), and CH (CLOSED HIHAT). When two optons are available, you can press the Instrument button again to toggle between the two available instruments. </flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861113px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot7268"
        transform="translate(-6.9751884e-6,1.8783995)"><flowRegion
          id="flowRegion7270"><use
@@ -509,9 +456,9 @@
            width="100%"
            height="100%"
            transform="translate(6.9751884e-6,-1.8783995)" /></flowRegion><flowPara
-         id="flowPara7274">Drum voices with two instruments can be pro-grammed independently on different steps of the same pattern and the drum voice will automatic- ally switch between instruments on each step.</flowPara><flowPara
-         id="flowPara7278"> </flowPara><flowPara
-         id="flowPara7276">Holding the SHIFT/WRITE key whilst pressing an instrument will toggle its MUTE function.  The In-strument/Track selectors are also used to select the 12 memories available for composing Rhythm Tracks in COMPOSE mode and playing any in- dividual Rhythm Track in PLAY mode.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7274">Drum voices with two instruments can be programmed independently on different steps of the same pattern and the drum voice will automatically switch between instruments on each step.</flowPara><flowPara
+         id="flowPara7278" /><flowPara
+         id="flowPara7276">Holding the SHIFT/WRITE key whilst pressing an instrument will toggle its MUTE function.  The In-strument/Track selectors are also used to select the 12 memories available for composing Rhythm Tracks in COMPOSE mode and playing any individual Rhythm Track in PLAY mode.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot7296"
@@ -546,8 +493,10 @@
            x="0"
            y="0"
            xlink:href="#rect7316"
-           id="use7332" /></flowRegion><flowPara
-         id="flowPara7334">The MANUAL PLAY mode is a performance mode that allows you to play any of the Rhythm Patterns stored in memory. Additionally, it offers automatic switching for intros and fills. Shuffle and instrument rolls can be used in MANUAL PLAY mode to further provise during performance.</flowPara></flowRoot>    <flowRoot
+           id="use7332"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara7334">The MANUAL PLAY mode is a performance mode that allows you to play any of the Rhythm Patterns stored in memory. Additionally, it offers automatic switching for intros and fills. Shuffle and instrument rolls can be used in MANUAL PLAY mode to further improvise during performance.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot7336"><flowRegion
@@ -558,7 +507,7 @@
            id="use7340"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara7342">The PLAY mode allows you to play any of the 12 rhythm tracks stored in memory.  The rhythm tracks are selected using the INSTRUMENT/TRACK buttons.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7342">The PLAY mode allows you to play any of the 12 Rhythm Tracks stored in memory.  The Rhythm Tracks are selected using the INSTRUMENT/TRACK buttons.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot7354"><flowRegion
@@ -580,7 +529,7 @@
            id="use7366"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara7368">The AUTO FILL IN selector is used to insert Fill In Rhythm Patterns whilst playing in MANUAL PLAY mode. Pressing the AUTO FILL IN selector button cycles through the six different fill options. The first fill op-tion is MANUAL which allows Fill In Rhythms  to be inserted manually by pressing the TAP button. Auto-matic insertion of the Fill In Rhythm is accomplished in any of the remaining five options: 16, 12, 8, 4 and 2. Automatic insertion occurs every 16th measure, every 12th measure, every 8th measure, etc.</flowPara></flowRoot>    <rect
+         id="flowPara7368">The AUTO FILL IN selector is used to insert Fill In Rhythm Patterns whilst playing in MANUAL PLAY mode. Pressing the AUTO FILL IN selector button cycles through the six different fill options. The first fill option is MANUAL which allows Fill In Rhythms  to be inserted manually by pressing the TAP button. Auto-matic insertion of the Fill In Rhythm is accomplished with any of the remaining five options: 16, 12, 8, 4 and 2. Automatic insertion occurs every 16th measure, every 12th measure, every 8th measure, etc.</flowPara></flowRoot>    <rect
        y="60.397472"
        x="66.092064"
        height="33.69503"
@@ -598,5 +547,41 @@
            id="use7376"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara7378">The PATTERN CLEAR mode is used to clear patt- erns from memory so that Rhythm Patterns can be reprogrammed. The red CLEAR button is used to activate the CLEAR function whilst in PATTERN CLEAR mode. The 1st PART mode is used to pro-gram the first  section of a pattern. Patterns with 16 or fewer steps can be programmed using just the 1st part of the pattern programming mode.  To create patterns of up to 32 steps, the 2nd PART mode is used. Patt-</flowPara></flowRoot>  </g>
+         id="flowPara7378">The PATTERN CLEAR mode is used to clear patt- erns from memory so that Rhythm Patterns can be reprogrammed. The red CLEAR button is used to activate the CLEAR function whilst in PATTERN CLEAR mode. The 1st PART mode is used to pro-gram the first  section of a pattern. Patterns with 16 or fewer steps can be programmed using just the 1st part of the pattern programming mode.  To create patterns </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot9107"><flowRegion
+         id="flowRegion9109"><use
+           x="0"
+           y="0"
+           xlink:href="#rect7150"
+           id="use9111"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara9113">1st PART, 2nd PART, MANUAL PLAY, PLAY, and COMPOSE. Holding the SHIFT/WRITE key while pressing the MODE key reverses the direction of the selection cycle.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot9115"><flowRegion
+         id="flowRegion9117"><use
+           x="0"
+           y="0"
+           xlink:href="#rect7248"
+           id="use9119"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara9121">There are 12 Instrument/Track selector buttons.  When programming Rhythm Patterns these buttons are used to select a drum voice or Accent to program. From the left the drum voices are AC (ACCENT), BD (BASS DRUM), SD (SNARE DRUM), LT/LC (LOW TOM or LOW CONGA), MT/MC (MID TOM or MID CONGA), HT/HC  (HI TOM or HI CONGA), RS/CL (RIM SHOT or CLAVES), CP/MA (HANDCLAP or MARACAS), CB (COWBELL), CY (CYMBAL), OH (OPEN HIHAT), and CH (CLOSED HIHAT). When two options are avail-able, you can press the Instrument button a second time to toggle between the two available instruments. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot9129"><flowRegion
+         id="flowRegion9131"><use
+           x="0"
+           y="0"
+           xlink:href="#rect7256"
+           id="use9133"
+           transform="translate(0,-1.823395)"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara9135">When the Rhythm Composer is set to use an external 
+clock source, the Tempo Control knob becomes inactive.
+</flowPara></flowRoot>  </g>
 </svg>
