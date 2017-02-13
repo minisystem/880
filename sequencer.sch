@@ -4535,8 +4535,6 @@ Text GLabel 2425 3800 2    60   Output ~ 0
 SYNC_IN
 Text GLabel 12700 3375 2    50   Input ~ 0
 SYNC_IN
-Text Notes 4325 6400 0    50   ~ 0
-SW3 BASIC VAR B \nneeds to be deleted
 Text GLabel 12700 2625 2    50   Output ~ 0
 SYNC_LED_R
 Text GLabel 4200 4175 0    50   Input ~ 0
@@ -4663,7 +4661,6 @@ Wire Wire Line
 	10675 10050 10675 10325
 Wire Wire Line
 	10675 10325 11100 10325
-NoConn ~ 2650 8000
 $Comp
 L GND_E #PWR0486
 U 1 1 56E52AD1
@@ -4789,4 +4786,23 @@ Wire Wire Line
 	7175 3725 7250 3725
 Wire Wire Line
 	7175 3825 7250 3825
+$Comp
+L GND_E #PWR?
+U 1 1 5893EC46
+P 3000 8000
+F 0 "#PWR?" V 3000 8000 30  0001 C CNN
+F 1 "GND_E" H 3000 7930 30  0001 C CNN
+F 2 "~" H 3000 8000 60  0000 C CNN
+F 3 "~" H 3000 8000 60  0000 C CNN
+	1    3000 8000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 8000 2775 8000
+Wire Wire Line
+	2775 8000 2775 7950
+Wire Wire Line
+	2775 7950 3000 7950
+Wire Wire Line
+	3000 7950 3000 8000
 $EndSCHEMATC
