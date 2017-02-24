@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="395.85442"
-     inkscape:cy="873.20605"
+     inkscape:cx="374.17501"
+     inkscape:cy="-8.1407562"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="450.54,1133.48"
      inkscape:measure-end="197.194,1129"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,10 +163,10 @@
            height="100%"
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
          id="flowPara7148">Each drum voice has a LEVEL control at the top of each group of instrument controls. The LEVEL control is used to control the level of the drum voice in the MASTER OUTPUT mix. RIM SHOT/CLAVES, HAND CLAP/MARACAS, COWBELL, and CLOSED HIHAT only have a LEVEL control, whereas the other drum voices have additional controls for adjusting the sound of the instrument.</flowPara><flowPara
-         id="flowPara8045"></flowPara><flowPara
+         id="flowPara8045" /><flowPara
          id="flowPara8047" /><flowPara
-         id="flowPara8049"></flowPara><flowPara
-         id="flowPara8051"> </flowPara></flowRoot>    <rect
+         id="flowPara8049" /><flowPara
+         id="flowPara8051" /></flowRoot>    <rect
        y="32.418083"
        x="135.83331"
        height="18.665201"
@@ -243,7 +243,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara8169">The last 4 STEP buttons are used to select one of the</flowPara><flowPara
          id="flowPara8421">4 INTRO/FILL INs. When the START/STOP button is pressed the selected BASIC RHYTHM pattern will begin to play unless the TAP button is used to changed the priority to the selected INTRO/FILL IN pattern. The priority between the BASIC RHYTHM and INTRO/FILL  IN pattern is indicated by their LEDs flashing.</flowPara><flowPara
-         id="flowPara8171"></flowPara><flowPara
+         id="flowPara8171" /><flowPara
          id="flowPara8175">While holding the SHIFT/WRITE key, the STEP buttons</flowPara><flowPara
          id="flowPara8173">are used to select different SHUFFLE amounts and ROLL modes.</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -306,7 +306,7 @@
            y="0"
            x="0" /></flowRegion><flowPara
          id="flowPara8217">The solid LED indicates the current mode playing and the flashing LED indicates the mode that is waiting to play once the current measure has finished.  </flowPara><flowPara
-         id="flowPara8254"></flowPara><flowPara
+         id="flowPara8254" /><flowPara
          id="flowPara8256">The BASIC VARIATION button is also used in combination with the SHIFT/WRITE key to access different banks of Rhythm Patterns. </flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8258"
@@ -424,7 +424,7 @@
            y="0"
            x="0" /></flowRegion><flowPara
          id="flowPara8359">PRE-SCALE and activate the ALT functions in comb-ination with the IF/VAR button.</flowPara><flowPara
-         id="flowPara8365"></flowPara><flowPara
+         id="flowPara8365" /><flowPara
          id="flowPara8367">In COMPOSE mode, the SHIFT/WRITE key is used to advance to the next pattern when writing Rhythm Tracks.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8369"

@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Page 3.svg">
+   sodipodi:docname="Page 5.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1719811"
-     inkscape:cx="464.00272"
-     inkscape:cy="679.95649"
+     inkscape:cx="482.08377"
+     inkscape:cy="631.60205"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,33 +79,13 @@
        orientation="1,0"
        id="guide7136" />
     <sodipodi:guide
-       position="49.847219,236.59712"
-       orientation="0,1"
-       id="guide7288" />
-    <sodipodi:guide
-       position="76.113749,248.47559"
+       position="66.089065,118.46626"
        orientation="0,1"
        id="guide7290" />
     <sodipodi:guide
-       position="32.02744,166.37645"
+       position="80.189007,156.34953"
        orientation="0,1"
-       id="guide7292" />
-    <sodipodi:guide
-       position="48.358624,139.12754"
-       orientation="0,1"
-       id="guide7294" />
-    <sodipodi:guide
-       position="47.166686,62.36365"
-       orientation="0,1"
-       id="guide7312" />
-    <sodipodi:guide
-       position="73.38932,207.82783"
-       orientation="0,1"
-       id="guide7314" />
-    <sodipodi:guide
-       position="52.72534,83.29642"
-       orientation="0,1"
-       id="guide7352" />
+       id="guide8116" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -115,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,134 +134,7 @@
          y="35.828453"
          x="24.111706"
          id="tspan4311"
-         sodipodi:role="line">Mode Selector</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="24.226927"
-       y="22.674969"
-       id="text4410"><tspan
-         sodipodi:role="line"
-         id="tspan4408"
-         x="24.226927"
-         y="22.674969"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Control</tspan><tspan
-         sodipodi:role="line"
-         x="24.226927"
-         y="28.672192"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
-         id="tspan4412">Descriptions</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path4496"
-       d="m 24.466817,58.620287 177.000003,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.358641"
-       y="63.786152"
-       id="text4500"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="24.358641"
-         y="63.786152"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan4502">Rhythm Pattern </tspan><tspan
-         sodipodi:role="line"
-         x="24.358641"
-         y="68.372261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan4506">Programming Modes</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,98.31362 177.000003,0"
-       id="path4638"
-       inkscape:connector-curvature="0" />
-    <text
-       id="text4644"
-       y="103.4795"
-       x="24.358641"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4640"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="103.4795"
-         x="24.358641"
-         sodipodi:role="line">Play Modes </tspan><tspan
-         id="tspan4642"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="108.41839"
-         x="24.358641"
-         sodipodi:role="line" /></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path4853"
-       d="m 24.466817,128.89603 177.000003,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.555843"
-       y="134.06186"
-       id="text4859"><tspan
-         sodipodi:role="line"
-         x="24.555843"
-         y="134.06186"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan4855">Compose Mode </tspan><tspan
-         sodipodi:role="line"
-         x="24.555843"
-         y="139.00075"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan4857" /></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,156.08993 177.000003,0"
-       id="path4949"
-       inkscape:connector-curvature="0" />
-    <text
-       id="text4955"
-       y="161.25574"
-       x="24.555843"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4951"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="161.25574"
-         x="24.555843"
-         sodipodi:role="line">Instrument/Track</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="166.19463"
-         x="24.555843"
-         sodipodi:role="line"
-         id="tspan4971">Selectors </tspan><tspan
-         id="tspan4953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="171.13351"
-         x="24.555843"
-         sodipodi:role="line" /></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,211.97606 177.000003,0"
-       id="path6983"
-       inkscape:connector-curvature="0" />
-    <text
-       id="text6985"
-       y="217.14189"
-       x="24.679668"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan6987"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="217.14189"
-         x="24.679668"
-         sodipodi:role="line">Tempo Control</tspan><tspan
-         id="tspan6989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="222.08078"
-         x="24.679668"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line">Power Connection</tspan></text>
     <text
        id="text7052"
        y="29.84165"
@@ -292,33 +145,12 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          y="29.84165"
          x="198.37224"
-         sodipodi:role="line">3</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path7060"
-       d="m 24.466817,232.90883 177.000003,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.698013"
-       y="238.07466"
-       id="text7062"><tspan
-         sodipodi:role="line"
-         x="24.698013"
-         y="238.07466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan7064">Auto Fill In Selector</tspan><tspan
-         sodipodi:role="line"
-         x="24.698013"
-         y="243.01355"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan7066" /></text>
+         sodipodi:role="line">5</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7140"
        width="65"
-       height="19.005754"
+       height="47.739075"
        x="66.058167"
        y="32.418079" />
     <flowRoot
@@ -334,253 +166,316 @@
            width="100%"
            height="100%"
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
-         id="flowPara7148">The MODE selector control is located in the upper left corner of the control panel and is used to select different operations for both programming and playing the instrument. Pressing the MODE key cycles through each of the six modes:  PATTERN CLEAR, </flowPara></flowRoot>    <rect
+         id="flowPara8051">The Rhythm Composer uses a standard Eurorack non-shrouded/non-keyed power connector and comes with a standard 10 pin to 16 pin Eurorack power cable already fitted. Connect the 16 pin connector to your Eurorack system's power bus.  The Red Stripe on the power cable indicates the -12V conductor.  Should you need to change the power cable you must ensure that the Red Stripe end of cable is aligned with the thick white line next to the power header on the PCB (Figure 1). The module is designed to withstand brief conditions of reverse power, but prolonged connection to reverse polarity will damage the protection diodes and require module </flowPara></flowRoot>    <rect
        y="32.418083"
        x="135.83331"
-       height="18.665201"
+       height="9.4702492"
        width="67"
        id="rect7150"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7204"
-       width="67"
-       height="34.671223"
-       x="135.85237"
-       y="60.392429" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7206"
-       transform="translate(0,-7.5644119)"><flowRegion
-         id="flowRegion7208"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7204"
-           id="use7210"
-           width="100%"
-           height="100%"
-           transform="translate(0.07638776,7.617764)" /></flowRegion><flowPara
-         id="flowPara7212">of up to 32 steps, the 2nd PART mode is used. Patt-erns are initialized to 16 steps for the 1st part and 0 steps for the 2nd part. The red CLEAR button is used in combination with the step switches to determine the number of steps in a pattern. A combination of different pattern lengths and PRE-SCALE settings allows diff-erent time signatures to be achieved.</flowPara></flowRoot>    <rect
-       y="130.62355"
-       x="66.092064"
-       height="17.053032"
-       width="65"
-       id="rect7214"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="130.65031"
-       x="135.82697"
-       height="13.56054"
-       width="67"
-       id="rect7220"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;letter-spacing:-0.13229167px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7222"
-       transform="translate(-0.10178776,1.7542907)"><flowRegion
-         id="flowRegion7224"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7220"
-           id="use7226"
-           width="100%"
-           height="100%"
-           transform="translate(0.10178776,-1.7542907)" /></flowRegion><flowPara
-         id="flowPara7228">cleared using the red CLEAR button. Programming the sequence of Rhythm Patterns is accomplished with the STEP buttons and the SHIFT/WRITE key.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7230"
-       transform="translate(0,1.7542907)"><flowRegion
-         id="flowRegion7232"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7214"
-           id="use7234"
-           width="100%"
-           height="100%"
-           transform="translate(-2.9691303e-6,-1.7275276)" /></flowRegion><flowPara
-         id="flowPara7236">The COMPOSE mode allows any of the Rhythm Patterns stored in memory to be linked together into a composition called a Rhythm Track. Each of the 12 Rhythm Tracks can contain a unique sequence of up to 64 patterns.  The Rhythm Track memories can be </flowPara></flowRoot>    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7248"
-       width="66"
-       height="51.977409"
-       x="66.080383"
-       y="157.86168" />
-    <rect
-       y="213.70358"
-       x="66.092064"
-       height="17.016403"
-       width="67"
-       id="rect7250"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7252"
-       width="67"
-       height="42.324467"
-       x="66.092064"
-       y="234.63635" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7254"
-       width="66"
-       height="43.05901"
-       x="135.92876"
-       y="157.87247" />
-    <rect
-       y="213.70358"
-       x="135.92876"
-       height="20.93277"
-       width="66"
-       id="rect7256"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7258"
-       width="66"
-       height="20.93277"
-       x="135.92876"
-       y="234.63635" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7268"
-       transform="translate(-6.9751884e-6,1.8783995)"><flowRegion
-         id="flowRegion7270"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7254"
-           id="use7272"
-           width="100%"
-           height="100%"
-           transform="translate(6.9751884e-6,-1.8783995)" /></flowRegion><flowPara
-         id="flowPara7274">Drum voices with two instruments can be programmed independently on different steps of the same pattern and the drum voice will automatically switch between instruments on each step.</flowPara><flowPara
-         id="flowPara7278" /><flowPara
-         id="flowPara7276">Holding the SHIFT/WRITE key whilst pressing an instrument will toggle its MUTE function.  The In-strument/Track selectors are also used to select the 12 memories available for composing Rhythm Tracks in COMPOSE mode and playing any individual Rhythm Track in PLAY mode.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7296"
-       transform="translate(-1.3950377e-5,1.727528)"><flowRegion
-         id="flowRegion7298"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7258"
-           id="use7300"
-           width="100%"
-           height="100%"
-           transform="translate(1.3950377e-5,-1.727528)" /></flowRegion><flowPara
-         id="flowPara7302">Holding the SHIFT/WRITE key whilst pressing the AUTO FILL IN key changes the context of the  control to set the SYNC MODE. The SYNC MODE cycles through INTERNAL CLOCK, MIDI IN, DIN SYNC OUT and DIN SYNC IN modes. </flowPara></flowRoot>    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7316"
-       width="65"
-       height="24.173796"
-       x="66.092064"
-       y="100.17414" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7318"
-       width="66.5"
-       height="22.585213"
-       x="135.92876"
-       y="100.17414" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7328"><flowRegion
-         id="flowRegion7330"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7316"
-           id="use7332"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara7334">The MANUAL PLAY mode is a performance mode that allows you to play any of the Rhythm Patterns stored in memory. Additionally, it offers automatic switching for intros and fills. Shuffle and instrument rolls can be used in MANUAL PLAY mode to further improvise during performance.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7336"><flowRegion
-         id="flowRegion7338"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7318"
-           id="use7340"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara7342">The PLAY mode allows you to play any of the 12 Rhythm Tracks stored in memory.  The Rhythm Tracks are selected using the INSTRUMENT/TRACK buttons.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7354"><flowRegion
-         id="flowRegion7356"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7250"
-           id="use7358"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara7360">The Tempo Control sets the tempo of the internal sequencer. The internal sequencer has a tempo range of 30 beats per minute (BPM) to 290 BPM.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7362"><flowRegion
-         id="flowRegion7364"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7252"
-           id="use7366"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara7368">The AUTO FILL IN selector is used to insert Fill In Rhythm Patterns whilst playing in MANUAL PLAY mode. Pressing the AUTO FILL IN selector button cycles through the six different fill options. The first fill option is MANUAL which allows Fill In Rhythms  to be inserted manually by pressing the TAP button. Auto-matic insertion of the Fill In Rhythm is accomplished with any of the remaining five options: 16, 12, 8, 4 and 2. Automatic insertion occurs every 16th measure, every 12th measure, every 8th measure, etc.</flowPara></flowRoot>    <rect
-       y="60.397472"
-       x="66.092064"
-       height="33.69503"
-       width="66"
-       id="rect7370"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot7372"><flowRegion
-         id="flowRegion7374"><use
-           x="0"
-           y="0"
-           xlink:href="#rect7370"
-           id="use7376"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara7378">The PATTERN CLEAR mode is used to clear patt- erns from memory so that Rhythm Patterns can be reprogrammed. The red CLEAR button is used to activate the CLEAR function whilst in PATTERN CLEAR mode. The 1st PART mode is used to pro-gram the first  section of a pattern. Patterns with 16 or fewer steps can be programmed using just the 1st part of the pattern programming mode.  To create patterns </flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot9107"><flowRegion
-         id="flowRegion9109"><use
+       id="flowRoot8053"><flowRegion
+         id="flowRegion8055"><use
            x="0"
            y="0"
            xlink:href="#rect7150"
-           id="use9111"
+           id="use8057"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara9113">1st PART, 2nd PART, MANUAL PLAY, PLAY, and COMPOSE. Holding the SHIFT/WRITE key while pressing the MODE key reverses the direction of the selection cycle.</flowPara></flowRoot>    <flowRoot
+         id="flowPara8059">servicing. Damage caused by reverse polarity is not covered by the warranty.</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path8061"
+       d="m 24.466817,85.008357 177.000003,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="86.773613"
+       x="66.058167"
+       height="36.089878"
+       width="65"
+       id="rect8071"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8089"
+       width="67"
+       height="26.029676"
+       x="135.83331"
+       y="86.737938" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.466817,188.43787 177.000003,0"
+       id="path8177"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text8179"
+       y="193.60544"
+       x="24.111706"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="100%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="193.60544"
+         x="24.111706"
+         sodipodi:role="line"
+         id="tspan8219">Audio Outputs</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8183"
+       width="65"
+       height="31.19179"
+       x="66.058167"
+       y="190.19507" />
+    <rect
+       y="190.19507"
+       x="135.83331"
+       height="31.648418"
+       width="67"
+       id="rect8185"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8258"
+       d="m 24.466817,122.76761 177.000003,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="24.111706"
+       y="127.93519"
+       id="text8260"><tspan
+         id="tspan8264"
+         sodipodi:role="line"
+         x="24.111706"
+         y="127.93519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Sync Input</tspan></text>
+    <rect
+       y="124.55191"
+       x="66.058167"
+       height="23.967554"
+       width="65"
+       id="rect8266"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(0,37.770007)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot9115"><flowRegion
-         id="flowRegion9117"><use
+       id="flowRoot8270"><flowRegion
+         id="flowRegion8272"><use
            x="0"
            y="0"
-           xlink:href="#rect7248"
-           id="use9119"
+           xlink:href="#rect8071"
+           id="use8274"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara9121">There are 12 Instrument/Track selector buttons.  When programming Rhythm Patterns these buttons are used to select a drum voice or Accent to program. From the left the drum voices are AC (ACCENT), BD (BASS DRUM), SD (SNARE DRUM), LT/LC (LOW TOM or LOW CONGA), MT/MC (MID TOM or MID CONGA), HT/HC  (HI TOM or HI CONGA), RS/CL (RIM SHOT or CLAVES), CP/MA (HANDCLAP or MARACAS), CB (COWBELL), CY (CYMBAL), OH (OPEN HIHAT), and CH (CLOSED HIHAT). When two options are avail-able, you can press the Instrument button a second time to toggle between the two available instruments. </flowPara></flowRoot>    <flowRoot
+         id="flowPara8327">The SYNC Input jack is a multi-function input with pro-grammable behaviour. It can be configured as a START/STOP input, FILL IN trigger, PATTERN RESET input, or as a CLOCK input for the internal sequencer.   </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.226927"
+       y="22.674969"
+       id="text4410"><tspan
+         sodipodi:role="line"
+         id="tspan4408"
+         x="24.226927"
+         y="22.674969"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Basic</tspan><tspan
+         sodipodi:role="line"
+         x="24.226927"
+         y="28.672192"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
+         id="tspan4412">Connections</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:9.17222214px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="24.235531"
+       y="90.175987"
+       id="text6799"><tspan
+         sodipodi:role="line"
+         id="tspan6801"
+         x="24.235531"
+         y="90.175987"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:9.17222214px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Trigger Outputs</tspan></text>
+    <g
+       id="g8076"
+       transform="translate(-67.649346,-22.817098)">
+      <g
+         id="g8065">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9986105px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="259.53571"
+           y="90.792114"
+           id="text7435"
+           sodipodi:linespacing="110%"><tspan
+             id="tspan7441"
+             sodipodi:role="line"
+             x="259.53571"
+             y="90.792114"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.06499998">-12V</tspan></text>
+        <text
+           sodipodi:linespacing="110%"
+           id="text9243"
+           y="94.507576"
+           x="245.20453"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9986105px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.06499998"
+             y="94.507576"
+             x="245.20453"
+             sodipodi:role="line"
+             id="tspan9245">RED STRIPE</tspan></text>
+        <g
+           style="display:inline"
+           id="g7429"
+           transform="matrix(0.00254,0,0,0.00254,191.25635,-164.2652)">
+          <g
+             transform="translate(-78.567442,-1394.5731)"
+             id="g7413">
+            <path
+               inkscape:connector-curvature="0"
+               id="path7093"
+               style="fill:none;stroke:#000000;stroke-width:39.37011337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 25151.265,93374.264 93.253,-93.253 m -307.184,93.253 213.931,0 m -307.184,-93.253 93.253,93.253 m -93.253,-93.253 400.437,0 m -400.437,394.951 0,-394.951 m 93.253,301.699 0,-208.446 m -93.253,301.698 93.253,-93.252 m 213.931,-208.446 0,208.446 m 0,0 -213.931,0 m 307.184,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 307.184,1278.105 0,208.446 m 0,-208.446 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.253 93.253,93.253 m -307.184,-301.699 213.931,0 m 0,208.446 -213.931,0 m 0,0 0,-208.446 m -93.253,301.699 0,-394.951 m 0,0 93.253,93.252 m -93.253,301.699 93.253,-93.253 m -93.253,-301.698 400.437,0 m 0,394.951 -400.437,0 m 0,1579.802 0,-394.951 m 0,0 93.253,93.252 m 0,208.447 0,-208.447 m -93.253,301.699 93.253,-93.252 m 213.931,-208.447 93.253,-93.252 m -307.184,93.252 213.931,0 m -307.184,-93.252 400.437,0 m -93.253,93.252 0,208.447 m 0,0 -213.931,0 m 307.184,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 93.253,1278.108 213.931,0 m 0,0 0,208.447 m 0,0 -213.931,0 m 0,0 0,-208.447 m 213.931,0 93.253,-93.253 m 0,0 0,394.952 m -93.253,-93.252 93.253,93.252 m -400.437,-394.952 93.253,93.253 m -93.253,-93.253 400.437,0 m -400.437,394.952 0,-394.952 m 0,394.952 93.253,-93.252 m 307.184,93.252 -400.437,0 m 307.184,1278.103 0,208.447 m 0,-208.447 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,0 93.253,93.252 m 0,208.447 0,-208.447 m -93.253,301.699 93.253,-93.252 m 0,-208.447 213.931,0 m -307.184,-93.252 400.437,0 m -93.253,301.699 -213.931,0 m 307.184,93.252 -400.437,0 m -1579.803,-6319.215 0,-394.951 m 0,0 93.252,93.253 m 0,208.446 0,-208.446 m -93.252,301.698 93.252,-93.252 m 213.932,-208.446 93.253,-93.253 m -307.185,93.253 213.932,0 m -307.184,-93.253 400.437,0 m -93.253,93.253 0,208.446 m 0,0 -213.932,0 m 307.185,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 0,1579.804 0,-394.951 m 0,0 93.252,93.252 m 0,208.446 0,-208.446 m -93.252,301.699 93.252,-93.253 m 213.932,-208.446 93.253,-93.252 m -307.185,93.252 213.932,0 m -307.184,-93.252 400.437,0 m -93.253,93.252 0,208.446 m 0,0 -213.932,0 m 307.185,-301.698 0,394.951 m -93.253,-93.253 93.253,93.253 m 0,0 -400.437,0 m 307.184,1278.103 93.253,-93.252 m -307.185,93.252 213.932,0 m -307.184,-93.252 93.252,93.252 m -93.252,-93.252 400.437,0 m -93.253,93.252 0,208.447 m 0,0 -213.932,0 m 0,0 0,-208.447 m 307.185,-93.252 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,394.951 93.252,-93.252 m 307.185,93.252 -400.437,0 m 307.184,1278.108 0,208.447 m 0,-208.447 93.253,-93.253 m 0,0 0,394.952 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.952 m 0,0 93.252,93.253 m 0,208.447 0,-208.447 m -93.252,301.699 93.252,-93.252 m 0,-208.447 213.932,0 m -307.184,-93.253 400.437,0 m -93.253,301.7 -213.932,0 m 307.185,93.252 -400.437,0 m 93.252,1278.103 213.932,0 m 0,0 0,208.447 m 0,0 -213.932,0 m 0,0 0,-208.447 m 213.932,0 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,0 93.252,93.252 m -93.252,301.699 93.252,-93.252 m -93.252,-301.699 400.437,0 m 0,394.951 -400.437,0 m 2545.238,-6099.798 -499.173,285.242 m -2111.89,0 -499.172,-285.242 m 0,0 0,-833.787 m 0,0 499.172,-285.24 m 2611.063,285.24 0,833.787 m -2611.063,285.242 2111.89,0 m 0,-1404.269 -2111.89,0 m 2111.89,0 499.173,285.24 m 0,7153.008 -499.173,285.24 m -2111.89,0 2111.89,0 m 0,-1404.274 499.173,285.242 m -499.173,-285.242 -2111.89,0 m 0,1404.274 -499.172,-285.24 m 0,0 0,-833.792 m 3110.235,0 0,833.792 m -3110.235,-833.792 499.172,-285.242 m 2611.063,-2040.581 -499.173,285.243 m -2111.89,0 -499.172,-285.243 m 0,0 0,-833.785 m 2611.062,-285.243 499.173,285.243 m 0,0 0,833.785 m -3110.235,-833.785 499.172,-285.243 m 2111.89,0 -2111.89,0 m 0,1404.271 2111.89,0 m -2611.062,460.776 499.172,-285.243 m 0,1404.274 2111.89,0 m -2611.062,-285.245 0,-833.786 m 2611.062,-285.243 499.173,285.243 m -499.173,-285.243 -2111.89,0 m 0,1404.274 -499.172,-285.245 m 3110.235,0 -499.173,285.245 m 499.173,-1119.031 0,833.786 m 0,-3993.392 0,833.784 m -2611.063,285.242 2111.89,0 m 0,-1404.269 -2111.89,0 m 0,1404.269 -499.172,-285.242 m 2611.062,-1119.027 499.173,285.243 m -3110.235,833.784 0,-833.784 m 3110.235,833.784 -499.173,285.242 m -2611.062,-1119.026 499.172,-285.243 m 2111.89,2984.073 0,175.533 m -2111.89,0 0,-175.533 m 2111.89,1579.807 0,175.531 m -2111.89,0 0,-175.531 m 2111.89,1579.805 0,87.76 m -2111.89,0 2111.89,0 m -2111.89,0 0,-87.76 m 0,-6143.685 0,-175.534 m 2111.89,0 0,175.534 m 0,1404.269 0,175.533 m -2111.89,0 0,-175.533"
+               sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path7093-9"
+               style="display:inline;fill:none;stroke:#000000;stroke-width:39.37010574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 23199.728,92775.864 0,-88.349 2111.889,0 0,89.077"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="path7417"
+             d="m 22752.231,99986.039 c 3205.576,0 3205.576,0 3205.576,0"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1181.10339355;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       id="flowRoot8104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,12.325336)"><flowRegion
+         id="flowRegion8106"><use
+           height="100%"
+           width="100%"
+           id="use8108"
+           xlink:href="#rect7150"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara8110">Fig. 1. 10 PIN Eurorack power</flowPara><flowPara
+         id="flowPara8112">connector with thick line indicat-</flowPara><flowPara
+         id="flowPara8114">ing position of -12V</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot9129"
-       transform="translate(0,1.8222656)"><flowRegion
-         id="flowRegion9131"><use
+       id="flowRoot8126"
+       transform="translate(-0.0099078,38.850237)"><flowRegion
+         id="flowRegion8128"><use
            x="0"
            y="0"
-           xlink:href="#rect7256"
-           id="use9133"
-           transform="translate(0,-1.823395)"
+           xlink:href="#rect8183"
+           id="use8130"
+           transform="translate(0.0099078,-55.601499)"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara9135">When the Rhythm Composer is set to use an external  clock source, the Tempo Control knob becomes inactive.</flowPara></flowRoot>  </g>
+         id="flowPara8132">The MASTER OUT jack provides the summed output of all the instruments. The level of each instrument in the summed output mix is determined by each instru-ment's LEVEL control.  The overall level of the MAST-ER OUT jack is controlled by the MASTER VOLUME control.</flowPara><flowPara
+         id="flowPara8134"></flowPara><flowPara
+         id="flowPara8136">A set of separate outputs for each drum instrument or instrument group is available in the OUTPUT section.  </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot8138"
+       transform="translate(0.03182861,38.814254)"><flowRegion
+         id="flowRegion8140"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8185"
+           id="use8142"
+           transform="translate(-0.03182861,-55.565516)"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8144">Plugging a jack into an instrument's output switches it out of the MASTER OUT mix. The individual outputs allow each instrument or instrument group to be processed separately. TOMS/CONGAS, RIMSHOT/CLAVES and HANDCLAP/MARACAS each have shared outputs.</flowPara><flowPara
+         id="flowPara8146"> </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot8148"><flowRegion
+         id="flowRegion8150"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8071"
+           id="use8152"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8156">There are two independant, programmable Trigger Ouputs available for interfacing with synthesizers, sequencers and other ryhthm machines. The TRIGG-ER 1 signal is a positive 5V 15 millisecond pulse and the TRIGGER 2 signal is a switchable positive 5V or  12V 15 millisecond pulse. Selecting between a 5V and 12V trigger level requires changing a jumper on the back of the module (See Figure X). </flowPara><flowPara
+         id="flowPara8158" /><flowPara
+         id="flowPara8160" /><flowPara
+         id="flowPara8162" /><flowPara
+         id="flowPara8164" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot8166"><flowRegion
+         id="flowRegion8168"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8089"
+           id="use8170" /></flowRegion><flowPara
+         id="flowPara8172">Each Trigger Output is fully assignable to any of the drum instruments. By default, a cleared pattern assigns TRIGGER 1 to the RS(RIM SHOT) and TRIGGER 2 to the MA (MARACAS).  More information about assign-ing triggers is found in the Writing Rhythm Patterns  section on Page X.</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.466817,150.74635 177.000003,0"
+       id="path8242"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text8244"
+       y="155.91393"
+       x="24.111706"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="100%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="155.91393"
+         x="24.111706"
+         sodipodi:role="line"
+         id="tspan8246">MIDI/SYNC Input</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8248"
+       width="66.298149"
+       height="29.746948"
+       x="66.058167"
+       y="152.53065" />
+    <rect
+       y="152.53065"
+       x="135.83331"
+       height="26.029678"
+       width="64.538498"
+       id="rect8262"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       id="flowRoot8264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,65.819888)"><flowRegion
+         id="flowRegion8266"><use
+           id="use8268"
+           xlink:href="#rect8089"
+           y="0"
+           x="0"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8270">The MIDI/SYNC input can also be used as a DIN SYNC inteface. In DIN SYNC SLAVE mode, the module awaits RUN/STOP and CLOCK signals from an external DIN SYNC MASTER. In DIN SYNC MASTER mode, the module sends out RUN/STOP and CLOCK signals. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot8272"><flowRegion
+         id="flowRegion8274"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8248"
+           id="use8276"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8278">The MIDI/SYNC Input connector is a mulit-function in-put that can be configured as a MIDI input, DIN SYNC Input or DIN SYNC Output. </flowPara><flowPara
+         id="flowPara8280"></flowPara><flowPara
+         id="flowPara8282">When configured as a MIDI Input, the Rhythm Comp-oser can be used as a MIDI drum module where each insrument can be triggered by a MIDI NOTE ON mess-age.  </flowPara></flowRoot>  </g>
 </svg>
