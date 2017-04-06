@@ -4597,13 +4597,13 @@ F 3 "" H 10300 8900 60  0000 C CNN
 $EndComp
 Text HLabel 11100 9900 0    50   Output ~ 0
 MA_TRIG
-Text HLabel 11600 9600 2    50   Output ~ 0
-CB_TRIG
 Text HLabel 11600 9700 2    50   Output ~ 0
-CY_TRIG
+CB_TRIG
 Text HLabel 11600 9800 2    50   Output ~ 0
-OH_TRIG
+CY_TRIG
 Text HLabel 11600 9900 2    50   Output ~ 0
+OH_TRIG
+Text HLabel 11600 9600 2    50   Output ~ 0
 CH_TRIG
 $Comp
 L GND_E #PWR0485
