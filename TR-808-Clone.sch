@@ -12897,12 +12897,6 @@ F 3 "" H 16975 15400 60  0000 C CNN
 	1    16975 15400
 	0    1    1    0   
 $EndComp
-Text Notes 13925 1750 0    60   ~ 12
-SUB 1K(B)\n
-Text Notes 23700 1750 0    60   ~ 12
-SUB 1K(B)\n
-Text Notes 33550 1750 0    60   ~ 12
-SUB 1K(B)\n
 Text Notes 3750 21425 0    60   ~ 0
 *C140 is 0.027μ in Yocto \nProbalbly error in 808\nservice schematics
 Text Notes 4500 20850 0    60   ~ 0

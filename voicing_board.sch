@@ -5674,8 +5674,6 @@ Wire Wire Line
 NoConn ~ 1600 8475
 Text Notes 2500 6300 0    60   ~ 0
 Change R60 to 7.5K\nfor 5V at Q9 emitter
-Text Notes 9675 12925 0    60   ~ 0
-Increase C41 to \naccommodate 1meg pot\ninstead of 2meg pot?
 Text Notes 9575 4850 0    60   ~ 0
 Increase C60-1 to compensate\nfor 1meg decay pot instead of 2meg?
 $Comp
@@ -5731,4 +5729,6 @@ Text Notes 725  6325 0    60   ~ 0
 FOOTPRINT \nTOO BIG
 Text Notes 4350 1475 0    60   ~ 0
 NEED TO ENSURE U2 GETS FULL RAIL HERE \nFOR MAXIMUM VB ACCENT.\n\n
+Text Notes 9675 12925 0    60   ~ 0
+Increase C41 to \naccommodate 1meg pot\ninstead of 2meg pot?
 $EndSCHEMATC
