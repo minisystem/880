@@ -11,3 +11,4 @@ _autosave*
 /step_switch_board/Gerbers/
 /step_switch_board/shapes3D/
 /step_switch_board/*.wrl
+/Panel/808*
