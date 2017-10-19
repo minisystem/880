@@ -143,7 +143,7 @@ F 3 "" H 1200 6625 60  0000 C CNN
 	1    1200 6625
 	1    0    0    -1  
 $EndComp
-Text Notes 1225 6175 0    60   ~ 0
+Text Notes 1800 6225 0    60   ~ 0
 5V
 $Comp
 L POT_US TM1
@@ -5725,8 +5725,8 @@ Wire Wire Line
 	1450 3500 1600 3500
 Wire Wire Line
 	1600 3500 1600 3600
-Text Notes 725  6325 0    60   ~ 0
-FOOTPRINT \nTOO BIG
+Text Notes 750  6225 0    60   ~ 0
+FOOTPRINT \nTOO BIG - changed \nto 5.3mm
 Text Notes 4350 1475 0    60   ~ 0
 NEED TO ENSURE U2 GETS FULL RAIL HERE \nFOR MAXIMUM VB ACCENT.\n\n
 Text Notes 9675 12925 0    60   ~ 0

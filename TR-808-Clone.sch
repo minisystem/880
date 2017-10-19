@@ -13252,8 +13252,8 @@ Text Notes 3700 15475 0    60   ~ 0
 *R200 added, see \nservice manual
 Text Notes 8050 14625 0    60   ~ 0
 C128 and C129 changed to 62 nF (47nF + 15nF)\nto lower pass band of noise filter. Use 68nF for \nproduction?
-Text Notes 17800 10300 0    60   ~ 0
-C126 has WRONG\nfootprint - need to\nenlarge
+Text Notes 17775 10325 0    60   ~ 0
+C126 has WRONG\nfootprint - need to\nenlarge- CHANGED\nTO 5.3MM
 Text Notes 11825 12975 0    60   ~ 0
 Clave too loud and interfering with\nswitch to RS when C119/C117 were\nNP0. Swap to X7R and clave behaves\nnormally. Test more - confirmed on\n3rd prototype: NP0 to X7R swap fixes\nclave
 $Comp
