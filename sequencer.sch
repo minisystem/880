@@ -4990,4 +4990,6 @@ Wire Wire Line
 Connection ~ 15300 4875
 Text HLabel 11100 9400 0    50   Output ~ 0
 TRIG
+Text Notes 15400 5000 0    50   ~ 0
+RESISTOR ON OUTPUT?
 $EndSCHEMATC

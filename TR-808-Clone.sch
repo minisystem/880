@@ -13401,4 +13401,6 @@ F 3 "" H 16350 15800 60  0000 C CNN
 	1    16350 15800
 	0    1    1    0   
 $EndComp
+Text Notes 7100 1800 0    50   ~ 0
+Use 442K or 453K for production
 $EndSCHEMATC

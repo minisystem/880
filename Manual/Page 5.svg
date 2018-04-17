@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="Page 5.svg">
   <defs
      id="defs2" />
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="482.08377"
-     inkscape:cy="631.60205"
+     inkscape:zoom="0.58599055"
+     inkscape:cx="375.89566"
+     inkscape:cy="759.04071"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,15 +77,28 @@
     <sodipodi:guide
        position="201.46682,239.08756"
        orientation="1,0"
-       id="guide7136" />
+       id="guide7136"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="66.089065,118.46626"
        orientation="0,1"
-       id="guide7290" />
+       id="guide7290"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="80.189007,156.34953"
        orientation="0,1"
-       id="guide8116" />
+       id="guide8116"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="187.52852,234.13835"
+       orientation="0,1"
+       id="guide6993"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="130.53571,172.42272"
+       orientation="0,1"
+       id="guide20521"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -95,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,7 +179,7 @@
            width="100%"
            height="100%"
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
-         id="flowPara8051">The Rhythm Composer uses a standard Eurorack non-shrouded/non-keyed power connector and comes with a standard 10 pin to 16 pin Eurorack power cable already fitted. Connect the 16 pin connector to your Eurorack system's power bus.  The Red Stripe on the power cable indicates the -12V conductor.  Should you need to change the power cable you must ensure that the Red Stripe end of cable is aligned with the thick white line next to the power header on the PCB (Figure 1). The module is designed to withstand brief conditions of reverse power, but prolonged connection to reverse polarity will damage the protection diodes and require module </flowPara></flowRoot>    <rect
+         id="flowPara8051">The 880 uses a standard Eurorack non-shrouded/non-keyed power connector and comes with a standard 10 pin to 16 pin Eurorack power cable already fitted. Connect the 16 pin connector to your Eurorack system's power bus.  The Red Stripe on the power cable indicates the -12V conductor.  Should you need to change the power cable you must ensure that the Red Stripe side of cable is aligned with the thick white line next to the power header on the PCB (Figure 1). The module is designed to withstand brief conditions of reverse power, but prolonged connection to reverse polarity will damage the protection diodes and require module servicing. </flowPara></flowRoot>    <rect
        y="32.418083"
        x="135.83331"
        height="9.4702492"
@@ -184,7 +197,7 @@
            id="use8057"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8059">servicing. Damage caused by reverse polarity is not covered by the warranty.</flowPara></flowRoot>    <path
+         id="flowPara8059">Please use caution to ensure that the power connector is in the correct orientation.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8061"
        d="m 24.466817,85.008357 177.000003,0"
@@ -213,8 +226,7 @@
        y="193.60544"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="100%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="193.60544"
          x="24.111706"
@@ -240,7 +252,6 @@
        d="m 24.466817,122.76761 177.000003,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="100%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
@@ -261,16 +272,17 @@
     <flowRoot
        transform="translate(0,37.770007)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8270"><flowRegion
-         id="flowRegion8272"><use
+         id="flowRegion8272"
+         style="line-height:3.2984724px"><use
            x="0"
            y="0"
            xlink:href="#rect8071"
            id="use8274"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8327">The SYNC Input jack is a multi-function input with pro-grammable behaviour. It can be configured as a START/STOP input, FILL IN trigger, PATTERN RESET input, or as a CLOCK input for the internal sequencer.   </flowPara></flowRoot>    <text
+         id="flowPara8327">The SYNC Input jack is a multi-function input with pro-grammable behaviour. It can be configured as a START/STOP input, FILL IN trigger, PATTERN RESET input, or as a CLOCK source for the internal sequencer.   </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.226927"
@@ -299,80 +311,70 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:9.17222214px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Trigger Outputs</tspan></text>
     <g
        id="g8076"
-       transform="translate(-67.649346,-22.817098)">
+       transform="translate(-73.875092,-22.780013)">
       <g
-         id="g8065">
+         id="g20478"
+         transform="translate(-35.199417,3.51196)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9986105px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="259.53571"
-           y="90.792114"
-           id="text7435"
-           sodipodi:linespacing="110%"><tspan
-             id="tspan7441"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583278px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="292.14893"
+           y="82.842461"
+           id="text9243-2"><tspan
+             id="tspan9245-8"
              sodipodi:role="line"
-             x="259.53571"
-             y="90.792114"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.06499998">-12V</tspan></text>
-        <text
-           sodipodi:linespacing="110%"
-           id="text9243"
-           y="94.507576"
-           x="245.20453"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9986105px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.06499998"
-             y="94.507576"
-             x="245.20453"
-             sodipodi:role="line"
-             id="tspan9245">RED STRIPE</tspan></text>
+             x="292.14893"
+             y="82.842461"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.64583278px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.06499999">RED STRIPE</tspan></text>
         <g
-           style="display:inline"
-           id="g7429"
-           transform="matrix(0.00254,0,0,0.00254,191.25635,-164.2652)">
+           transform="matrix(0.28222223,0,0,0.28222223,250.84939,-172.97486)"
+           id="g7497">
+          <path
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.32944584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 99.906378,903.0737 c 38.812832,0 38.812832,0 38.812832,0"
+             id="path7417-1"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.37499809px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999991px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031491;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="126.61559"
+             y="917.61682"
+             id="text7435-5"><tspan
+               id="tspan7441-1"
+               sodipodi:role="line"
+               x="126.61559"
+               y="917.61682"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.37499809px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.23031491">−12V</tspan></text>
+          <path
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 102.95605,896.9782 h 19.00699 l 4.49255,2.56717 v 7.50412 l -4.49255,2.56716 h -19.00699 l -4.492542,-2.56716 v -7.50412 z"
+             id="path7468"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
           <g
-             transform="translate(-78.567442,-1394.5731)"
-             id="g7413">
+             transform="matrix(0.00899999,0,0,0.00899999,-105.82979,5.1191036)"
+             id="g7462">
             <path
                inkscape:connector-curvature="0"
-               id="path7093"
-               style="fill:none;stroke:#000000;stroke-width:39.37011337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="m 25151.265,93374.264 93.253,-93.253 m -307.184,93.253 213.931,0 m -307.184,-93.253 93.253,93.253 m -93.253,-93.253 400.437,0 m -400.437,394.951 0,-394.951 m 93.253,301.699 0,-208.446 m -93.253,301.698 93.253,-93.252 m 213.931,-208.446 0,208.446 m 0,0 -213.931,0 m 307.184,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 307.184,1278.105 0,208.446 m 0,-208.446 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.253 93.253,93.253 m -307.184,-301.699 213.931,0 m 0,208.446 -213.931,0 m 0,0 0,-208.446 m -93.253,301.699 0,-394.951 m 0,0 93.253,93.252 m -93.253,301.699 93.253,-93.253 m -93.253,-301.698 400.437,0 m 0,394.951 -400.437,0 m 0,1579.802 0,-394.951 m 0,0 93.253,93.252 m 0,208.447 0,-208.447 m -93.253,301.699 93.253,-93.252 m 213.931,-208.447 93.253,-93.252 m -307.184,93.252 213.931,0 m -307.184,-93.252 400.437,0 m -93.253,93.252 0,208.447 m 0,0 -213.931,0 m 307.184,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 93.253,1278.108 213.931,0 m 0,0 0,208.447 m 0,0 -213.931,0 m 0,0 0,-208.447 m 213.931,0 93.253,-93.253 m 0,0 0,394.952 m -93.253,-93.252 93.253,93.252 m -400.437,-394.952 93.253,93.253 m -93.253,-93.253 400.437,0 m -400.437,394.952 0,-394.952 m 0,394.952 93.253,-93.252 m 307.184,93.252 -400.437,0 m 307.184,1278.103 0,208.447 m 0,-208.447 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,0 93.253,93.252 m 0,208.447 0,-208.447 m -93.253,301.699 93.253,-93.252 m 0,-208.447 213.931,0 m -307.184,-93.252 400.437,0 m -93.253,301.699 -213.931,0 m 307.184,93.252 -400.437,0 m -1579.803,-6319.215 0,-394.951 m 0,0 93.252,93.253 m 0,208.446 0,-208.446 m -93.252,301.698 93.252,-93.252 m 213.932,-208.446 93.253,-93.253 m -307.185,93.253 213.932,0 m -307.184,-93.253 400.437,0 m -93.253,93.253 0,208.446 m 0,0 -213.932,0 m 307.185,-301.699 0,394.951 m -93.253,-93.252 93.253,93.252 m 0,0 -400.437,0 m 0,1579.804 0,-394.951 m 0,0 93.252,93.252 m 0,208.446 0,-208.446 m -93.252,301.699 93.252,-93.253 m 213.932,-208.446 93.253,-93.252 m -307.185,93.252 213.932,0 m -307.184,-93.252 400.437,0 m -93.253,93.252 0,208.446 m 0,0 -213.932,0 m 307.185,-301.698 0,394.951 m -93.253,-93.253 93.253,93.253 m 0,0 -400.437,0 m 307.184,1278.103 93.253,-93.252 m -307.185,93.252 213.932,0 m -307.184,-93.252 93.252,93.252 m -93.252,-93.252 400.437,0 m -93.253,93.252 0,208.447 m 0,0 -213.932,0 m 0,0 0,-208.447 m 307.185,-93.252 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,394.951 93.252,-93.252 m 307.185,93.252 -400.437,0 m 307.184,1278.108 0,208.447 m 0,-208.447 93.253,-93.253 m 0,0 0,394.952 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.952 m 0,0 93.252,93.253 m 0,208.447 0,-208.447 m -93.252,301.699 93.252,-93.252 m 0,-208.447 213.932,0 m -307.184,-93.253 400.437,0 m -93.253,301.7 -213.932,0 m 307.185,93.252 -400.437,0 m 93.252,1278.103 213.932,0 m 0,0 0,208.447 m 0,0 -213.932,0 m 0,0 0,-208.447 m 213.932,0 93.253,-93.252 m 0,0 0,394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 0,-394.951 m 0,0 93.252,93.252 m -93.252,301.699 93.252,-93.252 m -93.252,-301.699 400.437,0 m 0,394.951 -400.437,0 m 2545.238,-6099.798 -499.173,285.242 m -2111.89,0 -499.172,-285.242 m 0,0 0,-833.787 m 0,0 499.172,-285.24 m 2611.063,285.24 0,833.787 m -2611.063,285.242 2111.89,0 m 0,-1404.269 -2111.89,0 m 2111.89,0 499.173,285.24 m 0,7153.008 -499.173,285.24 m -2111.89,0 2111.89,0 m 0,-1404.274 499.173,285.242 m -499.173,-285.242 -2111.89,0 m 0,1404.274 -499.172,-285.24 m 0,0 0,-833.792 m 3110.235,0 0,833.792 m -3110.235,-833.792 499.172,-285.242 m 2611.063,-2040.581 -499.173,285.243 m -2111.89,0 -499.172,-285.243 m 0,0 0,-833.785 m 2611.062,-285.243 499.173,285.243 m 0,0 0,833.785 m -3110.235,-833.785 499.172,-285.243 m 2111.89,0 -2111.89,0 m 0,1404.271 2111.89,0 m -2611.062,460.776 499.172,-285.243 m 0,1404.274 2111.89,0 m -2611.062,-285.245 0,-833.786 m 2611.062,-285.243 499.173,285.243 m -499.173,-285.243 -2111.89,0 m 0,1404.274 -499.172,-285.245 m 3110.235,0 -499.173,285.245 m 499.173,-1119.031 0,833.786 m 0,-3993.392 0,833.784 m -2611.063,285.242 2111.89,0 m 0,-1404.269 -2111.89,0 m 0,1404.269 -499.172,-285.242 m 2611.062,-1119.027 499.173,285.243 m -3110.235,833.784 0,-833.784 m 3110.235,833.784 -499.173,285.242 m -2611.062,-1119.026 499.172,-285.243 m 2111.89,2984.073 0,175.533 m -2111.89,0 0,-175.533 m 2111.89,1579.807 0,175.531 m -2111.89,0 0,-175.531 m 2111.89,1579.805 0,87.76 m -2111.89,0 2111.89,0 m -2111.89,0 0,-87.76 m 0,-6143.685 0,-175.534 m 2111.89,0 0,175.534 m 0,1404.269 0,175.533 m -2111.89,0 0,-175.533"
+               id="path7464"
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:39.37011337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 25151.265,93374.264 93.253,-93.253 m -307.184,93.253 h 213.931 m -307.184,-93.253 93.253,93.253 m -93.253,-93.253 h 400.437 m -400.437,394.951 v -394.951 m 93.253,301.699 v -208.446 m -93.253,301.698 93.253,-93.252 m 213.931,-208.446 v 208.446 m 0,0 h -213.931 m 307.184,-301.699 v 394.951 m -93.253,-93.252 93.253,93.252 m 0,0 h -400.437 m 307.184,1278.105 v 208.446 m 0,-208.446 93.253,-93.252 m 0,0 v 394.951 m -93.253,-93.253 93.253,93.253 m -307.184,-301.699 h 213.931 m 0,208.446 h -213.931 m 0,0 v -208.446 m -93.253,301.699 v -394.951 m 0,0 93.253,93.252 m -93.253,301.699 93.253,-93.253 m -93.253,-301.698 h 400.437 m 0,394.951 h -400.437 m 0,1579.802 v -394.951 m 0,0 93.253,93.252 m 0,208.447 v -208.447 m -93.253,301.699 93.253,-93.252 m 213.931,-208.447 93.253,-93.252 m -307.184,93.252 h 213.931 m -307.184,-93.252 h 400.437 m -93.253,93.252 v 208.447 m 0,0 h -213.931 m 307.184,-301.699 v 394.951 m -93.253,-93.252 93.253,93.252 m 0,0 h -400.437 m 93.253,1278.108 h 213.931 m 0,0 v 208.447 m 0,0 h -213.931 m 0,0 v -208.447 m 213.931,0 93.253,-93.253 m 0,0 v 394.952 m -93.253,-93.252 93.253,93.252 m -400.437,-394.952 93.253,93.253 m -93.253,-93.253 h 400.437 m -400.437,394.952 v -394.952 m 0,394.952 93.253,-93.252 m 307.184,93.252 h -400.437 m 307.184,1278.103 v 208.447 m 0,-208.447 93.253,-93.252 m 0,0 v 394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 v -394.951 m 0,0 93.253,93.252 m 0,208.447 v -208.447 m -93.253,301.699 93.253,-93.252 m 0,-208.447 h 213.931 m -307.184,-93.252 h 400.437 m -93.253,301.699 h -213.931 m 307.184,93.252 h -400.437 m -1579.803,-6319.215 v -394.951 m 0,0 93.252,93.253 m 0,208.446 v -208.446 m -93.252,301.698 93.252,-93.252 m 213.932,-208.446 93.253,-93.253 m -307.185,93.253 h 213.932 m -307.184,-93.253 h 400.437 m -93.253,93.253 v 208.446 m 0,0 h -213.932 m 307.185,-301.699 v 394.951 m -93.253,-93.252 93.253,93.252 m 0,0 h -400.437 m 0,1579.804 v -394.951 m 0,0 93.252,93.252 m 0,208.446 v -208.446 m -93.252,301.699 93.252,-93.253 m 213.932,-208.446 93.253,-93.252 m -307.185,93.252 h 213.932 m -307.184,-93.252 h 400.437 m -93.253,93.252 v 208.446 m 0,0 h -213.932 m 307.185,-301.698 v 394.951 m -93.253,-93.253 93.253,93.253 m 0,0 h -400.437 m 307.184,1278.103 93.253,-93.252 m -307.185,93.252 h 213.932 m -307.184,-93.252 93.252,93.252 m -93.252,-93.252 h 400.437 m -93.253,93.252 v 208.447 m 0,0 h -213.932 m 0,0 v -208.447 m 307.185,-93.252 v 394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 v -394.951 m 0,394.951 93.252,-93.252 m 307.185,93.252 h -400.437 m 307.184,1278.108 v 208.447 m 0,-208.447 93.253,-93.253 m 0,0 v 394.952 m -93.253,-93.252 93.253,93.252 m -400.437,0 v -394.952 m 0,0 93.252,93.253 m 0,208.447 v -208.447 m -93.252,301.699 93.252,-93.252 m 0,-208.447 h 213.932 m -307.184,-93.253 h 400.437 m -93.253,301.7 h -213.932 m 307.185,93.252 h -400.437 m 93.252,1278.103 h 213.932 m 0,0 v 208.447 m 0,0 h -213.932 m 0,0 v -208.447 m 213.932,0 93.253,-93.252 m 0,0 v 394.951 m -93.253,-93.252 93.253,93.252 m -400.437,0 v -394.951 m 0,0 93.252,93.252 m -93.252,301.699 93.252,-93.252 m -93.252,-301.699 h 400.437 m 0,394.951 h -400.437 m 2545.238,-6099.798 -499.173,285.242 m -2111.89,0 -499.172,-285.242 m 0,0 v -833.787 m 0,0 499.172,-285.24 m 2611.063,285.24 v 833.787 m -2611.063,285.242 h 2111.89 m 0,-1404.269 h -2111.89 m 2111.89,0 499.173,285.24 m 0,7153.008 -499.173,285.24 m -2111.89,0 h 2111.89 m 0,-1404.274 499.173,285.242 m -499.173,-285.242 h -2111.89 m 0,1404.274 -499.172,-285.24 m 0,0 v -833.792 m 3110.235,0 v 833.792 m -3110.235,-833.792 499.172,-285.242 m 2611.063,-2040.581 -499.173,285.243 m -2111.89,0 -499.172,-285.243 m 0,0 V 96221.2 m 2611.062,-285.243 499.173,285.243 m 0,0 v 833.785 m -3110.235,-833.785 499.172,-285.243 m 2111.89,0 h -2111.89 m 0,1404.271 h 2111.89 m -2611.062,460.776 499.172,-285.243 m 0,1404.274 h 2111.89 m -2611.062,-285.245 v -833.786 m 2611.062,-285.243 499.173,285.243 m -499.173,-285.243 h -2111.89 m 0,1404.274 -499.172,-285.245 m 3110.235,0 -499.173,285.245 m 499.173,-1119.031 v 833.786 m 0,-3993.392 v 833.784 m -2611.063,285.242 h 2111.89 m 0,-1404.269 h -2111.89 m 0,1404.269 -499.172,-285.242 m 2611.062,-1119.027 499.173,285.243 m -3110.235,833.784 v -833.784 m 3110.235,833.784 -499.173,285.242 m -2611.062,-1119.026 499.172,-285.243 m 2111.89,2984.073 v 175.533 m -2111.89,0 v -175.533 m 2111.89,1579.807 v 175.531 m -2111.89,0 v -175.531 m 2111.89,1579.805 v 87.76 m -2111.89,0 h 2111.89 m -2111.89,0 v -87.76 m 0,-6143.685 v -175.534 m 2111.89,0 v 175.534 m 0,1404.269 v 175.533 m -2111.89,0 v -175.533"
                sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
             <path
                inkscape:connector-curvature="0"
-               id="path7093-9"
+               id="path7466"
                style="display:inline;fill:none;stroke:#000000;stroke-width:39.37010574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="m 23199.728,92775.864 0,-88.349 2111.889,0 0,89.077"
+               d="m 23199.728,92775.864 v -88.349 h 2111.889 v 89.077"
                sodipodi:nodetypes="cc" />
           </g>
-          <path
-             inkscape:connector-curvature="0"
-             id="path7417"
-             d="m 22752.231,99986.039 c 3205.576,0 3205.576,0 3205.576,0"
-             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1181.10339355;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         </g>
       </g>
     </g>
     <flowRoot
-       id="flowRoot8104"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       transform="translate(0,12.325336)"><flowRegion
-         id="flowRegion8106"><use
-           height="100%"
-           width="100%"
-           id="use8108"
-           xlink:href="#rect7150"
-           y="0"
-           x="0" /></flowRegion><flowPara
-         id="flowPara8110">Fig. 1. 10 PIN Eurorack power</flowPara><flowPara
-         id="flowPara8112">connector with thick line indicat-</flowPara><flowPara
-         id="flowPara8114">ing position of -12V</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8126"
-       transform="translate(-0.0099078,38.850237)"><flowRegion
+       transform="translate(-0.0099078,55.567474)"><flowRegion
          id="flowRegion8128"><use
            x="0"
            y="0"
@@ -382,12 +384,12 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara8132">The MASTER OUT jack provides the summed output of all the instruments. The level of each instrument in the summed output mix is determined by each instru-ment's LEVEL control.  The overall level of the MAST-ER OUT jack is controlled by the MASTER VOLUME control.</flowPara><flowPara
-         id="flowPara8134"></flowPara><flowPara
+         id="flowPara8134" /><flowPara
          id="flowPara8136">A set of separate outputs for each drum instrument or instrument group is available in the OUTPUT section.  </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8138"
-       transform="translate(0.03182861,38.814254)"><flowRegion
+       transform="translate(0.03182861,55.531491)"><flowRegion
          id="flowRegion8140"><use
            x="0"
            y="0"
@@ -397,7 +399,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara8144">Plugging a jack into an instrument's output switches it out of the MASTER OUT mix. The individual outputs allow each instrument or instrument group to be processed separately. TOMS/CONGAS, RIMSHOT/CLAVES and HANDCLAP/MARACAS each have shared outputs.</flowPara><flowPara
-         id="flowPara8146"> </flowPara></flowRoot>    <flowRoot
+         id="flowPara8146" /></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8148"><flowRegion
@@ -431,8 +433,7 @@
        y="155.91393"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="100%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="155.91393"
          x="24.111706"
@@ -464,7 +465,7 @@
            x="0"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8270">The MIDI/SYNC input can also be used as a DIN SYNC inteface. In DIN SYNC SLAVE mode, the module awaits RUN/STOP and CLOCK signals from an external DIN SYNC MASTER. In DIN SYNC MASTER mode, the module sends out RUN/STOP and CLOCK signals. </flowPara></flowRoot>    <flowRoot
+         id="flowPara8270">The MIDI/SYNC input can also be used as a DIN SYNC interface. In DIN SYNC SLAVE mode, the module awaits RUN/STOP and CLOCK signals from an external DIN SYNC MASTER. In DIN SYNC MASTER mode, the module sends out RUN/STOP and CLOCK signals. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8272"><flowRegion
@@ -476,6 +477,45 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara8278">The MIDI/SYNC Input connector is a mulit-function in-put that can be configured as a MIDI input, DIN SYNC Input or DIN SYNC Output. </flowPara><flowPara
-         id="flowPara8280"></flowPara><flowPara
-         id="flowPara8282">When configured as a MIDI Input, the Rhythm Comp-oser can be used as a MIDI drum module where each insrument can be triggered by a MIDI NOTE ON mess-age.  </flowPara></flowRoot>  </g>
+         id="flowPara8280" /><flowPara
+         id="flowPara8282">When configured as a MIDI Input, the Rhythm Comp-oser can be used as a MIDI drum module where each instrument can be triggered by a MIDI NOTE ON message.  </flowPara></flowRoot>    <rect
+       y="44.512062"
+       x="136.11169"
+       height="25.213873"
+       width="31.162045"
+       id="rect7150-2"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot20499"><flowRegion
+         id="flowRegion20501"><use
+           x="0"
+           y="0"
+           xlink:href="#rect7150-2"
+           id="use20503"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara20505">Fig. 1. 10 PIN Eurorack </flowPara><flowPara
+         id="flowPara20513">power connector with thick line indicating position of -12V</flowPara></flowRoot>    <rect
+       y="124.5519"
+       x="135.89784"
+       height="23.967554"
+       width="65"
+       id="rect8266-0"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(69.839685,37.769999)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot8270-2"><flowRegion
+         id="flowRegion8272-6"
+         style="line-height:3.2984724px"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8071"
+           id="use8274-5"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8327-0">When the SYNC Input jack is configured as a CLOCK input, the 880 will respond to the Korg Volca standard of 2 pulses per step. </flowPara></flowRoot>  </g>
 </svg>

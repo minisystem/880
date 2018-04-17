@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="Getting Started.svg">
   <defs
      id="defs2" />
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82871578"
-     inkscape:cx="781.94436"
-     inkscape:cy="573.85721"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="459.99046"
+     inkscape:cy="361.73057"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,35 +77,43 @@
     <sodipodi:guide
        position="201.46682,239.08756"
        orientation="1,0"
-       id="guide7136" />
+       id="guide7136"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="49.847219,236.59712"
        orientation="0,1"
-       id="guide7288" />
+       id="guide7288"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="76.113749,248.47559"
        orientation="0,1"
-       id="guide7290" />
+       id="guide7290"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="32.02744,166.37645"
        orientation="0,1"
-       id="guide7292" />
+       id="guide7292"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="48.358624,139.12754"
        orientation="0,1"
-       id="guide7294" />
+       id="guide7294"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47.166686,62.36365"
        orientation="0,1"
-       id="guide7312" />
+       id="guide7312"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="66.101278,192.40129"
        orientation="0,1"
-       id="guide7314" />
+       id="guide7314"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="52.72534,83.29642"
        orientation="0,1"
-       id="guide7352" />
+       id="guide7352"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -149,8 +157,7 @@
        y="35.828453"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="110%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="35.828453"
          x="24.111706"
@@ -197,10 +204,11 @@
        y="32.418079" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot7142"
        transform="translate(0,1.7575026)"><flowRegion
-         id="flowRegion7144"><use
+         id="flowRegion7144"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect7140"
@@ -223,9 +231,10 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot9107"><flowRegion
-         id="flowRegion9109"><use
+         id="flowRegion9109"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect7150"
@@ -233,32 +242,31 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara9113">entered steps simply press the button for the step you wish to edit to toggle off the instrument.  Continue to select and program instruments until you are satisfied with the pattern you have created, then stop the pattern by pressing START/STOP.</flowPara><flowPara
-         id="flowPara8980"></flowPara><flowPara
-         id="flowPara8982">Press the BASIC-VARIATION button to select BASIC VARIATION B mode.  Set the MODE selector to PATTERN CLEARN and ensure that Pattern #1 is the currently selected pattern.  Press the CLEAR button to clear the B mode pattern.  Now start the sequencer and program a second Rhythm Pattern for B mode. </flowPara><flowPara
+         id="flowPara8980" /><flowPara
+         id="flowPara8982">Press the BASIC-VARIATION button to select BASIC VARIATION B mode.  Set the MODE selector to PATTERN CLEAR and ensure that Pattern #1 is the currently selected pattern.  Press the CLEAR button to clear the B mode pattern.  Now start the sequencer and program a second Rhythm Pattern for B mode. </flowPara><flowPara
          id="flowPara8978" /><flowPara
          id="flowPara8976">While the B variation pattern is playing, press the BASIC-VARIATION button. The B LED will stay lit and the A LED will flash indicating that the B pattern is playing and the A pattern will play next. The two variatons will now alternate, with the current variation's LED remaining solid while the waiting variation's LED blinks.  Pressing the BASIC-VARIATION button cycles through the three variation modes: A, B, and AB.</flowPara><flowPara
          id="flowPara8972" /><flowPara
          id="flowPara8974" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8984"
-       d="m 24.466817,124.69459 177.000003,0"
+       d="M 24.466817,116.67867 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="110%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
-       y="128.17374"
+       y="121.74532"
        id="text8986"><tspan
          sodipodi:role="line"
          id="tspan8988"
          x="24.111706"
-         y="128.17374"
+         y="121.74532"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Program</tspan><tspan
          id="tspan8990"
          sodipodi:role="line"
          x="24.111706"
-         y="133.21846"
+         y="126.79005"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">the 2nd Part</tspan></text>
     <rect
        y="126.4518"
@@ -276,31 +284,38 @@
        y="126.45181" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9050"><flowRegion
-         id="flowRegion9052"><use
+         id="flowRegion9052"
+         style="line-height:3.2984724px;stroke:none"><use
            x="0"
            y="0"
            xlink:href="#rect8992"
            id="use9054"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara9056">We will now program a rythm pattern using both the 1st and 2nd Parts to create a 32 step pattern.  With the sequencer stopped, select Pattern #2.  Ensure the Basic Variation is set to A, clear the pattern and set the Mode to 1st PART.  Start the sequencer and pro-gram a rhythm pattern using the instrument selector buttons and the step switches.  When you are finished programming the 1st PART, set the Mode to 2nd PART. The sequencer will continue to play the 1st Part because the cleared pattern has only 16 steps. While pressing and holding the CLEAR button select step #16. The 1st PART will now play and then the step LEDs will blink while the 2nd PART plays.  Notice that the 1st PART and 2nd PART LEDs next to the START/STOP button light to indicate which part is currently playing.  Program a pattern into the 2nd PART to complete your 32 step pattern.   </flowPara><flowPara
+         id="flowPara9056">We will now program a rhythm pattern using both the 1st and 2nd Parts to create a 32 step pattern.  With the sequencer stopped, select Pattern #2.  Ensure the BASIC VARIATION is set to A, clear the pattern and set the Mode to 1st PART.  Start the sequencer and program a rhythm pattern using the instrument selec-tor buttons and the step switches.  When you are finished programming the 1st PART, set the Mode to 2nd PART. The sequencer will continue to play the 1st Part because the cleared pattern has only 16 steps. While pressing and holding the CLEAR button select step #16. The 1st PART will now play and then the step LEDs will blink while the 2nd PART plays.  Notice that the 1st PART and 2nd PART LEDs next to the START/STOP button light to indicate which part is currently playing.  Program a pattern into the 2nd PART to complete your 32 step pattern.</flowPara><flowPara
+         id="flowPara4830"></flowPara><flowPara
+         id="flowPara4832">Alternatively, it is possible to layer the steps programmed into the 2nd PART onto the 1st PART. When layered, the steps in the 2nd PART will be triggered inbetween the steps of the 2nd PART.  This</flowPara><flowPara
+         id="flowPara4851">ayering mode is active only when the 2nd PART is programmed with 0 steps.  Simply clear a pattern, program the 1st PART, set the Mode to the 2nd PART</flowPara><flowPara
          id="flowPara9058" /><flowPara
          id="flowPara9060" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9062"><flowRegion
-         id="flowRegion9064"><use
+         id="flowRegion9064"
+         style="stroke:none"><use
            x="0"
            y="0"
            xlink:href="#rect9014"
-           id="use9066" /></flowRegion><flowPara
-         id="flowPara9068">entered steps simply press the button for the step you wish to edit to toggle off the instrument.  Continue to select and program instruments until you are satisfied with the pattern you have created, then stop the pattern by pressing START/STOP.</flowPara><flowPara
-         id="flowPara9070"></flowPara><flowPara
-         id="flowPara9072">Press the BASIC-VARIATION button to select BASIC VARIATION B mode.  Set the MODE selector to PATTERN CLEARN and ensure that Pattern #1 is the currently selected pattern.  Press the CLEAR button to clear the B mode pattern.  Now start the sequencer and program a second Rhythm Pattern for B mode. </flowPara><flowPara
-         id="flowPara9074" /><flowPara
-         id="flowPara9076">While the B variation pattern is playing, press the BASIC-VARIATION button. The B LED will stay lit and the A LED will flash indicating that the B pattern is playing and the A pattern will play next. The two variatons will now alternate, with the current variation's LED remaining solid while the waiting variation's LED blinks.  Pressing the BASIC-VARIATION button cycles through the three variation modes: A, B, and AB.</flowPara><flowPara
+           id="use9066"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara9068"> programmed with 0 steps.  Simply clear a pattern, program the 1st PART, set the Mode to the 2nd PART and progam a layer that will play inbetween the steps of the 1st PART.  In layering mode, the sequenceer LEDs will not blink while the 2nd PART is edited.  Extending the 2nd PART beyond 0 steps will now append the 2nd PART to the 1st PART and the layering mode will be disabled.</flowPara><flowPara
+         id="flowPara9070" /><flowPara
+         id="flowPara9076">The 2nd PART can be toggled between a layer and an extension of the 1st PART.  To extend the 1st PART with the 2nd PART, press and hold the CLEAR button and select any of steps from #1 to #16.  To activate layering mode again, press and hold the CLEAR button and press step #1 twice.  This will reset the 2nd PART to 0 steps and any pattern programmed in the 2nd PART will now play in between the steps of the 1st PART. </flowPara><flowPara
+         id="flowPara4841" /><flowPara
+         id="flowPara4843">Note that resetting the 2nd PART to 0 steps does not clear any instruments programmed therein. You may extend the 2nd PART beyond 0 steps and any previously programmed pattern will again be appened to the 1st PART.</flowPara><flowPara
          id="flowPara9078" /><flowPara
          id="flowPara9080" /></flowRoot>  </g>
 </svg>

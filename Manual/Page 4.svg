@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="Page 4.svg">
   <defs
      id="defs2" />
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6574316"
-     inkscape:cx="374.17501"
-     inkscape:cy="-8.1407562"
+     inkscape:zoom="1.1719811"
+     inkscape:cx="433.48335"
+     inkscape:cy="362.65194"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,11 +77,23 @@
     <sodipodi:guide
        position="201.46682,239.08756"
        orientation="1,0"
-       id="guide7136" />
+       id="guide7136"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="127.26077,67.599014"
        orientation="0,1"
-       id="guide7290" />
+       id="guide7290"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="116.53321,55.685894"
+       orientation="0,1"
+       id="guide5923"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="56.368455,268.19601"
+       orientation="0,1"
+       id="guide6952"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -184,7 +196,7 @@
            id="use8057"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8059">The ACCENT LEVEL control sets the amount of emph-asis given to accented steps in a pattern. Accented steps give emphasis to any other drum voices that are programmed on the same step.</flowPara></flowRoot>    <path
+         id="flowPara8059">The ACCENT LEVEL control sets the amount of emph-asis given to accented steps in a pattern. Accented steps give emphasis to any drum voices that are pro-grammed on the same step.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8061"
        d="m 24.466817,67.909613 177.000003,0"
@@ -211,7 +223,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8089"
        width="67"
-       height="47.782543"
+       height="55.285042"
        x="135.83331"
        y="69.666824" />
     <flowRoot
@@ -225,12 +237,13 @@
            id="use8129"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8131">The STEP buttons have different functions depending on what Mode the Rhythm Composer is in.</flowPara><flowPara
+         id="flowPara8131">The STEP buttons have different functions depending on what Mode the 880 is in.</flowPara><flowPara
          id="flowPara8133" /><flowPara
          id="flowPara8135">In Rhythm Pattern Programming modes the STEP buttons are used to select a pattern to clear, play or edit. While the pattern is playing the STEP buttons are used to program the steps on which the currently sel-ected drum voice will play.  In combination with the red </flowPara><flowPara
          id="flowPara8139">CLEAR button, the STEP buttons can be used to set the length of a Rhythm Pattern.</flowPara><flowPara
          id="flowPara8159" /><flowPara
-         id="flowPara8161">In MANUAL PLAY mode the first 12 STEP buttons are used to select one of the 12 BASIC RHYTHMs.  </flowPara></flowRoot>    <flowRoot
+         id="flowPara8161">In MANUAL PLAY mode the first 12 STEP buttons are used to select one of the 12 BASIC RHYTHMs. The last 4 STEP buttons are used to select one of the</flowPara><flowPara
+         id="flowPara6966">4 INTRO/FILL INs. When the START/STOP button is </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8163"><flowRegion
@@ -241,11 +254,11 @@
            id="use8167"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8169">The last 4 STEP buttons are used to select one of the</flowPara><flowPara
-         id="flowPara8421">4 INTRO/FILL INs. When the START/STOP button is pressed the selected BASIC RHYTHM pattern will begin to play unless the TAP button is used to changed the priority to the selected INTRO/FILL IN pattern. The priority between the BASIC RHYTHM and INTRO/FILL  IN pattern is indicated by their LEDs flashing.</flowPara><flowPara
+         id="flowPara8421">pressed the selected BASIC RHYTHM pattern will begin to play unless the TAP button is used to changed the priority to the selected INTRO/FILL IN pattern. The priority between the BASIC RHYTHM and INTRO/FILL  IN pattern is indicated by their LEDs flashing.</flowPara><flowPara
          id="flowPara8171" /><flowPara
-         id="flowPara8175">While holding the SHIFT/WRITE key, the STEP buttons</flowPara><flowPara
-         id="flowPara8173">are used to select different SHUFFLE amounts and ROLL modes.</flowPara></flowRoot>    <path
+         id="flowPara8173">While holding the SHIFT-WRITE/NEXT key, the STEP buttons are used to select different SHUFFLE amounts and ROLL modes.</flowPara><flowPara
+         id="flowPara6839" /><flowPara
+         id="flowPara6841">In combination with the ALT key STEP buttons are also used to select one of 12 seperate banks of Rhythm Patterns.</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.466817,125.04774 177.000003,0"
        id="path8177"
@@ -255,8 +268,7 @@
        y="130.21532"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="100%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="130.21532"
          x="24.111706"
@@ -295,10 +307,11 @@
            x="0" /></flowRegion><flowPara
          id="flowPara8203">The BASIC VARIATION button is used to toggle between the two variation modes, A and B.  Each Rhythm Pattern consists of two variation modes of one measure each that can be played independently or alternately. When the A LED is lit, pattern variation A plays, when the B LED is lit, pattern variation B plays and when one variation LED is lit and the other is flashing, the pattern alternates between each mode.  </flowPara></flowRoot>    <flowRoot
        id="flowRoot8205"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.29847241px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        xml:space="preserve"
        transform="translate(0,57.138131)"><flowRegion
-         id="flowRegion8207"><use
+         id="flowRegion8207"
+         style="line-height:3.29847241px;"><use
            height="100%"
            width="100%"
            id="use8209"
@@ -306,14 +319,12 @@
            y="0"
            x="0" /></flowRegion><flowPara
          id="flowPara8217">The solid LED indicates the current mode playing and the flashing LED indicates the mode that is waiting to play once the current measure has finished.  </flowPara><flowPara
-         id="flowPara8254" /><flowPara
-         id="flowPara8256">The BASIC VARIATION button is also used in combination with the SHIFT/WRITE key to access different banks of Rhythm Patterns. </flowPara></flowRoot>    <path
+         id="flowPara8256" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8258"
        d="m 24.466817,162.77613 177.000003,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="100%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
@@ -350,8 +361,7 @@
            id="use8274"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8276">The IF/VAR button is used to select the variation mode for the INTRO/FILL IN patterns. Like the BASIC VARIATION BUTTON it toggles between variation A and variation B modes.  When a INTRO/FILL IN patt-</flowPara><flowPara
-         id="flowPara8327">ern is playing its variation MODE is indicated by the BASIC VARIATION LEDs.  </flowPara></flowRoot>    <flowRoot
+         id="flowPara8327">The IF/VAR button is used to select the variation mode for the INTRO/FILL IN patterns used in MANUAL mode. Like the BASIC VARIATION BUTTON it toggles between variation A and variation B modes.  When a INTRO/FILL IN pattern is playing its variation MODE is indicated by the BASIC VARIATION LEDs.  </flowPara></flowRoot>    <flowRoot
        transform="translate(0,94.866522)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -363,7 +373,7 @@
            id="use8282"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8325">In combination with the SHIFT/WRITE key, the IF/VAR button is used to access  the ALT mode, which provides a second level of alternative functions in addition to the SHIFT functions. </flowPara></flowRoot>    <path
+         id="flowPara8325">In other modes, the IF/VAR button serves as an ALT key, sometimes in combination with the SHIFT-WRITE/NEXT key to access alternative functions. </flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.466817,193.49277 177.000003,0"
        id="path8333"
@@ -373,8 +383,7 @@
        y="198.66037"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="100%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="198.66037"
          x="24.111706"
@@ -411,7 +420,7 @@
            xlink:href="#rect8071"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara8351">The SHIFT/WRITE key is used to access alternative functions of the other buttons/keys on the Rhythm composer's front panel. It can be used to MUTE drum voices, assign the trigger outputs, change SHUFFLE and ROLL settings, and SYNC behaviour, set the</flowPara></flowRoot>    <flowRoot
+         id="flowPara8351">The SHIFT-WRITE/NEXT key is used to access alternative functions of the other buttons/keys on the 880's front panel. It can be used to MUTE drum voices, assign the trigger outputs, change SHUFFLE and ROLL settings, and SYNC behaviour, set the PRE-SCALE and activate the ALT functions in comb-ination with the IF/VAR button.</flowPara></flowRoot>    <flowRoot
        id="flowRoot8353"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
@@ -423,15 +432,12 @@
            xlink:href="#rect8089"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara8359">PRE-SCALE and activate the ALT functions in comb-ination with the IF/VAR button.</flowPara><flowPara
-         id="flowPara8365" /><flowPara
-         id="flowPara8367">In COMPOSE mode, the SHIFT/WRITE key is used to advance to the next pattern when writing Rhythm Tracks.</flowPara></flowRoot>    <path
+         id="flowPara8367">In COMPOSE mode, the SHIFT/WRITE key is used to advance to the next pattern when creating or editing Rhythm Tracks.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8369"
        d="m 24.466817,221.43295 177.000003,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="100%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
@@ -445,7 +451,7 @@
     <rect
        y="223.19019"
        x="66.058167"
-       height="6.3439007"
+       height="12.552227"
        width="65"
        id="rect8377"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -461,7 +467,7 @@
            id="use8383"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8385">Starts or stops the internal pattern sequencer. Input ignored when using an external SYNC source.</flowPara></flowRoot>    <path
+         id="flowPara8385">Starts or stops the internal pattern sequencer. Input ignored when using an external MIDI or DIN SYNC source.</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.466817,239.49686 177.000003,0"
        id="path8389"
@@ -471,8 +477,7 @@
        y="244.66447"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="100%"><tspan
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="244.66447"
          x="24.111706"
@@ -482,7 +487,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8395"
        width="65"
-       height="6.3439007"
+       height="16.167562"
        x="66.058167"
        y="241.2541" />
     <flowRoot
@@ -497,13 +502,12 @@
            xlink:href="#rect8071"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara8403">In MANUAL PLAY mode the TAP button is used for manual insertion of INTROs and FILL INs. It is also used to manually enter trigger steps for drum voices during Rhythm Pattern programming.</flowPara></flowRoot>    <path
+         id="flowPara8403">In MANUAL PLAY mode the TAP button is used for manual insertion of INTROs and FILL INs. It is also used to manually enter trigger steps for drum voices during Rhythm Pattern programming.  In PLAY and COMPOSE modes it can be used to display the</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8405"
        d="m 24.466817,264.14067 177.000003,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="100%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
@@ -533,5 +537,74 @@
            id="use8417"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8419">Controls the overall output volume of the summed drum voices available a the MASTER OUT jack.</flowPara></flowRoot>  </g>
+         id="flowPara8419">Controls the overall output volume of the summed drum voices available a the MASTER OUT jack.</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,171.5348)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot5935"><flowRegion
+         id="flowRegion5927"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8089"
+           id="use5925"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5933">current measure of a Rhythm Track.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6843"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:17.5px;line-height:200px;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6845"><rect
+           id="rect6847"
+           width="0"
+           height="35.359657"
+           x="639.99994"
+           y="443.90314" /></flowRegion><flowPara
+         id="flowPara6849" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6851"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:17.5px;line-height:200px;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6853"><rect
+           id="rect6855"
+           width="5.1646981"
+           height="28.718245"
+           x="761.4494"
+           y="443.90314" /></flowRegion><flowPara
+         id="flowPara6857" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6863"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:17.5px;line-height:200px;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6865"><rect
+           id="rect6867"
+           width="32.695602"
+           height="49.358849"
+           x="513.38831"
+           y="271.95337" /></flowRegion><flowPara
+         id="flowPara6869" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.226927"
+       y="22.674974"
+       id="text4410"><tspan
+         sodipodi:role="line"
+         id="tspan4408"
+         x="24.226927"
+         y="22.674974"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px">Control</tspan><tspan
+         sodipodi:role="line"
+         x="24.226927"
+         y="28.672197"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
+         id="tspan4412">Descriptions</tspan></text>
+    <text
+       id="text6948"
+       y="28.741087"
+       x="58.758118"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6946"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:6px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
+         y="28.741087"
+         x="58.758118"
+         sodipodi:role="line">(cont.)</tspan></text>
+  </g>
 </svg>
