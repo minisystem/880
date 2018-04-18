@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58599055"
-     inkscape:cx="375.89566"
-     inkscape:cy="759.04071"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="410.88152"
+     inkscape:cy="99.514045"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,10 +168,11 @@
        y="32.418079" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot7142"
        transform="translate(0,1.7575026)"><flowRegion
-         id="flowRegion7144"><use
+         id="flowRegion7144"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect7140"
@@ -188,9 +189,10 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8053"><flowRegion
-         id="flowRegion8055"><use
+         id="flowRegion8055"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect7150"
@@ -272,10 +274,10 @@
     <flowRoot
        transform="translate(0,37.770007)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8270"><flowRegion
          id="flowRegion8272"
-         style="line-height:3.2984724px"><use
+         style="line-height:3.2984724px;stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8071"
@@ -372,10 +374,11 @@
     </g>
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8126"
        transform="translate(-0.0099078,55.567474)"><flowRegion
-         id="flowRegion8128"><use
+         id="flowRegion8128"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8183"
@@ -387,10 +390,11 @@
          id="flowPara8134" /><flowPara
          id="flowPara8136">A set of separate outputs for each drum instrument or instrument group is available in the OUTPUT section.  </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8138"
        transform="translate(0.03182861,55.531491)"><flowRegion
-         id="flowRegion8140"><use
+         id="flowRegion8140"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8185"
@@ -401,29 +405,33 @@
          id="flowPara8144">Plugging a jack into an instrument's output switches it out of the MASTER OUT mix. The individual outputs allow each instrument or instrument group to be processed separately. TOMS/CONGAS, RIMSHOT/CLAVES and HANDCLAP/MARACAS each have shared outputs.</flowPara><flowPara
          id="flowPara8146" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot8148"><flowRegion
-         id="flowRegion8150"><use
+         id="flowRegion8150"
+         style="stroke:none"><use
            x="0"
            y="0"
            xlink:href="#rect8071"
            id="use8152"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8156">There are two independant, programmable Trigger Ouputs available for interfacing with synthesizers, sequencers and other ryhthm machines. The TRIGG-ER 1 signal is a positive 5V 15 millisecond pulse and the TRIGGER 2 signal is a switchable positive 5V or  12V 15 millisecond pulse. Selecting between a 5V and 12V trigger level requires changing a jumper on the back of the module (See Figure X). </flowPara><flowPara
+         id="flowPara8156">There are two independant, programmable Trigger Ouputs available for interfacing with synthesizers, sequencers and other drum machines. The TRIGG-ER 1 signal is a positive 5V 15 millisecond pulse and the TRIGGER 2 signal is a switchable positive 5V or  12V 15 millisecond pulse. Selecting between a 5V and 12V trigger level requires changing a jumper on the back of the module (See Figure X). </flowPara><flowPara
          id="flowPara8158" /><flowPara
          id="flowPara8160" /><flowPara
          id="flowPara8162" /><flowPara
          id="flowPara8164" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8166"><flowRegion
-         id="flowRegion8168"><use
+         id="flowRegion8168"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8089"
            id="use8170" /></flowRegion><flowPara
-         id="flowPara8172">Each Trigger Output is fully assignable to any of the drum instruments. By default, a cleared pattern assigns TRIGGER 1 to the RS(RIM SHOT) and TRIGGER 2 to the MA (MARACAS).  More information about assign-ing triggers is found in the Writing Rhythm Patterns  section on Page X.</flowPara></flowRoot>    <path
+         id="flowPara8172">Each Trigger Output is fully assignable to any of the drum instruments. By default, a cleared pattern assigns TRIGGER 1 to the RS(RIM SHOT) and TRIGGER 2 to the MA (MARACAS).  More information about assign-ing triggers is found in the <flowSpan
+   style="-inkscape-font-specification:'FreeSans Italic';font-family:FreeSans;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan26062">Writing Rhythm Patterns </flowSpan> section on Page X.</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.466817,150.74635 177.000003,0"
        id="path8242"
@@ -455,10 +463,11 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        id="flowRoot8264"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        xml:space="preserve"
        transform="translate(0,65.819888)"><flowRegion
-         id="flowRegion8266"><use
+         id="flowRegion8266"
+         style="stroke:none;"><use
            id="use8268"
            xlink:href="#rect8089"
            y="0"
@@ -467,9 +476,10 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara8270">The MIDI/SYNC input can also be used as a DIN SYNC interface. In DIN SYNC SLAVE mode, the module awaits RUN/STOP and CLOCK signals from an external DIN SYNC MASTER. In DIN SYNC MASTER mode, the module sends out RUN/STOP and CLOCK signals. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8272"><flowRegion
-         id="flowRegion8274"><use
+         id="flowRegion8274"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8248"
@@ -487,9 +497,10 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot20499"><flowRegion
-         id="flowRegion20501"><use
+         id="flowRegion20501"
+         style="stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect7150-2"
@@ -507,10 +518,10 @@
     <flowRoot
        transform="translate(69.839685,37.769999)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="flowRoot8270-2"><flowRegion
          id="flowRegion8272-6"
-         style="line-height:3.2984724px"><use
+         style="line-height:3.2984724px;stroke:none;"><use
            x="0"
            y="0"
            xlink:href="#rect8071"
