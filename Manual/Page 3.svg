@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="334.29414"
-     inkscape:cy="541.94509"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="503.66485"
+     inkscape:cy="314.74272"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:measure-start="450.54,1133.48"
      inkscape:measure-end="197.194,1129"
@@ -90,27 +90,27 @@
        id="guide7290"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="32.02744,166.37645"
+       position="78.563554,183.34298"
        orientation="0,1"
        id="guide7292"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="48.358624,139.12754"
+       position="77.886282,157.54926"
        orientation="0,1"
        id="guide7294"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="47.166686,62.36365"
+       position="70.558469,89.285252"
        orientation="0,1"
        id="guide7312"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="73.38932,207.82783"
+       position="74.549333,212.73041"
        orientation="0,1"
        id="guide7314"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="52.72534,83.29642"
+       position="80.296176,108.64779"
        orientation="0,1"
        id="guide7352"
        inkscape:locked="false" />
@@ -182,111 +182,111 @@
     <path
        inkscape:connector-curvature="0"
        id="path4496"
-       d="m 24.466817,58.620287 177.000003,0"
+       d="M 24.466817,56.461207 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.358641"
-       y="63.786152"
+       y="61.627071"
        id="text4500"><tspan
          sodipodi:role="line"
          x="24.358641"
-         y="63.786152"
+         y="61.627071"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4502">Rhythm Pattern </tspan><tspan
          sodipodi:role="line"
          x="24.358641"
-         y="68.372261"
+         y="66.213181"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4506">Programming Modes</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,98.31362 177.000003,0"
+       d="M 24.466817,92.362692 H 201.46682"
        id="path4638"
        inkscape:connector-curvature="0" />
     <text
        id="text4644"
-       y="103.4795"
+       y="97.528572"
        x="24.358641"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4640"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="103.4795"
+         y="97.528572"
          x="24.358641"
          sodipodi:role="line">Play Modes </tspan><tspan
          id="tspan4642"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="108.41839"
+         y="102.46746"
          x="24.358641"
          sodipodi:role="line" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path4853"
-       d="m 24.466817,128.89603 177.000003,0"
+       d="M 24.466817,121.56115 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.555843"
-       y="134.06186"
+       y="126.72697"
        id="text4859"><tspan
          sodipodi:role="line"
          x="24.555843"
-         y="134.06186"
+         y="126.72697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4855">Compose Mode </tspan><tspan
          sodipodi:role="line"
          x="24.555843"
-         y="139.00075"
+         y="131.66586"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4857" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,156.08993 177.000003,0"
+       d="M 24.466817,147.35487 H 201.46682"
        id="path4949"
        inkscape:connector-curvature="0" />
     <text
        id="text4955"
-       y="161.25574"
+       y="152.52068"
        x="24.555843"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4951"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="161.25574"
+         y="152.52068"
          x="24.555843"
          sodipodi:role="line">Instrument/Track</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="166.19463"
+         y="157.45956"
          x="24.555843"
          sodipodi:role="line"
          id="tspan4971">Selectors </tspan><tspan
          id="tspan4953"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="171.13351"
+         y="162.39845"
          x="24.555843"
          sodipodi:role="line" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,211.97606 177.000003,0"
+       d="M 24.466817,196.44808 H 201.46682"
        id="path6983"
        inkscape:connector-curvature="0" />
     <text
        id="text6985"
-       y="217.14189"
+       y="201.61391"
        x="24.679668"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6987"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="217.14189"
+         y="201.61391"
          x="24.679668"
          sodipodi:role="line">Tempo Control</tspan><tspan
          id="tspan6989"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="222.08078"
+         y="206.5528"
          x="24.679668"
          sodipodi:role="line" /></text>
     <text
@@ -303,22 +303,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path7060"
-       d="m 24.466817,232.90883 177.000003,0"
+       d="M 24.466817,215.81062 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174393;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.698013"
-       y="238.07466"
+       y="220.97646"
        id="text7062"><tspan
          sodipodi:role="line"
          x="24.698013"
-         y="238.07466"
+         y="220.97646"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan7064">Auto Fill In Selector</tspan><tspan
          sodipodi:role="line"
          x="24.698013"
-         y="243.01355"
+         y="225.91534"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:4.93888903px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan7066" /></text>
     <rect
@@ -346,16 +346,16 @@
        y="32.418083"
        x="135.83331"
        height="18.665201"
-       width="67"
+       width="65"
        id="rect7150"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7204"
-       width="67"
+       width="66"
        height="34.671223"
        x="135.85237"
-       y="60.392429" />
+       y="58.233349" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
@@ -371,17 +371,17 @@
            height="100%"
            transform="translate(0.07638776,7.617764)" /></flowRegion><flowPara
          id="flowPara7212">of up to 32 steps, the 2nd PART mode is used. Patt-erns are initialized to 16 steps for the 1st part and 0 steps for the 2nd part. The red CLEAR button is used in combination with the step switches to determine the number of steps in a pattern. A combination of different pattern lengths and PRE-SCALE settings allows diff-erent time signatures to be achieved.</flowPara></flowRoot>    <rect
-       y="130.62355"
+       y="123.28867"
        x="66.092064"
        height="17.053032"
-       width="65"
+       width="66"
        id="rect7214"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="130.65031"
+       y="123.31542"
        x="135.82697"
        height="13.56054"
-       width="67"
+       width="65"
        id="rect7220"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
@@ -416,32 +416,32 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7248"
        width="66"
-       height="51.977409"
+       height="44.527416"
        x="66.080383"
-       y="157.86168" />
+       y="149.12662" />
     <rect
-       y="213.70358"
+       y="198.1756"
        x="66.092064"
        height="17.016403"
-       width="67"
+       width="65"
        id="rect7250"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7252"
-       width="67"
+       width="66"
        height="42.324467"
        x="66.092064"
-       y="234.63635" />
+       y="217.53815" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7254"
        width="66"
        height="43.05901"
        x="135.92876"
-       y="157.87247" />
+       y="149.13741" />
     <rect
-       y="213.70358"
+       y="198.1756"
        x="135.92876"
        height="16.417624"
        width="66"
@@ -453,7 +453,7 @@
        width="66"
        height="20.93277"
        x="135.92876"
-       y="234.63635" />
+       y="217.53815" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
@@ -487,17 +487,17 @@
          id="flowPara7302">Holding the SHIFT-WRITE/NEXT key whilst pressing the AUTO FILL IN key changes the context of the  control to set the SYNC MODE. The SYNC MODE cycles through INTERNAL CLOCK, MIDI IN, DIN SYNC OUT, DIN SYNC IN, and CLOCK SYNC modes. </flowPara></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7316"
-       width="65"
+       width="66"
        height="24.173796"
        x="66.092064"
-       y="100.17414" />
+       y="94.223213" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7318"
-       width="66.5"
+       width="66"
        height="22.585213"
        x="135.92876"
-       y="100.17414" />
+       y="94.223213" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
@@ -547,7 +547,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara7368">The AUTO FILL IN selector is used to insert Fill In Rhythm Patterns whilst playing in MANUAL PLAY mode. Pressing the AUTO FILL IN selector button cycles through the six different fill options. The first fill option is MANUAL which allows Fill In Rhythms  to be inserted manually by pressing the TAP button. Auto-matic insertion of the Fill In Rhythm is accomplished with any of the remaining five options: 16, 12, 8, 4 and 2. Automatic insertion occurs every 16th measure, every 12th measure, every 8th measure, etc.</flowPara></flowRoot>    <rect
-       y="60.397472"
+       y="58.238392"
        x="66.092064"
        height="33.69503"
        width="66"
