@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
+LIBS:step_switch_board-cache
 EELAYER 25 0
 EELAYER END
 $Descr B 17000 11000
@@ -1680,10 +1681,10 @@ $EndComp
 Connection ~ 12350 5275
 NoConn ~ 13050 7075
 NoConn ~ 1475 4175
-Text Notes 1025 3750 0    60   ~ 0
-SPI SWITCH LATCH 1
-Text Notes 5550 3725 0    60   ~ 0
-SPI SWITCH LATCH 2
+Text Notes 850  3875 0    60   ~ 0
+SPI SWITCH LATCH BYTE 4
+Text Notes 5350 3875 0    60   ~ 0
+SPI SWITCH LATCH BYTE 3
 $Comp
 L CONN_01X08 P3
 U 1 1 56BE0A16
