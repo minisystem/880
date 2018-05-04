@@ -5415,10 +5415,6 @@ Text GLabel 11200 2950 1    60   UnSpc ~ 0
 V7+
 Text GLabel 4325 5250 1    60   UnSpc ~ 0
 V7+
-Text GLabel 1750 5475 1    60   UnSpc ~ 0
-V7+
-Text GLabel 2250 5475 1    60   UnSpc ~ 0
-V7+
 Text GLabel 5825 13450 1    60   UnSpc ~ 0
 V7+
 Text GLabel 4600 14050 1    60   UnSpc ~ 0
@@ -5461,4 +5457,8 @@ Text GLabel 11800 11325 3    60   UnSpc ~ 0
 V6-
 Text GLabel 4600 14850 3    60   UnSpc ~ 0
 V6-
+Text GLabel 1750 5475 1    60   UnSpc ~ 0
+V6+
+Text GLabel 2250 5475 1    60   UnSpc ~ 0
+V6+
 $EndSCHEMATC
