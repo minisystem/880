@@ -9179,10 +9179,10 @@ F 3 "" H 15250 14975 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_US R451
+L R_US R493
 U 1 1 5AEC28BB
 P 15475 14975
-F 0 "R451" H 15575 15100 50  0000 C CNN
+F 0 "R493" H 15575 15100 50  0000 C CNN
 F 1 "100" H 15375 15100 50  0000 C CNN
 F 2 "MyModules:SM0603-R-JRL" H 15475 14975 60  0001 C CNN
 F 3 "" H 15475 14975 60  0000 C CNN
@@ -9575,8 +9575,6 @@ Text GLabel 21225 16275 3    60   UnSpc ~ 0
 V6-
 Text Notes 17775 10325 0    60   ~ 0
 C126 has WRONG\nfootprint - need to\nenlarge- CHANGED\nTO 5.3MM
-Text Notes 19250 15175 0    60   ~ 0
-Some of these references will conflict with switch board
 $Comp
 L C_US C219
 U 1 1 5B13ED95
