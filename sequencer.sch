@@ -3092,7 +3092,7 @@ Wire Notes Line
 Wire Wire Line
 	18500 4400 18500 4150
 Wire Wire Line
-	17600 3550 17500 3550
+	17500 3550 17600 3550
 Wire Wire Line
 	17550 4150 17550 4400
 Wire Wire Line
@@ -4923,7 +4923,7 @@ Wire Wire Line
 Connection ~ 15300 3975
 Text GLabel 10800 5050 2    50   Input ~ 0
 TRIG_OUT_12V
-Text GLabel 15400 4875 2    50   Output ~ 0
+Text GLabel 15850 4875 2    50   Output ~ 0
 TRIG_OUT_12V
 Wire Wire Line
 	15300 4725 15300 4925
@@ -4978,13 +4978,9 @@ $EndComp
 Wire Wire Line
 	15300 5350 15300 5325
 Connection ~ 14425 5350
-Wire Wire Line
-	15400 4875 15300 4875
 Connection ~ 15300 4875
 Text HLabel 11100 9400 0    50   Output ~ 0
 TRIG
-Text Notes 15400 5000 0    50   ~ 0
-RESISTOR ON OUTPUT?
 $Comp
 L C_US C168
 U 1 1 5B08EEB8
@@ -5020,4 +5016,19 @@ Wire Wire Line
 	17550 3750 17550 3550
 Connection ~ 17550 3550
 Connection ~ 16900 3550
+$Comp
+L R_US R494
+U 1 1 5AF33CD0
+P 15575 4875
+F 0 "R494" V 15675 4775 50  0000 C CNN
+F 1 "1K" V 15675 4975 50  0000 C CNN
+F 2 "MyModules:SM0603-R-JRL" H 15575 4875 60  0001 C CNN
+F 3 "~" H 15575 4875 60  0000 C CNN
+	1    15575 4875
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	15375 4875 15300 4875
+Wire Wire Line
+	15775 4875 15850 4875
 $EndSCHEMATC
