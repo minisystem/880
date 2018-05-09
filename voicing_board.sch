@@ -47,12 +47,12 @@ $EndDescr
 $Comp
 L CP_US C12
 U 1 1 5693E267
-P 1200 6375
-F 0 "C12" H 1375 6375 50  0000 L CNN
-F 1 "100μ" H 1325 6300 50  0000 L CNN
-F 2 "Capacitors_SMD:c_elec_6.3x5.3" H 1200 6375 60  0001 C CNN
-F 3 "" H 1200 6375 60  0000 C CNN
-	1    1200 6375
+P 1200 6400
+F 0 "C12" H 1375 6400 50  0000 L CNN
+F 1 "100μ" H 1325 6325 50  0000 L CNN
+F 2 "MyModules:jrl_c_elec_5x5.3" H 1200 6400 60  0001 C CNN
+F 3 "" H 1200 6400 60  0000 C CNN
+	1    1200 6400
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -4037,8 +4037,6 @@ Connection ~ 2250 5950
 Wire Wire Line
 	1750 6150 1750 7350
 Wire Wire Line
-	1200 6575 1200 6625
-Wire Wire Line
 	1200 6175 1750 6175
 Connection ~ 1750 6175
 Wire Wire Line
@@ -5395,8 +5393,6 @@ Wire Wire Line
 	1450 3500 1600 3500
 Wire Wire Line
 	1600 3500 1600 3600
-Text Notes 750  6225 0    60   ~ 0
-FOOTPRINT \nTOO BIG - changed \nto 5.3mm
 Text Notes 4350 1475 0    60   ~ 0
 NEED TO ENSURE U2 GETS FULL RAIL HERE \nFOR MAXIMUM VB ACCENT.\n\n
 Text Notes 9675 12925 0    60   ~ 0
@@ -5461,4 +5457,56 @@ Text GLabel 1750 5475 1    60   UnSpc ~ 0
 V6+
 Text GLabel 2250 5475 1    60   UnSpc ~ 0
 V6+
+$Comp
+L LM4040 D97
+U 1 1 5AF6BE7E
+P 1025 5600
+F 0 "D97" V 1250 5775 50  0000 C CNN
+F 1 "LM4040" V 1175 5775 40  0000 C CNN
+F 2 "MyModules:SOT23-132-JRL" V 2125 5950 60  0001 C CNN
+F 3 "" H 1025 5600 60  0000 C CNN
+	1    1025 5600
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 875  5600
+Text GLabel 1025 4925 1    60   UnSpc ~ 0
+V6+
+$Comp
+L R_US R495
+U 1 1 5AF6CE61
+P 1025 5125
+F 0 "R495" H 850 5150 50  0000 C CNN
+F 1 "1K" H 875 5075 50  0000 C CNN
+F 2 "MyModules:SM0603-R-JRL" H 1025 5125 60  0001 C CNN
+F 3 "" H 1025 5125 60  0000 C CNN
+	1    1025 5125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1025 5325 1025 5400
+$Comp
+L GND_R #PWR?
+U 1 1 5AF6EDD9
+P 1025 5850
+F 0 "#PWR?" H 1025 5850 30  0001 C CNN
+F 1 "GND_R" H 1025 5750 30  0001 C CNN
+F 2 "" H 1025 5850 60  0000 C CNN
+F 3 "" H 1025 5850 60  0000 C CNN
+	1    1025 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1025 5800 1025 5850
+Wire Wire Line
+	1200 5375 1200 6200
+Wire Wire Line
+	1200 5375 1025 5375
+Connection ~ 1025 5375
+Connection ~ 1200 6175
+Wire Wire Line
+	1200 6600 1200 6625
+Text Notes 1100 5200 0    60   ~ 0
+LM4040\nalternative voltage\nreference for MC14584
+Text Notes 750  6225 0    60   ~ 0
+FOOTPRINT \nTOO BIG - changed \nto 5.3mm
 $EndSCHEMATC
