@@ -50,7 +50,7 @@ U 1 1 5693E267
 P 1200 6400
 F 0 "C12" H 1375 6400 50  0000 L CNN
 F 1 "100μ" H 1325 6325 50  0000 L CNN
-F 2 "Capacitors_SMD:c_elec_6.3x5.3" H 1200 6400 60  0001 C CNN
+F 2 "MyModules:jrl_c_elec_5x5.3" H 1200 6400 60  0001 C CNN
 F 3 "" H 1200 6400 60  0000 C CNN
 	1    1200 6400
 	-1   0    0    -1  
@@ -5505,8 +5505,8 @@ Connection ~ 1025 5375
 Connection ~ 1200 6175
 Wire Wire Line
 	1200 6600 1200 6625
-Text Notes 750  6225 0    60   ~ 0
-FOOTPRINT \nTOO BIG - changed \nto 5.3mm
 Text Notes 1100 5200 0    60   ~ 0
 LM4040\nalternative voltage\nreference for MC14584
+Text Notes 750  6225 0    60   ~ 0
+FOOTPRINT \nTOO BIG - changed \nto 5.3mm
 $EndSCHEMATC
