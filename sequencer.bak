@@ -4787,9 +4787,9 @@ F 3 "" H 7325 1800 60  0000 C CNN
 	1    7325 3000
 	1    0    0    -1  
 $EndComp
-Text GLabel 7575 3100 2    50   BiDi ~ 0
-DIN_TEMPO_CLK
 Text GLabel 7575 3000 2    50   BiDi ~ 0
+DIN_TEMPO_CLK
+Text GLabel 7575 3100 2    50   BiDi ~ 0
 DIN_RUN_STOP
 Wire Wire Line
 	7075 3000 6450 3000
