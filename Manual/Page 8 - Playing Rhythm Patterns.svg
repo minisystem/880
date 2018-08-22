@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="527.61453"
-     inkscape:cy="712.50185"
+     inkscape:zoom="1.3618124"
+     inkscape:cx="348.64883"
+     inkscape:cy="263.57021"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="450.54,1133.48"
      inkscape:measure-end="197.194,1129"
@@ -65,7 +65,7 @@
        id="guide4416"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="135.92875,255.01549"
+       position="135.83331,223.47472"
        orientation="1,0"
        id="guide4418"
        inkscape:locked="false" />
@@ -115,9 +115,29 @@
        id="guide7352"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="24.149669,217.0167"
+       position="172.93012,212.50876"
        orientation="0,1"
        id="guide18755"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.149669,210.92125"
+       orientation="0,1"
+       id="guide65"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="83.835124,70.744993"
+       orientation="1,0"
+       id="guide19542"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="102.87531,70.696422"
+       orientation="1,0"
+       id="guide19544"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="121.01692,70.817851"
+       orientation="1,0"
+       id="guide19546"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -128,7 +148,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -204,7 +224,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7140"
        width="66"
-       height="34.845238"
+       height="63.089794"
        x="66.058167"
        y="32.418079" />
     <flowRoot
@@ -221,13 +241,15 @@
            width="100%"
            height="100%"
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
-         id="flowPara8964">With the sequencer stopped, press the MODE selector button to select MANUAL PLAY mode.  The STEP buttons are divided into two groups, 12 BASIC RHYTHMs and 4 INTRO/FILLs.  The currently selected BASIC RHYTHM will blink in time with the tempo and the currently selected INTRO/FILL LED will remain solid.</flowPara><flowPara
+         id="flowPara8964">MANUAL PLAY mode is a performance mode that allows Rhythm Patterns to be selected and played in real time. Fill In rhythms can be programmed to play at intervals or manually using the TAP button.</flowPara><flowPara
+         id="flowPara57" /><flowPara
+         id="flowPara59">With the sequencer stopped, press the MODE selector button to select MANUAL PLAY mode.  The STEP buttons are divided into two groups, 12 BASIC RHYTHMs and 4 INTRO/FILLs.  The currently selected BASIC RHYTHM will blink in time with the tempo and the currently selected INTRO/FILL LED will remain solid.</flowPara><flowPara
          id="flowPara18680" /><flowPara
-         id="flowPara8966">Press the START/STOP button. The sequencer will begin to play the selected BASIC RHYTHM Pattern. </flowPara><flowPara
+         id="flowPara8966">Press the START/STOP button. The sequencer will begin to play the selected BASIC RHYTHM pattern. While the sequencer is playing, select a new BASIC </flowPara><flowPara
          id="flowPara8956" /></flowRoot>    <rect
        y="32.418083"
        x="135.83331"
-       height="35.237503"
+       height="56.188442"
        width="66"
        id="rect7150"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -243,60 +265,153 @@
            id="use9111"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8974">While the sequencer is playing, select a new BASIC RHYTHM pattern.  When the current pattern finishes playing, the new pattern will start to play. </flowPara><flowPara
-         id="flowPara18713"></flowPara><flowPara
-         id="flowPara18715">You may use the BASIC VARIATION button to select the desired variation, A or B. Hold the SHIFT-WRITE/NEXT key and press the BASIC VARIATION button to enter the alternating A-B mode.</flowPara></flowRoot>    <path
+         id="flowPara8974">RHYTHM pattern.  When the current pattern finishes playing the new pattern will start to play.  If you wish to change the current Pattern Bank, press and hold the SHIFT-WRITE/NEXT key <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
+   id="flowSpan19623">and </flowSpan>the ALT key and select one of the 12 Pattern Banks using the STEP buttons.</flowPara><flowPara
+         id="flowPara88" /><flowPara
+         id="flowPara90">(NOTE: MANUAL PLAY mode is the only mode where the SHIFT-WRITE/NEXT key needs to be used in combination with the ALT key to change the Pattern Bank)  </flowPara><flowPara
+         id="flowPara18713" /><flowPara
+         id="flowPara63">The BASIC VARIATION button can be used to select the desired rhythm variation, A or B. Hold the SHIFT-WRITE/NEXT key and press the BASIC VARIATION button to enter the alternating A-B mode.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8984"
-       d="M 24.466817,78.299923 H 201.46682"
+       d="M 24.466817,95.507874 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
-       y="83.366577"
+       y="100.57454"
        id="text8986"><tspan
          id="tspan8990"
          sodipodi:role="line"
          x="24.111706"
-         y="83.366577"
+         y="100.57454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Adding Intros</tspan><tspan
          sodipodi:role="line"
          x="24.111706"
-         y="88.411301"
+         y="105.61926"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan24081">and Fill Ins</tspan></text>
     <rect
-       y="78.544365"
+       y="96.828728"
        x="66.092064"
-       height="76.836098"
-       width="66"
+       height="107.92115"
+       width="66.000008"
        id="rect8992"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot18717"
-       transform="translate(0.03390032,1.5712829)"><flowRegion
+       transform="translate(0.03347015,8.2139654)"><flowRegion
          id="flowRegion18719"><use
            x="0"
            y="0"
            xlink:href="#rect8992"
            id="use18721"
            width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara18733">You may add an introductory pattern that plays only once after the sequencer starts and is then followed by the selected BASIC RHYTHM pattern.  With the sequencer stopped, press the TAP button. The selected BASIC RHYTHM LED will become solid and the selected INTRO/FILL IN LED will flash. This indicates that the Intro pattern is active and will play when the sequencer is started.  To cancel the Intro function, press the TAP button again. The selected BASIC RHYTHM LED will begin flashing and the INTRO/FILL IN LED will remain solid.</flowPara><flowPara
-         id="flowPara18777"></flowPara><flowPara
-         id="flowPara18779"> While the seuqencer is playing press the TAP button. The currently playing BASIC RHYTHM will finish and the selected INTRO/FILL IN pattern will play </flowPara></flowRoot>    <flowRoot
+           height="100%"
+           transform="translate(-0.03390032,-8.2139654)" /></flowRegion><flowPara
+         id="flowPara18733">You may add an introductory rhythm pattern that plays only once after the sequencer starts and is then followed by the selected BASIC RHYTHM pattern.  With the sequencer stopped, press the TAP button. The selected BASIC RHYTHM LED will become solid and the selected INTRO/FILL IN LED will flash. This indicates that the Intro pattern is active and will play before the BASIC RHYTHM pattern when the sequencer is started.  To cancel the Intro function, press the TAP button again. The selected BASIC RHYTHM LED will begin flashing and the INTRO/FILL IN LED will remain solid.</flowPara><flowPara
+         id="flowPara18777" /><flowPara
+         id="flowPara18779">A Fill In rhythm pattern can be inserted between the BASIC RHYTHM  pattern manually or at a programm-ed number of measures.  To manually insert a Fill In rhythm, set the AUTO FILL IN selector to MAN and start the sequencer. The currently selected BASIC RHYTHM will begin to play. While the sequencer is playing press the TAP button. The currently playing BASIC RHYTHM will finish and the selected INTRO/FILL IN pattern will play once. Pressing the TAP button again before the Fill In pattern finishes will make it play again.</flowPara><flowPara
+         id="flowPara100" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold'"
+         id="flowPara482"><flowSpan
+           id="flowSpan19579"
+           style="font-weight:normal;font-size:2.99861121px;-inkscape-font-specification:FreeSans">If the BASIC VARIATION mode is set to alternate between variation A and B then pressing the TAP button will replace the next variation with the Fill In  rhythm pattern. For example, if variation A is playing and the TAP button is pressed, then the Fill In will re-place the queued B variation and return to the A variation.</flowSpan></flowPara><flowPara
+         id="flowPara472"
+         style="font-size:2.11666656px" /></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect67"
+       width="66.000008"
+       height="98.508812"
+       x="135.83289"
+       y="97.375961" />
+    <flowRoot
+       transform="translate(139.51648,8.2139654)"
+       id="flowRoot79"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion71"><use
+           transform="translate(-69.774716,-8.2139654)"
+           height="100%"
+           width="100%"
+           id="use69"
+           xlink:href="#rect8992"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5243">Normal variation sequence:</flowPara><flowPara
+         id="flowPara19601"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">VAR A . . . . . . . . . . . . . . . . . . . . . . . . . VAR B . . . . . . . . . . . . . . . . . . . . . . . . .  VAR A</flowPara><flowPara
+         id="flowPara19603"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="flowPara5245">Sequence with Fill In:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+         id="flowPara5249">VAR A [TAP] . .  . . . . . . . . . . . . . . . . FILL IN . . . . . . . . . . . . . . . . . . . . . . . . . VAR A</flowPara><flowPara
+         id="flowPara19605" /><flowPara
+         id="flowPara19607">The same holds true if the TAP button is pressed again to repeat the Fill In.</flowPara><flowPara
+         id="flowPara19609" /><flowPara
+         id="flowPara5251">Normal variation sequence:</flowPara><flowPara
+         id="flowPara19611"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">VAR A . . . . . . . . . . . . . .VAR B . . . . . . . . . . . . . . . VAR A . . . . . . . . . . . . . . VAR B</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+         id="flowPara5253" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="flowPara5257">Sequence with Fill In:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+         id="flowPara5259">VAR A [TAP] . . . . . . . FILL IN [TAP] . . . . . . . . FILL IN . . . . . . . . . . . . . VAR B </flowPara><flowPara
+         id="flowPara19615" /><flowPara
+         id="flowPara19617">Fill Ins can also be programmed to occur automatically by setting the AUTO FILL IN selector to the desired interval number.  The Fill In rhythm Pattern can be programmed to play every 2nd, 4th, 8th, 12th and 16th measure, automatically.  To cancel automatic Fill Ins, set the AUTO FILL IN selector to MAN. </flowPara><flowPara
+         id="flowPara75" /><flowPara
+         id="flowPara77">An Intro or Fill In's  BASIC VARIATION can be selected using the I/F VAR button.</flowPara><flowPara
+         id="flowPara96" /><flowPara
+         id="flowPara98">(NOTE: in all other modes the I/F VAR button functions as the ALT key. To access the ALT key function in MANUAL PLAY mode you must also press the SHIFT-WRITE/NEXT key)  </flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.466817,211.18362 H 201.46682"
+       id="path10187"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text10193"
+       y="216.25029"
+       x="24.111706"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan10191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="216.25029"
+         x="24.111706"
+         sodipodi:role="line">Auditioning Drum</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="221.29501"
+         x="24.111706"
+         sodipodi:role="line"
+         id="tspan10246">Hits</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10195"
+       width="66.000008"
+       height="43.626312"
+       x="66.092064"
+       y="212.69482" />
+    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot18735"><flowRegion
-         id="flowRegion18737" /><flowPara
-         id="flowPara18741"> programmed with 0 steps.  Simply clear a pattern, program the 1st PART, set the Mode to the 2nd PART and progam a layer that will play inbetween the steps of the 1st PART.  In layering mode, the sequenceer LEDs will not blink while the 2nd PART is edited.  Extending the 2nd PART beyond 0 steps will now append the 2nd PART to the 1st PART and the layering mode will be disabled.</flowPara><flowPara
-         id="flowPara18743" /><flowPara
-         id="flowPara18745">The 2nd PART can be toggled between a layer and an extension of the 1st PART.  To extend the 1st PART with the 2nd PART, press and hold the CLEAR button and select any of steps from #1 to #16.  To activate layering mode again, press and hold the CLEAR button and press step #1 twice.  This will reset the 2nd PART to 0 steps and any pattern programmed in the 2nd PART will now play in between the steps of the 1st PART. </flowPara><flowPara
-         id="flowPara18747" /><flowPara
-         id="flowPara18749">Note that resetting the 2nd PART to 0 steps does not clear any instruments programmed therein. You may extend the 2nd PART beyond 0 steps and any previously programmed pattern will again be appened to the 1st PART.</flowPara><flowPara
-         id="flowPara18751" /><flowPara
-         id="flowPara18753" /></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot10217"><flowRegion
+         id="flowRegion10219"><use
+           x="0"
+           y="0"
+           xlink:href="#rect10195"
+           id="use10221"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="flowPara10233">in MANUAL MODE the Instrument Selector buttons can be used to trigger the drum voices.  This allows the different drum sounds to be audtioned to sketch out rhythms in real-time and can also be used to improvise over top of a currently playing rhythm pattern.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="flowPara10250" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         id="flowPara10252">The paired instruments are accessed by switching between the A and B INTRO/FILL IN mode.  When the INTRO/FILL IN mode is set to A, the bottom row of instruments are triggered and when teh INTRO/FILL IN mode is set to B, the top row of instruments are triggered.</flowPara><flowPara
+         id="flowPara10235"
+         style="font-size:2.11666656px" /></flowRoot>  </g>
 </svg>
