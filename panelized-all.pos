@@ -1,4 +1,4 @@
-### Module positions - created on 2018-06-11 10:16:29 AM ###
+### Module positions - created on 2018-09-04 2:41:05 PM ###
 ### Printed by Pcbnew version pcbnew 4.0.2-stable
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -286,6 +286,14 @@ D80       BAT54SL       SOT23-132-JRL                      190.0000   -80.1000  
 D82       BAT54SL       SOT23-132-JRL                      205.8000   -81.5000  270.0000  bottom
 D84       BAT54SL       SOT23-132-JRL                      224.0000   -81.5000  270.0000  bottom
 D97       LM4040        SOT23-132-JRL                      272.8000  -118.4500  180.0000  bottom
+D98       NSR0530HT1G   SOD323-C1A2                        109.8000   -55.3500   90.0000  bottom
+D99       NSR0530HT1G   SOD323-C1A2                        108.3000   -55.3500  270.0000  bottom
+D100      NSR0530HT1G   SOD323-C1A2                        115.0000   -57.6500  180.0000  bottom
+D101      NSR0530HT1G   SOD323-C1A2                        120.4000   -55.3500  270.0000  bottom
+D102      NSR0530HT1G   SOD323-C1A2                         80.2000   -59.4500  270.0000  bottom
+D103      NSR0530HT1G   SOD323-C1A2                         80.2000   -55.7500  270.0000  bottom
+D104      NSR0530HT1G   SOD323-C1A2                         80.2000   -63.0500   90.0000  bottom
+D105      NSR0530HT1G   SOD323-C1A2                         78.6000   -63.0500  270.0000  bottom
 F1        FUSE          SM0805-HAND                         77.4000   -92.5500  180.0000  bottom
 F2        FUSE          SM0805-HAND                         79.4500  -107.6000    0.0000  bottom
 G***      LOGO          80_logo                            150.6500  -134.9000  180.0000  bottom
@@ -301,23 +309,23 @@ P2        CONN_01X08    Molex_522710479_8_FFC              124.5000  -146.5000  
 P4        CONN_01X01    TEST_PAD_2MM                       267.1000   -97.3500    0.0000  bottom
 P5        CONN_01X01    TEST_PAD_2MM                       271.2000   -57.3500    0.0000  bottom
 Q1        C945          SOT23-132-JRL                      287.0000  -108.2500  180.0000  bottom
-Q1-1      PMP4201       SOT363-JRL                         257.0000   -85.7500   90.0000  bottom
+Q1-1      PMP4201       SOT-666                            256.9500   -85.6500    0.0000  bottom
 Q2        C945          SOT23-132-JRL                      321.7500  -123.0000  180.0000  bottom
-Q2-1      PMP4201       SOT363-JRL                         257.8000   -83.2500   90.0000  bottom
+Q2-1      PMP4201       SOT-666                            257.8000   -83.2500    0.0000  bottom
 Q3        C945          SOT23-132-JRL                      328.8000  -105.5500  270.0000  bottom
-Q3-1      PMP5201       SOT363-JRL                         261.0750   -80.3750  270.0000  bottom
+Q3-1      PMP5201       SOT-666                            261.1500   -80.3500  180.0000  bottom
 Q4        C945          SOT23-132-JRL                      318.7500   -84.5000    0.0000  bottom
-Q4-1      PMP5201       SOT363-JRL                         257.8250   -80.3750   90.0000  bottom
+Q4-1      PMP5201       SOT-666                            257.9000   -80.3500    0.0000  bottom
 Q5        A733          SOT23-132-JRL                      282.5000  -100.7500  180.0000  bottom
-Q5-1      PMP5201       SOT363-JRL                         260.3250   -77.3750  180.0000  bottom
+Q5-1      PMP5201       SOT-666                            260.3250   -77.3750   90.0000  bottom
 Q6        A733          SOT23-132-JRL                      322.2500  -117.0000  180.0000  bottom
-Q6-1      PMP4201       SOT363-JRL                         260.9500   -74.7500  270.0000  bottom
+Q6-1      PMP4201       SOT-666                            260.9500   -74.7500  180.0000  bottom
 Q7        A733          SOT23-132-JRL                      328.7500  -102.5000   90.0000  bottom
-Q7-1      PMP4201       SOT363-JRL                         260.9500   -72.0000   90.0000  bottom
+Q7-1      PMP4201       SOT-666                            261.0000   -72.0500    0.0000  bottom
 Q8        A733          SOT23-132-JRL                      318.2500   -88.0000  270.0000  bottom
-Q8-1      PMP5201       SOT363-JRL                         257.0750   -72.1250  180.0000  bottom
+Q8-1      PMP5201       SOT-666                            257.1000   -72.1500   90.0000  bottom
 Q9        C945          SOT23-132-JRL                      276.1000  -118.5000  180.0000  bottom
-Q9-1      PMP4201       SOT363-JRL                         257.2750   -75.2250   90.0000  bottom
+Q9-1      PMP4201       SOT-666                            257.3000   -75.2500    0.0000  bottom
 Q10       A733          SOT23-132-JRL                      359.5000  -152.7500  270.0000  bottom
 Q11       C945          SOT23-132-JRL                      358.0000  -149.5000   90.0000  bottom
 Q12       A733          SOT23-132-JRL                      353.7500  -147.0000  180.0000  bottom
@@ -826,7 +834,7 @@ R389      10K           SM0603-R-YAGEO                      90.2500   -94.5000  
 R390      10K           SM0603-R-YAGEO                     143.5000  -116.0000  180.0000  bottom
 R391      10K           SM0603-R-YAGEO                     148.5000  -116.0000    0.0000  bottom
 R392      10K           SM0603-R-YAGEO                     179.2500  -116.0000  180.0000  bottom
-R393      22K           SM0603-R-YAGEO                      77.0009   -64.1500    0.0000  bottom
+R393      22K           SM0603-R-YAGEO                      76.3000   -64.0500    0.0000  bottom
 R394      220           SM0603-R-YAGEO                     119.1500   -66.1500   90.0000  bottom
 R395      10K           SM0603-R-YAGEO                     337.5000  -113.7500    0.0000  bottom
 R396      10K           SM0603-R-YAGEO                     338.5000  -153.0000  270.0000  bottom
@@ -908,14 +916,16 @@ R485      4.7K          SM0603-R-YAGEO                      93.6500   -69.9000  
 R486      1K            SM0603-R-YAGEO                      69.9000  -124.1500   90.0000  bottom
 R487      1K            SM0603-R-YAGEO                      71.9000  -121.6500   90.0000  bottom
 R488      270           SM0603-R-YAGEO                     113.0000   -74.1500   90.0000  bottom
-R489      10K           SM0603-R-YAGEO                      77.0009   -62.4000  180.0000  bottom
+R489      10K           SM0603-R-YAGEO                      76.3000   -62.3500  180.0000  bottom
 R490      10K           SM0603-R-YAGEO                      72.4000   -71.7500  180.0000  bottom
 R491      10K           SM0603-R-YAGEO                      72.4000   -73.5500    0.0000  bottom
 R492      10K           SM0603-R-YAGEO                      74.6000   -69.1500    0.0000  bottom
 R494      1K            SM0603-R-YAGEO                      80.8000   -69.2500  180.0000  bottom
 R495      1K            SM0603-R-YAGEO                     274.5500  -115.0000  270.0000  bottom
-REF**     fiducial-1mm  fiducial-1mm                        77.1500  -186.4000    0.0000  bottom
+R496      1K            SM0603-R-YAGEO                     106.2000   -61.0500  270.0000  bottom
+R497      1K            SM0603-R-YAGEO                     121.6500   -64.4000  270.0000  bottom
 REF**     fiducial-1mm  fiducial-1mm                       358.9000   -48.1500    0.0000  bottom
+REF**     fiducial-1mm  fiducial-1mm                        77.1500  -186.4000    0.0000  bottom
 TM1       200K(B)       TC33X-2                            289.0000  -116.0000  180.0000  bottom
 TM2       200K(B)       TC33X-2                            269.9000  -127.9000    0.0000  bottom
 TM3       10K(B)        TC33X-2                            263.0000  -111.5000  180.0000  bottom
@@ -1015,7 +1025,7 @@ R443      470           SM0603-R-YAGEO                     205.2500   -87.0000  
 R447      470           SM0603-R-YAGEO                     241.2500   -87.0000  180.0000  top
 R448      470           SM0603-R-YAGEO                     261.0000  -109.0000  180.0000  top
 R493      100           SM0603-R-YAGEO                     340.2500  -118.4000    0.0000  top
-REF**     fiducial-1mm  fiducial-1mm                       358.9000   -48.1500    0.0000  top
 REF**     fiducial-1mm  fiducial-1mm                       191.1500   -58.9000    0.0000  top
 REF**     fiducial-1mm  fiducial-1mm                        77.1500  -186.4000    0.0000  top
+REF**     fiducial-1mm  fiducial-1mm                       358.9000   -48.1500    0.0000  top
 ## End

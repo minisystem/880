@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="480.42551"
-     inkscape:cy="220.38766"
+     inkscape:cx="374.84046"
+     inkscape:cy="799.59708"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -214,7 +214,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7140"
        width="65"
-       height="76.836098"
+       height="84.26059"
        x="66.058167"
        y="32.418079" />
     <flowRoot
@@ -235,7 +235,8 @@
          id="flowPara8952" /><flowPara
          id="flowPara8954">Press the MODE selector button to select 1st PART. Select the instrument you wish to program using the Instrument selector buttons. Press START/STOP to start the sequencer. The STEP LEDs will light in sequence as each step of the pattern is triggered.  Use the STEP buttons to select the steps on which the current instrument will be triggered.  Active steps for the currently selected instrument are indicated by solidly lit STEP LEDs.</flowPara><flowPara
          id="flowPara8962" /><flowPara
-         id="flowPara8964">Select a different instrument and program the steps on which you want it to trigger. Alternatively, press the TAP button wherever you want to program the instru-ment in the pattern. The instrument will be pro-grammed to the nearest step.  To edit any incorrectly </flowPara><flowPara
+         id="flowPara8964">Select a different instrument and program the steps on which you want it to trigger. Alternatively, press the TAP button wherever you want to program the instru-ment in the pattern. The instrument will be pro-grammed to the nearest step.  To edit any incorrectly</flowPara><flowPara
+         id="flowPara6653">entered steps simply press the button for the step you </flowPara><flowPara
          id="flowPara8966" /><flowPara
          id="flowPara8956" /></flowRoot>    <rect
        y="32.418083"
@@ -405,7 +406,7 @@
            id="use29815"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara29817">entered steps simply press the button for the step you wish to edit to toggle off the instrument.  Continue to select and program instruments until you are satisfied with the pattern you have created, then stop the pattern by pressing START/STOP.</flowPara><flowPara
+         id="flowPara29817">wish to edit to toggle off the instrument.  Continue to select and program instruments until you are satisfied with the pattern you have created, then stop the pattern by pressing START/STOP.</flowPara><flowPara
          id="flowPara29819" /><flowPara
          id="flowPara29821">Press the BASIC-VARIATION button to select BASIC VARIATION B mode.  Set the MODE selector to PATTERN CLEAR.  Press the CLEAR button to clear the B mode pattern.  Now start the sequencer and program a second Rhythm Pattern for B mode. </flowPara><flowPara
          id="flowPara29823" /><flowPara

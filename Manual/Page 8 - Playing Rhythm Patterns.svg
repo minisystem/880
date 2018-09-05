@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3618124"
-     inkscape:cx="348.64883"
-     inkscape:cy="292.94284"
+     inkscape:zoom="0.6809062"
+     inkscape:cx="299.95426"
+     inkscape:cy="725.53796"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -392,7 +392,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10195"
        width="66.000008"
-       height="43.626312"
+       height="24.780411"
        x="66.092064"
        y="212.69482" />
     <flowRoot
@@ -411,7 +411,29 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="flowPara10250" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="flowPara10252">The paired instruments are accessed by switching between the A and B INTRO/FILL IN mode.  When the INTRO/FILL IN mode is set to A, the bottom row of instruments are triggered and when teh INTRO/FILL IN mode is set to B, the top row of instruments are triggered.</flowPara><flowPara
+         id="flowPara10252">The paired instruments are accessed by switching </flowPara><flowPara
          id="flowPara10235"
-         style="font-size:2.11666656px" /></flowRoot>  </g>
+         style="font-size:2.11666656px" /></flowRoot>    <rect
+       y="212.69482"
+       x="135.83357"
+       height="24.780411"
+       width="66.000015"
+       id="rect5910"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       id="flowRoot5924"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(69.741513)"><flowRegion
+         id="flowRegion5914"><use
+           height="100%"
+           width="100%"
+           id="use5912"
+           xlink:href="#rect10195"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5920"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans">between the A and B INTRO/FILL IN mode.  When the INTRO/FILL IN mode is set to A, the bottom row of instruments are triggered and when the INTRO/FILL IN mode is set to B, the top row of instruments are triggered.</flowPara><flowPara
+         style="font-size:2.11666656px"
+         id="flowPara5922" /></flowRoot>  </g>
 </svg>
