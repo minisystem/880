@@ -76,8 +76,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2537285"
-     inkscape:cx="633.59035"
-     inkscape:cy="702.99476"
+     inkscape:cx="494.0067"
+     inkscape:cy="894.42377"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -258,7 +258,7 @@
            id="use9111"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8972">The DIN socket is configurable as a MIDI Input, a DIN Sync24 Output or a DIN Sync24 Input. The SYNC IN jack can also be used to receive analog clock pulses.</flowPara><flowPara
+         id="flowPara8972">The DIN socket is configurable as a MIDI Input, a DIN Sync24 Output or a DIN Sync24 Input.</flowPara><flowPara
          id="flowPara8974" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8984"
@@ -342,7 +342,7 @@
          id="flowPara13510" /><flowPara
          id="flowPara13512">Holding down the SHIFT-WRITE/NEXT key while pressing the AUTO FILL IN button cycles through the</flowPara><flowPara
          id="flowPara26284">Sync Modes.</flowPara><flowPara
-         id="flowPara28661"></flowPara><flowPara
+         id="flowPara28661" /><flowPara
          id="flowPara28663">Sync Modes 1 (INTERNAL CLOCK) and 3 (DIN SYNC24 OUT) are MASTER clock modes that use</flowPara><flowPara
          id="flowPara28785">the 880's internal clock to derive the sequencer's  </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -362,7 +362,7 @@
          id="flowPara28657" /><flowPara
          id="flowPara28659">When the 880 is running as a MASTER, the SYNC LED will glow red. When running as a SLAVE, the SYNC LED will glow yellow. </flowPara><flowPara
          id="flowPara21986" /><flowPara
-         id="flowPara21988">NOTE: Like an original TR-808, the 880's user interface is dependent on an active clock signal.  When in any of the SLAVE modes the interface will appear to freeze if there isn't an active clock signal on the selected clock input.  If you set the Sync Mode to one of the slave modes without a clock present simply set the mode back to INTERNAL CLOCK to continue normal operation. </flowPara><flowPara
+         id="flowPara21988">NOTE: Like an original TR-808, the 880's user interface is dependent on an active clock signal.  In any of the SLAVE modes the interface will appear to freeze if there isn't an active clock signal on the selected clock input.  If you set the Sync Mode to one of the slave modes with-out a clock present simply set the mode back to INTERNAL CLOCK to continue normal operation. </flowPara><flowPara
          id="flowPara24346" /></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect24539"

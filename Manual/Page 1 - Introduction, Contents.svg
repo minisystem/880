@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6756067"
-     inkscape:cx="398.27322"
-     inkscape:cy="817.69022"
+     inkscape:cx="554.48433"
+     inkscape:cy="185.89155"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -259,10 +259,10 @@
          sodipodi:role="line"
          id="tspan9737">Contents</tspan></text>
     <rect
-       y="214.29897"
+       y="214.29932"
        x="66.016457"
-       height="78.436356"
-       width="135.91231"
+       height="78.435997"
+       width="136"
        id="rect9739"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
@@ -291,11 +291,11 @@
          style="line-height:4.30000019px"
          id="flowPara13923">Playing Rhythm Patterns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8</flowPara><flowPara
          style="line-height:4.30000019px"
-         id="flowPara13931">Composing the Rhythm Track . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9 </flowPara><flowPara
+         id="flowPara13931">Composing the Rhythm Track . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10 </flowPara><flowPara
          style="line-height:4.30000019px"
-         id="flowPara13933">Synchronization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10</flowPara><flowPara
+         id="flowPara13933">Synchronization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11</flowPara><flowPara
          style="line-height:4.30000019px"
-         id="flowPara13935">Specifications</flowPara><flowPara
+         id="flowPara13935">Specifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13</flowPara><flowPara
          style="line-height:4.30000019px"
          id="flowPara13937">Warranty</flowPara><flowPara
          style="line-height:4.30000019px"
@@ -322,6 +322,6 @@
          id="tspan13514"
          x="171.50099"
          y="274.87445"
-         style="stroke-width:0.26458332px"></tspan></text>
+         style="stroke-width:0.26458332px" /></text>
   </g>
 </svg>
