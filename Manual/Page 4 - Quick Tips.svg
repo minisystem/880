@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8287158"
-     inkscape:cx="421.55924"
-     inkscape:cy="591.28858"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="412.24277"
+     inkscape:cy="458.68146"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -643,7 +643,7 @@
            xlink:href="#rect7150"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara28887">and B will be copied to the destination pattern.  Any pattern data in the desination pattern will be overwritten.</flowPara><flowPara
+         id="flowPara28887">and B will be copied to the destination pattern.  Any pattern data in the destination pattern will be overwritten.</flowPara><flowPara
          id="flowPara28889" /><flowPara
          id="flowPara28891" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -705,7 +705,7 @@
            xlink:href="#rect9014-1-5-3"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara9367">The BASIC-VARIATION button toggles between Variation A and Variation B.  To alternate between A and B press and hold the SHIFT-WRITE/NEXT key </flowPara><flowPara
+         id="flowPara9367">To mute an instrument, press and hold the SHIFT-WRITE/NEXT key and press the Instrument/Track </flowPara><flowPara
          id="flowPara9369" /><flowPara
          id="flowPara9371" /></flowRoot>    <flowRoot
        transform="translate(-0.04171061,20.120271)"
@@ -719,7 +719,7 @@
            xlink:href="#rect9014-1-7"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara9379">while pressing the BASIC-VARIATION button.  To exit the alternating mode simply press the BASIC-VARIATION button once.</flowPara><flowPara
+         id="flowPara9379">selector button for the instrument you wish to mute.  Press the selector button again to un-mute.</flowPara><flowPara
          id="flowPara9381" /><flowPara
          id="flowPara9383" /></flowRoot>  </g>
 </svg>

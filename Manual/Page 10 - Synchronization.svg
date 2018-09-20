@@ -76,8 +76,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2537285"
-     inkscape:cx="494.0067"
-     inkscape:cy="894.42377"
+     inkscape:cx="543.93198"
+     inkscape:cy="822.39077"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -360,7 +360,7 @@
          id="flowPara21982" /><flowPara
          id="flowPara21984">Sync Mode 2 (MIDI IN) and the two sub modes of Mode 4 (SYNC IN) are SLAVE clock modes that require an external clock signal derived from MIDI clock, DIN SYNC24 clock, or a clock pulse on the SYNC IN jack.</flowPara><flowPara
          id="flowPara28657" /><flowPara
-         id="flowPara28659">When the 880 is running as a MASTER, the SYNC LED will glow red. When running as a SLAVE, the SYNC LED will glow yellow. </flowPara><flowPara
+         id="flowPara28659">When the 880 is running as a MASTER, the SYNC LED will glow red. When running as a SLAVE, the SYNC LED will glow orange.  If the 880 is waiting for an external clock pulse, the SYNC LED will glow yellow. </flowPara><flowPara
          id="flowPara21986" /><flowPara
          id="flowPara21988">NOTE: Like an original TR-808, the 880's user interface is dependent on an active clock signal.  In any of the SLAVE modes the interface will appear to freeze if there isn't an active clock signal on the selected clock input.  If you set the Sync Mode to one of the slave modes with-out a clock present simply set the mode back to INTERNAL CLOCK to continue normal operation. </flowPara><flowPara
          id="flowPara24346" /></flowRoot>    <rect
@@ -2335,5 +2335,28 @@
          y="29.84165"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan28773">10</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 69.147515,64.59943 h 4.402163"
+       id="path9834"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9836"
+       d="m 76.086516,68.106237 2.64876,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 77.802613,75.194464 h 2.64876"
+       id="path9838"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9840"
+       d="m 86.718856,71.76227 5.633276,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1719811"
-     inkscape:cx="572.79338"
-     inkscape:cy="322.80733"
+     inkscape:cx="416.64752"
+     inkscape:cy="425.19806"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -128,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -312,7 +312,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara24236">Press the MODE selector button to select COMOPSE mode. Use the Instrument/Track buttons to select the Rhythm Track memory slot you wish to use.  Press the CLEAR button to clear the Rhythm Track. The COMPOSE LED will flash rapidly to indicate that the currently selected Rhythm Track is being cleared in memory.</flowPara><flowPara
          id="flowPara24250" /><flowPara
-         id="flowPara24252">Start the sequencer.  The first pattern in the first bank will start to play. If you wish to change the pattern bank, press and hold the ALT key and use STEP buttons 1 to 12 to select a new pattern bank.</flowPara><flowPara
+         id="flowPara24252">Start the sequencer.  The first pattern in the first bank will start to play. If you wish to change the pattern bank, press and hold the ALT key and STEP buttons 1 to 12 to select a new pattern bank.</flowPara><flowPara
          id="flowPara24328" /><flowPara
          id="flowPara24330">Using the the STEP buttons, select the pattern you wish to play for the first measure of the Rhythm Track. Press the SHIFT-WRITE/NEXT key to commit the pattern to memory and advance to the next measure.  To commit the same pattern to memory, simply press the SHIFT-WRITE/NEXT key again and advance to the next measure.  When you want to select a new pattern, use the STEP buttons to select it. You may also use the ALT key to select a different pattern bank.</flowPara><flowPara
          id="flowPara24242" /><flowPara
@@ -492,5 +492,5 @@
            height="30.167158"
            x="199.70659"
            y="508.91968" /></flowRegion><flowPara
-         id="flowPara10570"></flowPara></flowRoot>  </g>
+         id="flowPara10570" /></flowRoot>  </g>
 </svg>
