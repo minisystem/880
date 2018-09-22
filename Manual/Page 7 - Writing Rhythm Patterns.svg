@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="374.84046"
-     inkscape:cy="799.59708"
+     inkscape:cx="432.73183"
+     inkscape:cy="292.78884"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -311,7 +311,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara9068">When layered, the steps in the 2nd PART will be triggered inbetween the steps of the 1st PART.  This</flowPara><flowPara
-         id="flowPara8075">layering mode is active only when the 2nd PART is set to 0 steps.  Simply clear a pattern, program the 1st PART, set the mode to the 2nd PART and progam a layer that will play inbetween the steps of the 1st PART.  In layering mode, the sequencer LEDs will not blink while the 2nd PART is edited.  Extending the 2nd PART beyond 0 steps will now append the 2nd PART to the 1st PART and the layering mode will be disabled.</flowPara><flowPara
+         id="flowPara8075">layering mode is active only when the 2nd PART is set to 0 steps.  Simply clear a pattern, program the 1st PART, set the mode to the 2nd PART and progam a layer that will play inbetween the steps of the 1st PART.  In layering mode, the sequencer LEDs will not blink while the 2nd PART is edited.  </flowPara><flowPara
          id="flowPara9070" /><flowPara
          id="flowPara9078">The 2nd PART can be toggled between a <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
@@ -433,10 +433,12 @@
            x="0"
            y="0"
            xlink:href="#rect9014-1"
-           id="use8097" /></flowRegion><flowPara
+           id="use8097"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
          id="flowPara8099">1st or 2nd PART and the changes are saved in memory with the current pattern.</flowPara><flowPara
          id="flowPara8101" /><flowPara
-         id="flowPara8103">To set the PRE SCALE, the sequencer must be running and the mode must be set to 1st PART or 2nd PART. Press and hold the SHIFT-WRITE/NEXT key and then press the CLEAR button  to select the desired PRE SCALE setting indicated by the 4 LEDs next to the scale bars. </flowPara><flowPara
+         id="flowPara8103">To set the PRE SCALE, the sequencer must be running and the mode must be set to 1st PART or 2nd PART.  Press and hold the SHIFT-WRITE/NEXT key and then press the CLEAR button  to select the desired PRE SCALE setting indicated by the 4 LEDs next to the scale bars. </flowPara><flowPara
          id="flowPara8105" /><flowPara
          id="flowPara8107" /></flowRoot>    <flowRoot
        xml:space="preserve"
