@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.7393315"
-     inkscape:cx="627.96525"
-     inkscape:cy="141.9025"
+     inkscape:zoom="0.83780336"
+     inkscape:cx="730.22317"
+     inkscape:cy="612.19599"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="249.797,1006.64"
      inkscape:measure-end="249.797,1000.25"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -297,7 +297,7 @@
          id="tspan8082"
          x="193.27328"
          y="260.36652"
-         style="stroke-width:0.26458332px"> </tspan></text>
+         style="stroke-width:0.26458332px" /></text>
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:4.30000019px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0185439"
-     inkscape:cx="283.85973"
-     inkscape:cy="569.34204"
+     inkscape:zoom="2.0370878"
+     inkscape:cx="392.03196"
+     inkscape:cy="952.7137"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1162,7 +1162,7 @@
            id="use11213"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara11219">5 V setting (default):</flowPara><flowPara
+         id="flowPara11219">5 Volt setting (default):</flowPara><flowPara
          id="flowPara11221" /><flowPara
          id="flowPara11223" /></flowRoot>    <flowRoot
        id="flowRoot11237"
@@ -1177,7 +1177,7 @@
            xlink:href="#rect7150"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara11231">12 V setting:</flowPara><flowPara
+         id="flowPara11231">12 Volt setting:</flowPara><flowPara
          id="flowPara11233" /><flowPara
          id="flowPara11235" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1190,9 +1190,9 @@
            id="use11325"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara11327">Trigger 2 has a selectable output level that allows the trigger output to be set to 5 V or 12 V.  A 12 V trigger level may be required to trigger the envelopes and clock inputs of some vintage equipment (eg. ARP 2600, Roland System 100/100M, etc.).</flowPara><flowPara
+         id="flowPara11327">Trigger 2 has a selectable output level that allows the trigger output to be set to 5 Volts or 12 Volts.  A 12 Volt trigger level may be required to trigger the envelopes and clock inputs of some vintage equipment (eg. ARP 2600, Roland System 100/100M, etc.).</flowPara><flowPara
          id="flowPara11329" /><flowPara
-         id="flowPara11331">A jumper connector on the back of the 880 is used to set the Trigger 2 level (Fig. 3).  It is set to 5 V at the factory.  To change the Trigger 2 level to 12 V,  remove the jumper with a pair of tweezers or needle-nose pliers and move it to the 12 V setting.  Ensure there is no power applied to the 880 when changing the jumper setting.  </flowPara><flowPara
+         id="flowPara11331">A jumper connector on the back of the 880 is used to set the Trigger 2 level (Fig. 3).  It is set to 5 Volts at the factory.  To change the Trigger 2 level to 12 Volts,  remove the jumper with a pair of tweezers or needle-nose pliers and move it to the 12 Volt setting.  Ensure there is no power applied to the 880 when changing the jumper setting.  </flowPara><flowPara
          id="flowPara11333" /><flowPara
          id="flowPara11335" /></flowRoot>    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
