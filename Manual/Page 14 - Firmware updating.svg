@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6574316"
-     inkscape:cx="463.28425"
-     inkscape:cy="829.27641"
+     inkscape:zoom="1.1719811"
+     inkscape:cx="293.03477"
+     inkscape:cy="732.33215"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -159,51 +159,51 @@
      style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,30.660872 177.000003,0"
+       d="M 8.166817,30.660872 H 185.16682"
        id="path4305"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="24.226927"
+       x="7.9269266"
        y="12.048338"
        id="text4410"><tspan
          sodipodi:role="line"
          id="tspan4408"
-         x="24.226927"
+         x="7.9269266"
          y="16.846117"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px" /><tspan
          sodipodi:role="line"
-         x="24.226927"
+         x="7.9269266"
          y="22.843338"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan4412">Firmware</tspan><tspan
          sodipodi:role="line"
-         x="24.226927"
+         x="7.9269266"
          y="28.840561"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan26684">Updating</tspan></text>
     <text
        id="text7052"
        y="29.84165"
-       x="195.29854"
+       x="178.99854"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan7056"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          y="29.84165"
-         x="195.29854"
+         x="178.99854"
          sodipodi:role="line">14</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7140"
        width="66"
        height="164.40685"
-       x="66.058167"
+       x="49.758167"
        y="32.344246" />
     <rect
        y="32.344246"
-       x="135.83331"
+       x="119.53331"
        height="62.559978"
        width="66"
        id="rect7150"
@@ -284,8 +284,8 @@
          id="flowPara21783">    rapidly.  The SYNC LED will remain solid red if the</flowPara><flowPara
          id="flowPara21785">    firmware is not being received.</flowPara><flowPara
          id="flowPara21745" /><flowPara
-         id="flowPara21747">5. Wait until your MIDI utility software finshes sending </flowPara><flowPara
-         id="flowPara21787">    the sysex firmware update file.  When it finishes the </flowPara><flowPara
+         id="flowPara21747">5. Wait until your MIDI utility software finishes sending </flowPara><flowPara
+         id="flowPara21787">    the sysex firmware update file.  When complete the </flowPara><flowPara
          id="flowPara21789">    880 will reboot with the new firmware installed.</flowPara><flowPara
          id="flowPara21749" /><flowPara
          id="flowPara21751" /></flowRoot>  </g>

@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83780336"
-     inkscape:cx="730.22317"
-     inkscape:cy="612.19599"
+     inkscape:zoom="1.1848329"
+     inkscape:cx="464.67149"
+     inkscape:cy="494.2896"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,8 +39,8 @@
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="249.797,1006.64"
-     inkscape:measure-end="249.797,1000.25"
+     inkscape:measure-start="762.854,1013.63"
+     inkscape:measure-end="793.783,1013.63"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:bbox-paths="true"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,11 +166,11 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.226927"
-       y="28.672184"
+       y="29.703714"
        id="text4410"><tspan
          sodipodi:role="line"
          x="24.226927"
-         y="28.672184"
+         y="29.703714"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan4412">Introduction</tspan></text>
     <text
@@ -207,7 +207,7 @@
            transform="translate(-0.033905,1.7572103)" /></flowRegion><flowPara
          id="flowPara7148">The System80 880 is an analog drum machine for the Eurorack modular synthesizer format.  Its drum voice circuits are based on the TR-808, the classic drum machine made by Roland Corporation between 1980 and 1983.  Wherever possible, the 880 uses the exact same semiconductors specified in the original circuits.  The sound very closely matches the sound and character of the two vintage TR-808s that were as references during the 880's design.  Variation in component tolerances as well as component aging  may contribute to some perceptable differences in sound between the 880 and a vintage TR-808. However, the same holds true for sound comparisons between original TR-808s and other 808 clones.  </flowPara><flowPara
          id="flowPara9028" /><flowPara
-         id="flowPara9030">The 880 features all 16 of the original TR-808's analogue drum voices with one important difference: the five switchable voices are controlled with electronic rather than mechanical switches.  The automatic switching between the paired drum voices allows them to be played on <flowSpan
+         id="flowPara9030">The 880 features all 16 of the original TR-808's analog drum voices with one important difference: the five switchable voices are controlled with electronic rather than mechanical switches.  The automatic switching between the paired drum voices allows them to be played on <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
    id="flowSpan9032">different</flowSpan> steps of the <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"

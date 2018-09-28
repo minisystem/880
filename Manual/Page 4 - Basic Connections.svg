@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="397.35169"
-     inkscape:cy="710.51195"
+     inkscape:zoom="0.82871578"
+     inkscape:cx="522.47585"
+     inkscape:cy="865.4019"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,8 +39,8 @@
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="450.54,1133.48"
-     inkscape:measure-end="197.194,1129"
+     inkscape:measure-start="699.979,1017.77"
+     inkscape:measure-end="793.698,1017.77"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:bbox-paths="true"
@@ -124,6 +124,16 @@
        orientation="0,1"
        id="guide28801"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.415664,264.71062"
+       orientation="1,0"
+       id="guide12473"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.1668168,266.24326"
+       orientation="1,0"
+       id="guide12475"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -133,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,55 +169,55 @@
      style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.466817,30.660872 177.000003,0"
+       d="M 8.166817,30.660872 H 185.16682"
        id="path4305"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="24.226927"
+       x="7.9269266"
        y="12.91149"
        id="text4410"><tspan
          sodipodi:role="line"
          id="tspan4408"
-         x="24.226927"
-         y="17.70927"
+         x="7.9269266"
+         y="17.709269"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px" /><tspan
          sodipodi:role="line"
-         x="24.226927"
+         x="7.9269266"
          y="23.706491"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan4412">Basic</tspan><tspan
          sodipodi:role="line"
-         x="24.226927"
+         x="7.9269266"
          y="29.703714"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan26684">Connections</tspan></text>
     <text
        id="text7052"
        y="29.84165"
-       x="198.37224"
+       x="182.07224"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan7056"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          y="29.84165"
-         x="198.37224"
+         x="182.07224"
          sodipodi:role="line">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.111706"
+       x="7.8117056"
        y="35.727699"
        id="text8986"><tspan
          sodipodi:role="line"
-         x="24.111706"
+         x="7.8117056"
          y="35.727699"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan10164">Master Output</tspan></text>
     <rect
        y="31.967484"
-       x="66.058167"
+       x="49.758167"
        height="18.792904"
        width="66"
        id="rect8992"
@@ -217,7 +227,7 @@
        id="rect9014"
        width="65.600006"
        height="19.278271"
-       x="135.83331"
+       x="119.53331"
        y="31.967506" />
     <flowRoot
        id="flowRoot8795"
@@ -260,29 +270,29 @@
          id="flowPara22554" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path24619"
-       d="M 24.466817,55.660872 H 201.46682"
+       d="M 8.166817,55.660872 H 185.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text24623"
        y="60.727699"
-       x="24.111706"
+       x="7.8117056"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan24621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="60.727699"
-         x="24.111706"
+         x="7.8117056"
          sodipodi:role="line">Instrument Outputs</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect24625"
        width="66"
        height="21.727751"
-       x="66.058167"
+       x="49.758167"
        y="56.967484" />
     <rect
        y="56.967506"
-       x="135.83331"
+       x="119.53331"
        height="19.278271"
        width="65.600006"
        id="rect24627"
@@ -318,23 +328,23 @@
          id="flowPara24665" /><flowPara
          id="flowPara24667" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.466817,82.77754 H 201.46682"
+       d="M 8.166817,82.77754 H 185.16682"
        id="path26029"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.111706"
+       x="7.8117056"
        y="87.844368"
        id="text26033"><tspan
          sodipodi:role="line"
-         x="24.111706"
+         x="7.8117056"
          y="87.844368"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan26031">Trigger Outputs</tspan></text>
     <rect
        y="84.084152"
-       x="66.058167"
+       x="49.758167"
        height="32.564106"
        width="66"
        id="rect26035"
@@ -344,7 +354,7 @@
        id="rect26037"
        width="65.600006"
        height="19.278271"
-       x="135.83331"
+       x="119.53331"
        y="84.084175" />
     <flowRoot
        transform="translate(0,52.116668)"
@@ -374,37 +384,37 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara26077">The 880 provides two independant, programmable Trigger Outputs for interfacing with synthesizers and sequencers. See the Quick Tips section on Page 5 for details on how to assign any of the instrument triggers to either of the Trigger Outputs.</flowPara><flowPara
-         id="flowPara26087"></flowPara><flowPara
-         id="flowPara26089">Each trigger signal is a positive 5 Volt, 20 millisecond pulse suitable for activating most Trigger and Gates inputs on other equipment.  </flowPara><flowPara
-         id="flowPara26079"></flowPara><flowPara
+         id="flowPara26087" /><flowPara
+         id="flowPara26089">Each trigger signal is a positive 5 Volt, 20 millisecond pulse suitable for activating most Trigger and Gate inputs on other equipment.  </flowPara><flowPara
+         id="flowPara26079" /><flowPara
          id="flowPara26081" /><flowPara
          id="flowPara26083" /><flowPara
          id="flowPara26085" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path26091"
-       d="M 24.466817,119.89422 H 201.46682"
+       d="M 8.166817,119.89422 H 185.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text26095"
        y="124.96104"
-       x="24.111706"
+       x="7.8117056"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan26093"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="124.96104"
-         x="24.111706"
+         x="7.8117056"
          sodipodi:role="line">Sync In</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect26097"
        width="66"
        height="14.083689"
-       x="66.058167"
+       x="49.758167"
        y="121.20082" />
     <rect
        y="121.20084"
-       x="135.83331"
+       x="119.53331"
        height="13.770875"
        width="65.600006"
        id="rect26099"
@@ -441,23 +451,23 @@
          id="flowPara26168" /><flowPara
          id="flowPara26170" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.466817,137.24837 H 201.46682"
+       d="M 8.166817,137.24837 H 185.16682"
        id="path26172"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="24.111706"
+       x="7.8117056"
        y="142.31525"
        id="text26176"><tspan
          sodipodi:role="line"
-         x="24.111706"
+         x="7.8117056"
          y="142.31525"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan26174">MIDI/Sync</tspan></text>
     <rect
        y="138.55502"
-       x="66.058167"
+       x="49.758167"
        height="18.792904"
        width="66"
        id="rect26178"
@@ -467,7 +477,7 @@
        id="rect26180"
        width="65.600006"
        height="19.278271"
-       x="135.83331"
+       x="119.53331"
        y="138.55505" />
     <flowRoot
        transform="translate(0,54.470833)"
@@ -481,7 +491,7 @@
            id="use26182"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara26186">The MIDI/SYNC jack is a multi-function DIN connector used to receive MIDI data and send, or receive DIN Sync (Sync24) data.  Its function is  </flowPara><flowPara
+         id="flowPara26186">The MIDI/SYNC jack is a multi-function DIN connector used to receive MIDI data and send, or receive DIN Sync (Sync24) data.  Its function is dependent on the </flowPara><flowPara
          id="flowPara26188" /><flowPara
          id="flowPara26190" /><flowPara
          id="flowPara26192" /><flowPara
@@ -497,7 +507,7 @@
            xlink:href="#rect26099"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara26202">dependent on the Synchronization Mode (see Synchronization, Page 12).  </flowPara><flowPara
+         id="flowPara26202"> Synchronization Mode (see Synchronization, Page 12).  </flowPara><flowPara
          id="flowPara26204" /><flowPara
          id="flowPara26206" /><flowPara
          id="flowPara26208" /></flowRoot>  </g>

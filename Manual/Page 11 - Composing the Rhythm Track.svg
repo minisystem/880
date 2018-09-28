@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3148631"
-     inkscape:cx="590.17769"
-     inkscape:cy="958.83025"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="585.71257"
+     inkscape:cy="406.49553"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -473,7 +473,7 @@
            id="use10544"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara10550">Stopping the Rhythm Tracks' playback before it has finished will cause it to reset to the first measure upon restart.</flowPara><flowPara
+         id="flowPara10550">Stopping the Rhythm Track's playback before it has finished will cause it to reset to the first measure upon restart.</flowPara><flowPara
          id="flowPara10665" /><flowPara
          id="flowPara10667">Selecting a new Rhythm Track while the current Rhythm Track is playing will cause the first measure of the new Rhythm Track to play after the current measure is complete.</flowPara><flowPara
          id="flowPara10661" /><flowPara

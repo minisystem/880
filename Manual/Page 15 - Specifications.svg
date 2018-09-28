@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82871578"
-     inkscape:cx="679.56865"
-     inkscape:cy="866.04284"
+     inkscape:zoom="1.1719811"
+     inkscape:cx="532.17704"
+     inkscape:cy="808.69565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -409,7 +409,7 @@
    style="font-size:2.11666656px;baseline-shift:sub"
    id="flowSpan39873">PP</flowSpan>/1 kΩ</flowPara><flowPara
          id="flowPara39879">MULTI OUT</flowPara><flowPara
-         id="flowPara39885"> ~2 - 4 V<flowSpan
+         id="flowPara39885">~2 - 4 V<flowSpan
    style="font-size:2.11666656px;baseline-shift:sub"
    id="flowSpan39877">PP</flowSpan>/1kΩ  </flowPara><flowPara
          id="flowPara39881" /><flowPara
@@ -435,7 +435,7 @@
          id="flowPara39894">TRIGGER 1 OUT</flowPara><flowPara
          id="flowPara39898">+5 V, 20 ms pulse</flowPara><flowPara
          id="flowPara39900">TRIGGER 2 OUT</flowPara><flowPara
-         id="flowPara39904">5+ V or +12 V (selectable), 20 ms pulse</flowPara><flowPara
+         id="flowPara39904">+5 V or +12 V (selectable), 20 ms pulse</flowPara><flowPara
          id="flowPara39906" /><flowPara
          id="flowPara39908" /></flowRoot>    <flowRoot
        xml:space="preserve"
