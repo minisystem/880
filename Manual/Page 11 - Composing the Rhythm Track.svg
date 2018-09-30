@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="585.71257"
-     inkscape:cy="406.49553"
+     inkscape:cx="464.43264"
+     inkscape:cy="143.65664"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="450.54,1133.48"
      inkscape:measure-end="197.194,1129"
@@ -212,7 +212,7 @@
            transform="translate(0.033905,-1.7572103)" /></flowRegion><flowPara
          id="flowPara7148">Rhythm Patterns stored in memory can be chained together into <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
-   id="flowSpan28705">Rhythm Tracks</flowSpan>.  There are 12 Rhythm Tracks available and each Rhythm Track can be composed of a chain of up to 64 rhythm patterns.</flowPara><flowPara
+   id="flowSpan28705">Rhythm Tracks</flowSpan>.  There are 12 Rhythm Tracks available and each Rhythm Track can be composed of a chain of up to 64 Rhythm Patterns.</flowPara><flowPara
          id="flowPara24212" /><flowPara
          id="flowPara24214" /><flowPara
          id="flowPara8952" /><flowPara
@@ -245,47 +245,47 @@
          id="flowPara8974" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8984"
-       d="M 24.466817,139.15973 H 201.46682"
+       d="M 24.466817,134.92637 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
-       y="144.22638"
+       y="139.9931"
        id="text8986"><tspan
          id="tspan8990"
          sodipodi:role="line"
          x="24.111706"
-         y="144.22638"
+         y="139.9931"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Editing The</tspan><tspan
          sodipodi:role="line"
          x="24.111706"
-         y="149.2711"
+         y="145.03783"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan24081">Rhythm Track</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path24168"
-       d="M 24.466817,55.047526 H 201.46682"
+       d="M 24.466817,52.930858 H 201.46682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="24.111706"
-       y="60.215107"
+       y="58.098438"
        id="text24174"><tspan
          id="tspan24170"
          sodipodi:role="line"
          x="24.111706"
-         y="60.215107"
+         y="58.098438"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Creating The</tspan><tspan
          id="tspan24172"
          sodipodi:role="line"
          x="24.111706"
-         y="65.259827"
+         y="63.143162"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Rhythm Track</tspan></text>
     <rect
-       y="56.804729"
+       y="54.688061"
        x="66.058167"
        height="76.255997"
        width="65"
@@ -297,7 +297,7 @@
        width="67"
        height="75.724686"
        x="135.83331"
-       y="56.804729" />
+       y="54.688061" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -338,7 +338,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
    id="flowSpan24350">twice</flowSpan>. This action will shorten the Rhythm Track by one measure and the pattern stored in the previous measure will begin playing.</flowPara><flowPara
          id="flowPara24342" /><flowPara
-         id="flowPara24344">Press and hold the TAP button to display the current measure you are editing in the Rhythm Track. The current measure is read by multiplying the PRE-SCALE LED position by the STEP LED position to indicate from 1 x 1 = measure #1 to 4 x 16 = measure #64.</flowPara><flowPara
+         id="flowPara24344">Press and hold the TAP button to display the current measure you are editing in the Rhythm Track. The current measure is read by multiplying the PRE-SCALE LED position by the STEP LED position to indicate from 1 × 1 = measure #1 to 4 × 16 = measure #64.</flowPara><flowPara
          id="flowPara24352" /><flowPara
          id="flowPara24354">When you have finished chaining patterns into a  Rhythm Track press START/STOP to stop the se-quencer.  The Rhythm Track is complete and can now be played back in PLAY mode or edited in COMPOSE mode.</flowPara><flowPara
          id="flowPara24346" /></flowRoot>    <rect
@@ -347,9 +347,9 @@
        width="65"
        height="85.66848"
        x="66.058167"
-       y="140.94539" />
+       y="136.71211" />
     <rect
-       y="140.74081"
+       y="136.50754"
        x="135.83331"
        height="85.050758"
        width="67"
@@ -379,7 +379,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara10384">you can change the pattern using the STEP buttons or change to a different pattern bank by pressing and holding the ALT key and selecting a new pattern bank.  These changes to the current measure are auto-matically committed to memory. Too fucking bad. </flowPara><flowPara
          id="flowPara10386" /><flowPara
-         id="flowPara10388">The current measure can be deleted by pressing and holding the SHIFT-WRITE/NEXT key and  then pressing Step #16 (DEL).  The length of the Rhythm Track will be reduced by one measure and the pattern stored in the meausure after the deleted measure will be moved to the current measure. If you are editing the last measure of the Rhythm Track, then the delete function simply deletes the last measure.</flowPara><flowPara
+         id="flowPara10388">The current measure can be deleted by pressing and holding the SHIFT-WRITE/NEXT key and then pressing Step #16 (DEL).  The length of the Rhythm Track will be reduced by one measure and the pattern stored in the meausure after the deleted measure will be moved to the current measure. If you are editing the last measure of the Rhythm Track, then the delete function simply deletes the last measure.</flowPara><flowPara
          id="flowPara10390" /><flowPara
          id="flowPara10392">A new measure can be inserted into the Rhythm Track by pressing and holding the SHIFT-WRITE/NEXT key and then pressing Step #15 (INS).  The length of the Rhythm Track will be extended by one measure.  If you are editing the last measure of the Rhythm Track then the current pattern is simply appended to the end of the Rhythm Track.</flowPara><flowPara
          id="flowPara10394" /><flowPara
@@ -416,27 +416,27 @@
          id="flowPara10432" /><flowPara
          id="flowPara10434" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.466817,229.15973 H 201.46682"
+       d="M 24.466817,224.92637 H 201.46682"
        id="path10436"
        inkscape:connector-curvature="0" />
     <text
        id="text10442"
-       y="234.22638"
+       y="229.9931"
        x="24.111706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="234.22638"
+         y="229.9931"
          x="24.111706"
          sodipodi:role="line"
          id="tspan10438">Playing The</tspan><tspan
          id="tspan10440"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="239.2711"
+         y="235.03783"
          x="24.111706"
          sodipodi:role="line">Rhythm Track</tspan></text>
     <rect
-       y="230.94539"
+       y="226.71211"
        x="66.058167"
        height="51.50668"
        width="65"
@@ -448,7 +448,7 @@
        width="67"
        height="51.527489"
        x="135.83331"
-       y="230.74081" />
+       y="226.50754" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -462,7 +462,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara10538">To play back a recorded Rhythm Track set the MODE selector to PLAY.  Use the Instrument/Track buttons to select the Rhythm Track you wish to play and start the sequencer.  The first measure of the Rhythm Track will begin to play and the sequencer will stop once the Rhythm Track's last measure has played.</flowPara><flowPara
          id="flowPara10650" /><flowPara
-         id="flowPara10652">If you would like the Rhythm Track to loop back to the first measure and continue playing  then press and hold the SHIFT-WRITE/NEXT key when pressing the START button. </flowPara></flowRoot>    <flowRoot
+         id="flowPara10652">If you would like the Rhythm Track to loop back to the first measure and continue playing then press and hold the SHIFT-WRITE/NEXT key when pressing the START button. Nope. Note implemented yet. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot10540"><flowRegion

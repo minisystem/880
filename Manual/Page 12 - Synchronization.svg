@@ -75,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2537285"
-     inkscape:cx="296.84857"
-     inkscape:cy="411.60545"
+     inkscape:zoom="2.507457"
+     inkscape:cx="496.09693"
+     inkscape:cy="279.71183"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -475,7 +475,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara10667">used as a MIDI drum module. The BASS DRUM is triggered from MIDI note 0 (C−2) and the rest of the voices are mapped across the MIDI note scale up to the MARACAS on MIDI note 15 (D#−1).  MIDI notes with a velocity value greater than 63 will be accented.</flowPara><flowPara
          id="flowPara28610" /><flowPara
-         id="flowPara28612">See Quick Tips (Page 4) for information on how to change the MIDI receive channel.</flowPara><flowPara
+         id="flowPara28612">To change the 880's MIDI receive channel see Quick Tips on Page 5.</flowPara><flowPara
          id="flowPara28777" /><flowPara
          id="flowPara28779">NOTE: MIDI triggering of drum voices is only enabled in MIDI IN mode with the sequencer stopped.</flowPara><flowPara
          id="flowPara10661" /><flowPara

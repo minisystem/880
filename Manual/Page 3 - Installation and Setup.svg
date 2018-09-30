@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4404386"
-     inkscape:cx="410.99995"
-     inkscape:cy="577.16714"
+     inkscape:zoom="2.0370878"
+     inkscape:cx="450.16829"
+     inkscape:cy="801.20542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -703,8 +703,10 @@
            x="0"
            y="0"
            xlink:href="#rect7150"
-           id="use10755" /></flowRegion><flowPara
-         id="flowPara10757">CAUTION: Do not apply power to the 880 when it is not securely installed  in a Eurorack case. </flowPara><flowPara
+           id="use10755"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara10757">CAUTION: Do not apply power to the 880 when it is not securely installed in a Eurorack case. </flowPara><flowPara
          id="flowPara10759" /><flowPara
          id="flowPara10761" /></flowRoot>    <g
        id="g11679"

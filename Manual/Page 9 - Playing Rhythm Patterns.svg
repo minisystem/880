@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3618124"
-     inkscape:cx="386.37264"
-     inkscape:cy="876.19689"
+     inkscape:zoom="1.9258936"
+     inkscape:cx="425.17544"
+     inkscape:cy="853.77975"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -269,7 +269,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic'"
    id="flowSpan19623">and </flowSpan>the ALT key and select one of the 12 Pattern Banks using the STEP buttons.</flowPara><flowPara
          id="flowPara88" /><flowPara
-         id="flowPara90">(NOTE: MANUAL PLAY mode is the only mode where the SHIFT-WRITE/NEXT key needs to be used in combination with the ALT key to change the Pattern Bank)  </flowPara><flowPara
+         id="flowPara90">NOTE: MANUAL PLAY mode is the only mode where the SHIFT-WRITE/NEXT key needs to be used in combination with the ALT key to change the Pattern Bank. </flowPara><flowPara
          id="flowPara18713" /><flowPara
          id="flowPara63">The BASIC VARIATION button can be used to select the desired rhythm variation, A or B. Hold the SHIFT-WRITE/NEXT key and press the BASIC VARIATION button to enter the alternating A-B mode.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
@@ -312,9 +312,9 @@
            width="100%"
            height="100%"
            transform="translate(-0.03390032,-8.2139654)" /></flowRegion><flowPara
-         id="flowPara18733">You may add an introductory rhythm pattern that plays only once after the sequencer starts and is then followed by the selected BASIC RHYTHM pattern.  With the sequencer stopped, press the TAP button. The selected BASIC RHYTHM LED will become solid and the selected INTRO/FILL IN LED will flash. This indicates that the Intro pattern is active and will play before the BASIC RHYTHM pattern when the sequencer is started.  To cancel the Intro function, press the TAP button again. The selected BASIC RHYTHM LED will begin flashing and the INTRO/FILL IN LED will remain solid.</flowPara><flowPara
+         id="flowPara18733">You may add an introductory Rhythm Pattern that plays only once after the sequencer starts and is then followed by the selected BASIC RHYTHM pattern.  With the sequencer stopped, press the TAP button. The selected BASIC RHYTHM LED will become solid and the selected INTRO/FILL IN LED will flash. This indicates that the Intro pattern is active and will play before the BASIC RHYTHM pattern when the sequencer is started.  To cancel the Intro function, press the TAP button again. The selected BASIC RHYTHM LED will begin flashing and the INTRO/FILL IN LED will remain solid.</flowPara><flowPara
          id="flowPara18777" /><flowPara
-         id="flowPara18779">A Fill In rhythm pattern can be inserted between the BASIC RHYTHM  pattern manually or at a programm-ed number of measures.  To manually insert a Fill In rhythm, set the AUTO FILL IN selector to MAN and start the sequencer. The currently selected BASIC RHYTHM will begin to play. While the sequencer is playing press the TAP button. The currently playing BASIC RHYTHM will finish and the selected INTRO/FILL IN pattern will play once. Pressing the TAP button again before the Fill In pattern finishes will make it play again.</flowPara><flowPara
+         id="flowPara18779">A Fill In Rhythm Pattern can be inserted between the BASIC RHYTHM  pattern manually or at a programm-ed number of measures.  To manually insert a Fill In rhythm, set the AUTO FILL IN selector to MAN and start the sequencer. The currently selected BASIC RHYTHM will begin to play. While the sequencer is playing press the TAP button. The currently playing BASIC RHYTHM will finish and the selected INTRO/FILL IN pattern will play once. Pressing the TAP button again before the Fill In pattern finishes will make it play again.</flowPara><flowPara
          id="flowPara100" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold'"
          id="flowPara482"><flowSpan
@@ -367,7 +367,7 @@
          id="flowPara75" /><flowPara
          id="flowPara77">An Intro or Fill In's  BASIC VARIATION can be selected using the I/F VAR button.</flowPara><flowPara
          id="flowPara96" /><flowPara
-         id="flowPara98">(NOTE: in all other modes the I/F VAR button functions as the ALT key. To access the ALT key function in MANUAL PLAY mode you must also press the SHIFT-WRITE/NEXT key)  </flowPara></flowRoot>    <path
+         id="flowPara98">NOTE: in all other modes the I/F VAR button functions as the ALT key. To access the ALT key function in MANUAL PLAY mode you must also press the SHIFT-WRITE/NEXT key.  </flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.466817,211.18362 H 201.46682"
        id="path10187"

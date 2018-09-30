@@ -76,8 +76,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3817245"
-     inkscape:cx="357.79793"
-     inkscape:cy="445.61885"
+     inkscape:cx="454.28431"
+     inkscape:cy="785.68581"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -302,7 +302,9 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara28639">Connect a DIN cable (pins 1 and 3 must be wired; not all MIDI cables will function as DIN Sync cables) to the DIN sockets of the 880 and the slave device. Set the slave device's sync setting to IN.</flowPara><flowPara
          id="flowPara28649" /><flowPara
-         id="flowPara28651">NOTE: Unlike MIDI, the DIN Sync standard requires a ground connection between devices.  See DIN Socket Ground Setup on Page 3.</flowPara><flowPara
+         id="flowPara28651">NOTE: Unlike MIDI, the DIN Sync standard requires a ground connection between devices.  See <flowSpan
+   style="-inkscape-font-specification:'FreeSans Italic';font-family:FreeSans;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan27303">DIN Socket Ground Setup</flowSpan> on Page 3.</flowPara><flowPara
          id="flowPara10394" /><flowPara
          id="flowPara10396" /><flowPara
          id="flowPara10398" /><flowPara

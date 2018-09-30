@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82871578"
-     inkscape:cx="522.47585"
-     inkscape:cy="865.4019"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="398.51061"
+     inkscape:cy="572.62022"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -218,7 +218,7 @@
     <rect
        y="31.967484"
        x="49.758167"
-       height="18.792904"
+       height="29.967892"
        width="66"
        id="rect8992"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -226,7 +226,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9014"
        width="65.600006"
-       height="19.278271"
+       height="30.453259"
        x="119.53331"
        y="31.967506" />
     <flowRoot
@@ -249,38 +249,40 @@
            id="use22534"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara22538">All of the 880's instruments are summed together at the MASTER OUT jack. The level of each drum voice in the master out mix is controlled by each instrument's LEVEL control.  When auditioning and recording from the master output adjust the instrument LEVEL con-</flowPara><flowPara
+         id="flowPara22538">All of the 880's instruments are summed together at the MASTER OUT jack. The level of each drum voice in the master out mix is controlled by each instrument's LEVEL control.  When auditioning and recording from the master output adjust the instrument LEVEL con-trols to obtain the desired balance of each instrument in the mix.  Use the MASTER VOLUME control to</flowPara><flowPara
          id="flowPara22540" /><flowPara
          id="flowPara22542" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.29847241px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot22544"><flowRegion
          id="flowRegion22546"
-         style="line-height:3.29847241px;"><use
+         style="line-height:3.2984724px"><use
            x="0"
            y="0"
            xlink:href="#rect9014"
            id="use22548"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara22550">trols to obtain the desired balance of each instrument in the mix.  Use the MASTER VOLUME control to achieve the desired output level into your monitoring and/or recording device.</flowPara><flowPara
+         id="flowPara22550">achieve the desired output level into your monitoring and/or recording device.</flowPara><flowPara
+         id="flowPara22556" /><flowPara
+         id="flowPara22558">NOTE: The 880 is a clone of a vintage analog design.  You may find the noise floor higher compared to other contemporary electronic instruments.  </flowPara><flowPara
          id="flowPara24615" /><flowPara
          id="flowPara24617" /><flowPara
          id="flowPara22552" /><flowPara
          id="flowPara22554" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path24619"
-       d="M 8.166817,55.660872 H 185.16682"
+       d="M 8.166817,62.540043 H 185.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text24623"
-       y="60.727699"
+       y="67.606873"
        x="7.8117056"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan24621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="60.727699"
+         y="67.606873"
          x="7.8117056"
          sodipodi:role="line">Instrument Outputs</tspan></text>
     <rect
@@ -289,9 +291,9 @@
        width="66"
        height="21.727751"
        x="49.758167"
-       y="56.967484" />
+       y="63.846657" />
     <rect
-       y="56.967506"
+       y="63.84668"
        x="119.53331"
        height="19.278271"
        width="65.600006"
@@ -301,7 +303,7 @@
        id="flowRoot24655"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       transform="translate(0,25)"><flowRegion
+       transform="translate(0,31.879171)"><flowRegion
          id="flowRegion24643"><use
            height="100%"
            width="100%"
@@ -328,22 +330,22 @@
          id="flowPara24665" /><flowPara
          id="flowPara24667" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.166817,82.77754 H 185.16682"
+       d="M 8.166817,89.656711 H 185.16682"
        id="path26029"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="7.8117056"
-       y="87.844368"
+       y="94.723541"
        id="text26033"><tspan
          sodipodi:role="line"
          x="7.8117056"
-         y="87.844368"
+         y="94.723541"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan26031">Trigger Outputs</tspan></text>
     <rect
-       y="84.084152"
+       y="90.963326"
        x="49.758167"
        height="32.564106"
        width="66"
@@ -355,9 +357,9 @@
        width="65.600006"
        height="19.278271"
        x="119.53331"
-       y="84.084175" />
+       y="90.963348" />
     <flowRoot
-       transform="translate(0,52.116668)"
+       transform="translate(0,58.995839)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot26053"><flowRegion
@@ -385,24 +387,24 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara26077">The 880 provides two independant, programmable Trigger Outputs for interfacing with synthesizers and sequencers. See the Quick Tips section on Page 5 for details on how to assign any of the instrument triggers to either of the Trigger Outputs.</flowPara><flowPara
          id="flowPara26087" /><flowPara
-         id="flowPara26089">Each trigger signal is a positive 5 Volt, 20 millisecond pulse suitable for activating most Trigger and Gate inputs on other equipment.  </flowPara><flowPara
+         id="flowPara26089">Each trigger signal is a positive 5 Volt, 20 millisecond (ms) pulse suitable for activating most Trigger and Gate inputs on other equipment.  </flowPara><flowPara
          id="flowPara26079" /><flowPara
          id="flowPara26081" /><flowPara
          id="flowPara26083" /><flowPara
          id="flowPara26085" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path26091"
-       d="M 8.166817,119.89422 H 185.16682"
+       d="M 8.166817,126.77343 H 185.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text26095"
-       y="124.96104"
+       y="131.84013"
        x="7.8117056"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan26093"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="124.96104"
+         y="131.84013"
          x="7.8117056"
          sodipodi:role="line">Sync In</tspan></text>
     <rect
@@ -411,9 +413,9 @@
        width="66"
        height="14.083689"
        x="49.758167"
-       y="121.20082" />
+       y="128.07999" />
     <rect
-       y="121.20084"
+       y="128.08002"
        x="119.53331"
        height="13.770875"
        width="65.600006"
@@ -451,22 +453,22 @@
          id="flowPara26168" /><flowPara
          id="flowPara26170" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.166817,137.24837 H 185.16682"
+       d="M 8.166817,144.12758 H 185.16682"
        id="path26172"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="7.8117056"
-       y="142.31525"
+       y="149.19432"
        id="text26176"><tspan
          sodipodi:role="line"
          x="7.8117056"
-         y="142.31525"
+         y="149.19432"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan26174">MIDI/Sync</tspan></text>
     <rect
-       y="138.55502"
+       y="145.4341"
        x="49.758167"
        height="18.792904"
        width="66"
@@ -478,7 +480,7 @@
        width="65.600006"
        height="19.278271"
        x="119.53331"
-       y="138.55505" />
+       y="145.43413" />
     <flowRoot
        transform="translate(0,54.470833)"
        xml:space="preserve"
