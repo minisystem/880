@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3439622"
-     inkscape:cx="189.79258"
-     inkscape:cy="665.4031"
+     inkscape:zoom="3.3148631"
+     inkscape:cx="270.5396"
+     inkscape:cy="830.82986"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5488"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:measure-start="396.821,721.22"
      inkscape:measure-end="396.821,702.322"
@@ -148,6 +148,11 @@
        position="109.90946,255.94278"
        orientation="0,1"
        id="guide5160"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="107.68847,154.51277"
+       orientation="0,1"
+       id="guide5640"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -413,7 +418,8 @@
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot6102"><flowRegion
+       id="flowRoot6102"
+       transform="translate(0,-0.11942101)"><flowRegion
          id="flowRegion6104"><use
            x="0"
            y="0"
@@ -435,7 +441,7 @@
        id="flowRoot4619"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       transform="translate(0,5)"><flowRegion
+       transform="translate(0,4.8805628)"><flowRegion
          id="flowRegion4609"><use
            id="use4607"
            xlink:href="#rect6058"
@@ -447,7 +453,7 @@
          id="flowPara4613" /><flowPara
          id="flowPara4615" /><flowPara
          id="flowPara4617" /></flowRoot>    <g
-       transform="translate(0,30.018018)"
+       transform="translate(0,30.069339)"
        id="g4635">
       <ellipse
          ry="1.7500017"
@@ -486,7 +492,7 @@
        id="rect4641"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(0,10)"
+       transform="translate(0,9.5882196)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4655"><flowRegion
@@ -502,7 +508,7 @@
          id="flowPara4651" /><flowPara
          id="flowPara4653" /></flowRoot>    <g
        id="g4663"
-       transform="translate(0,34.65884)">
+       transform="translate(0,35.069329)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4657"
@@ -535,7 +541,7 @@
        x="16.210514"
        y="84.965454" />
     <g
-       transform="translate(0,39.684498)"
+       transform="translate(0,40.069342)"
        id="g4689">
       <ellipse
          ry="1.7500017"
@@ -890,7 +896,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 111.08809,106.17723 0,37.38"
+       d="m 111.08809,106.17723 0,30"
        id="path4880"
        inkscape:connector-curvature="0" />
     <path
@@ -1032,7 +1038,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5124"
-       d="M 184.99222,133.55723 V 32.248372 h -80 V 133.55723 Z"
+       d="M 184.99222,172.48723 V 32.248372 h -80 V 172.48723 Z"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
@@ -1157,7 +1163,7 @@
     </g>
     <g
        id="g5276"
-       transform="translate(96.650403,51.111414)">
+       transform="translate(96.650403,51.379356)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5270"
@@ -1190,7 +1196,7 @@
        id="rect5280"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(0,16.270223)"
+       transform="translate(0,16.270239)"
        id="flowRoot5294"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -1223,13 +1229,13 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text5318"
-       y="104.20774"
+       y="104.20776"
        x="112.53861"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan5316"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="104.20774"
+         y="104.20776"
          x="112.53861"
          sodipodi:role="line">Fill In (MANUAL)</tspan></text>
     <path
@@ -1293,7 +1299,7 @@
        d="m 104.99222,84.867232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(96.650403,57.033342)"
+       transform="translate(96.650403,56.379328)"
        id="g5356">
       <ellipse
          ry="1.7500017"
@@ -1338,7 +1344,7 @@
          id="flowPara5368" /><flowPara
          id="flowPara5370" /></flowRoot>    <g
        id="g5382"
-       transform="translate(96.650403,82.44032)">
+       transform="translate(96.650403,82.689336)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5376"
@@ -1386,7 +1392,7 @@
        d="m 104.99222,126.17723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(96.650403,87.44032)"
+       transform="translate(96.650403,90.189341)"
        id="g5408">
       <ellipse
          ry="1.7500017"
@@ -1411,14 +1417,14 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5410"
        width="69.999992"
-       height="12.901506"
+       height="9.9810629"
        x="112.86091"
        y="126.19617" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot5424"
-       transform="translate(0,52.599149)"><flowRegion
+       transform="translate(0,53.138635)"><flowRegion
          id="flowRegion5414"><use
            x="0"
            y="0"
@@ -1441,7 +1447,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g5436"
-       transform="translate(96.650403,73.879334)">
+       transform="translate(96.650403,75.189348)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5430"
@@ -1498,17 +1504,20 @@
          id="flowPara5466" /></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot5468"><flowRegion
+       id="flowRoot5468"
+       transform="translate(0,0.96265119)"><flowRegion
          id="flowRegion5470"><use
            x="0"
            y="0"
            xlink:href="#rect5296"
-           id="use5472" /></flowRegion><flowPara
+           id="use5472"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
          id="flowPara5474">Start the sequencer by pressing the START/STOP button.</flowPara><flowPara
          id="flowPara5476" /><flowPara
          id="flowPara5478" /><flowPara
          id="flowPara5480" /></flowRoot>    <g
-       transform="translate(0,98.518571)"
+       transform="translate(0,97.58786)"
        id="g5488">
       <ellipse
          ry="1.7500017"
@@ -1557,5 +1566,703 @@
        d="M 8.3418168,133.55723 H 88.341816"
        id="path5508"
        inkscape:connector-curvature="0" />
-  </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5512"
+       width="70"
+       height="10"
+       x="16.210514"
+       y="144.96545" />
+    <flowRoot
+       transform="translate(0,60.438975)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot5520"><flowRegion
+         id="flowRegion5516"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4667"
+           id="use5514"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5518">In the case of programming 16 steps setting the pattern length is unnecessary.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:52.91666412px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.055532"
+       y="147.68314"
+       id="text5524"><tspan
+         sodipodi:role="line"
+         id="tspan5522"
+         x="15.055532"
+         y="147.68314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.26458332px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="112.53861"
+       y="140.54526"
+       id="text5530"><tspan
+         sodipodi:role="line"
+         x="112.53861"
+         y="140.54526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan5528">Fill In (AUTOMATIC)</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5532"
+       d="m 111.08809,142.48723 v 30"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.99222,142.48723 h 80"
+       id="path5534"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5536"
+       d="m 104.99222,162.48723 h 80"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5544"
+       transform="translate(96.650403,106.49934)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5538"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.958368"
+         y="41.863308"
+         id="text5542"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5540"
+           x="10.958368"
+           y="41.863308">1</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5546"
+       width="70"
+       height="10"
+       x="112.86091"
+       y="142.50616" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot5560"
+       transform="translate(0,69.475629)"><flowRegion
+         id="flowRegion5550"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5210"
+           id="use5548"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5552">Choose the Fill In count using the AUTO FILL IN selector (16, 12, 8, 4, or 2 measures).</flowPara><flowPara
+         id="flowPara5554" /><flowPara
+         id="flowPara5556" /><flowPara
+         id="flowPara5558" /></flowRoot>    <g
+       transform="translate(96.650403,123.99933)"
+       id="g5568">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5562"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5566"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan5564"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">3</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5570"
+       width="70"
+       height="5"
+       x="112.86091"
+       y="162.50616" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot5584"
+       transform="translate(0,88.909149)"><flowRegion
+         id="flowRegion5574"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5210"
+           id="use5572"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5576">Press the I/F - VAR button to select the Fill In variation.</flowPara><flowPara
+         id="flowPara5578" /><flowPara
+         id="flowPara5580" /><flowPara
+         id="flowPara5582" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.99222,167.48723 h 80"
+       id="path5586"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5594"
+       transform="translate(96.650403,128.99934)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5588"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text5592"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5590"
+           x="10.836131"
+           y="41.863308">4</tspan></text>
+    </g>
+    <rect
+       y="167.50618"
+       x="112.86091"
+       height="4.98105"
+       width="69.999992"
+       id="rect5596"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(0,93.615861)"
+       id="flowRoot5610"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5600"><use
+           height="100%"
+           width="100%"
+           id="use5598"
+           xlink:href="#rect5210"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5602">Press the START/STOP button to start the sequencer.</flowPara><flowPara
+         id="flowPara5604" /><flowPara
+         id="flowPara5606" /><flowPara
+         id="flowPara5608" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5614"
+       d="m 104.99222,152.48723 h 80"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(96.650403,116.49934)"
+       id="g5622">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5616"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5620"
+         y="41.881828"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.881828"
+           x="10.836131"
+           id="tspan5618"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">2</tspan></text>
+    </g>
+    <rect
+       y="152.50616"
+       x="112.86091"
+       height="10"
+       width="70"
+       id="rect5624"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(0,79.77792)"
+       id="flowRoot5638"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5628"><use
+           height="100%"
+           width="100%"
+           id="use5626"
+           xlink:href="#rect5210"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5630">Use STEP buttons 13 - 16 to select the Fill In Rhythm Pattern you want to play. </flowPara><flowPara
+         id="flowPara5632" /><flowPara
+         id="flowPara5634" /><flowPara
+         id="flowPara5636" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5642"
+       d="m 104.99222,172.48723 h 80"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,164.18132 H 88.166817"
+       id="path5644"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="15.713208"
+       y="162.5883"
+       id="text5648"><tspan
+         sodipodi:role="line"
+         x="15.713208"
+         y="162.5883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan5646">Compose</tspan></text>
+    <rect
+       y="165.47008"
+       x="16.035505"
+       height="5"
+       width="70"
+       id="rect5650"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5658"
+       transform="translate(-0.17500072,125.69342)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5652"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.958368"
+         y="41.863308"
+         id="text5656"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5654"
+           x="10.958368"
+           y="41.863308">1</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5662"
+       d="M 8.1668168,169.18132 H 88.166817"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,169.18132 H 88.166817"
+       id="path5664"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5666"
+       width="70"
+       height="10"
+       x="16.035505"
+       y="169.18132" />
+    <g
+       transform="translate(-0.17500072,133.19343)"
+       id="g5674">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5668"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5672"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan5670"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">2</tspan></text>
+    </g>
+    <flowRoot
+       transform="translate(-0.17500072,132.47126)"
+       id="flowRoot5690"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5678"><use
+           height="100%"
+           width="100%"
+           id="use5676"
+           xlink:href="#rect39838"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5682">Choose the Track with the INSTRUMENT/TRACK selector buttons.</flowPara><flowPara
+         id="flowPara5684" /><flowPara
+         id="flowPara5686" /><flowPara
+         id="flowPara5688" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5692"
+       d="M 8.1668168,179.18132 H 88.166817"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="179.18132"
+       x="16.035505"
+       height="10"
+       width="70"
+       id="rect5694"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5702"
+       transform="translate(-0.17500072,140.69343)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5696"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text5700"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5698"
+           x="10.836131"
+           y="41.863308">3</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,189.18132 H 88.166817"
+       id="path5704"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5706"
+       width="70"
+       height="5"
+       x="16.035505"
+       y="190.58954" />
+    <g
+       transform="translate(-0.17500072,150.69343)"
+       id="g5714">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5708"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5712"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan5710"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">4</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5716"
+       d="M 8.1668168,194.18132 H 88.166817"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="195.58954"
+       x="16.035505"
+       height="5"
+       width="70"
+       id="rect5718"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 88.166817,248.21591 0,-90.34345 H 8.1668168 l 0,90.34345 z"
+       id="path5720"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       id="flowRoot5736"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(-96.825403,125.62409)"><flowRegion
+         id="flowRegion5724"><use
+           id="use5722"
+           xlink:href="#rect4870"
+           y="0"
+           x="0"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5726">Set the MODE selector to COMPOSE</flowPara><flowPara
+         id="flowPara5728" /><flowPara
+         id="flowPara5730" /><flowPara
+         id="flowPara5732" /><flowPara
+         id="flowPara5734" /></flowRoot>    <flowRoot
+       transform="translate(-96.825403,127.47127)"
+       id="flowRoot5750"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5740"><use
+           height="100%"
+           width="100%"
+           id="use5738"
+           xlink:href="#rect4930"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5742">Use the STEP buttons to select the first Rythm Pattern of the Track </flowPara><flowPara
+         id="flowPara5744" /><flowPara
+         id="flowPara5746" /><flowPara
+         id="flowPara5748" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,200.49132 H 88.166817"
+       id="path5752"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5754"
+       d="M 8.1668168,215.49132 H 88.166817"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.262687,164.18132 v 30"
+       id="path5756"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text5760"
+       y="198.50806"
+       x="15.713208"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="198.50806"
+         x="15.713208"
+         sodipodi:role="line">Intro</tspan></text>
+    <rect
+       y="200.49132"
+       x="16.035505"
+       height="10"
+       width="70"
+       id="rect5762"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(-96.825403,127.76307)"
+       id="flowRoot5776"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5766"><use
+           height="100%"
+           width="100%"
+           id="use5764"
+           xlink:href="#rect5210"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5768">Use STEP buttons 13 - 16 to select the Intro Rhythm Pattern you want to play.   </flowPara><flowPara
+         id="flowPara5770" /><flowPara
+         id="flowPara5772" /><flowPara
+         id="flowPara5774" /></flowRoot>    <g
+       transform="translate(-0.17500072,164.50342)"
+       id="g5784">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5778"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5782"
+         y="41.863308"
+         x="10.958368"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.958368"
+           id="tspan5780"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">1</tspan></text>
+    </g>
+    <g
+       id="g5792"
+       transform="translate(-0.17500072,171.73548)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5786"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text5790"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5788"
+           x="10.836131"
+           y="41.863308">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-0.17500072,177.00344)"
+       id="g5800">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse5794"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5798"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan5796"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">3</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,220.49132 H 88.166817"
+       id="path5802"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5804"
+       width="70"
+       height="5"
+       x="16.035505"
+       y="215.49132" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot5818"
+       transform="translate(-96.825403,141.89433)"><flowRegion
+         id="flowRegion5808"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5210"
+           id="use5806"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5810">Press the TAP button to activate the Intro.</flowPara><flowPara
+         id="flowPara5812" /><flowPara
+         id="flowPara5814" /><flowPara
+         id="flowPara5816" /></flowRoot>    <rect
+       y="220.52391"
+       x="16.035505"
+       height="5"
+       width="70"
+       id="rect5820"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.262687,200.58954 v 24.90178"
+       id="path5830"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1668168,210.49132 H 88.166817"
+       id="path5858"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5866"
+       transform="translate(-0.17500072,182.00341)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse5860"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text5864"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan5862"
+           x="10.836131"
+           y="41.863308">4</tspan></text>
+    </g>
+    <rect
+       y="210.49132"
+       x="16.035505"
+       height="5"
+       width="70"
+       id="rect5868"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(-96.825403,136.89431)"
+       id="flowRoot5882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5872"><use
+           height="100%"
+           width="100%"
+           id="use5870"
+           xlink:href="#rect5210"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5874">Press the I/F - VAR button to select the Intro variation.</flowPara><flowPara
+         id="flowPara5876" /><flowPara
+         id="flowPara5878" /><flowPara
+         id="flowPara5880" /></flowRoot>    <flowRoot
+       id="flowRoot5974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(-96.825403,125.62409)"><flowRegion
+         id="flowRegion5964"><use
+           id="use5962"
+           xlink:href="#rect4956"
+           y="0"
+           x="0"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara5966">Set the Variation to A or B.</flowPara><flowPara
+         id="flowPara5968" /><flowPara
+         id="flowPara5970" /><flowPara
+         id="flowPara5972" /></flowRoot>    <flowRoot
+       transform="translate(-96.825403,126.58674)"
+       id="flowRoot5988"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5978"><use
+           height="100%"
+           width="100%"
+           id="use5976"
+           xlink:href="#rect5296"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara5980">Start the sequencer by pressing the START/STOP button.</flowPara><flowPara
+         id="flowPara5982" /><flowPara
+         id="flowPara5984" /><flowPara
+         id="flowPara5986" /></flowRoot>  </g>
 </svg>
