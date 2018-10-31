@@ -12952,4 +12952,8 @@ Wire Wire Line
 	17300 15650 17400 15650
 Text Notes 9200 21350 0    60   ~ 12
 470p?
+Text Notes 5975 15175 0    60   ~ 0
+1.5K for \nproduction
+Text Notes 6300 16500 0    60   ~ 0
+C146 0.1μ for \nproduction
 $EndSCHEMATC

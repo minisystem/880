@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3148631"
-     inkscape:cx="270.5396"
-     inkscape:cy="830.82986"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="553.24542"
+     inkscape:cy="457.21911"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,10 +37,10 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="396.821,721.22"
-     inkscape:measure-end="396.821,702.322"
+     inkscape:measure-start="699.843,1006.64"
+     inkscape:measure-end="793.699,1006.64"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:bbox-paths="true"
@@ -154,6 +154,11 @@
        orientation="0,1"
        id="guide5640"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.1668166,16.50868"
+       orientation="0,1"
+       id="guide6295"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -190,34 +195,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="7.9269266"
+       x="23.926926"
        y="11.953683"
        id="text4410"><tspan
          sodipodi:role="line"
          id="tspan4408"
-         x="7.9269266"
+         x="23.926926"
          y="16.751461"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px" /><tspan
          sodipodi:role="line"
-         x="7.9269266"
+         x="23.926926"
          y="22.748684"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan4412" /><tspan
          sodipodi:role="line"
-         x="7.9269266"
+         x="23.926926"
          y="28.745907"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          id="tspan26684">Operation Reference</tspan></text>
     <text
        id="text7052"
        y="29.84165"
-       x="178.99254"
+       x="194.99254"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan7056"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.99722385px;line-height:5.99722242px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.26458332px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          y="29.84165"
-         x="178.99254"
+         x="194.99254"
          sodipodi:role="line">17</tspan></text>
     <flowRoot
        id="flowRoot8795"
@@ -238,27 +243,27 @@
          id="flowPara34825" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path34864"
-       d="M 8.166817,30.660871 H 185.16682"
+       d="M 24.166817,30.660871 H 201.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,38.557232 H 88.341816"
+       d="M 24.341817,38.557232 H 104.34182"
        id="path39832"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="15.888212"
+       x="31.888212"
        y="36.964218"
        id="text39836"><tspan
          sodipodi:role="line"
-         x="15.888212"
+         x="31.888212"
          y="36.964218"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan39834">Rhythm Pattern Programming</tspan></text>
     <rect
        y="38.557232"
-       x="16.210514"
+       x="32.210514"
        height="10"
        width="70"
        id="rect39838"
@@ -279,7 +284,7 @@
          id="flowPara39906" /><flowPara
          id="flowPara39908" /></flowRoot>    <g
        id="g6002"
-       transform="translate(0,2.5693396)">
+       transform="translate(16,2.5693396)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5444"
@@ -302,17 +307,17 @@
     <path
        inkscape:connector-curvature="0"
        id="path5922"
-       d="m 14.437688,38.557232 0,104.999998"
+       d="M 30.437688,38.557232 V 143.55723"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path5997"
-       d="M 8.3418168,48.557232 H 88.341816"
+       d="M 24.341817,48.557232 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,48.557232 H 88.341816"
+       d="M 24.341817,48.557232 H 104.34182"
        id="path6004"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -336,10 +341,10 @@
        id="rect6030"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="58.557232" />
     <g
-       transform="translate(0,12.56934)"
+       transform="translate(16,12.56934)"
        id="g6038">
       <ellipse
          ry="1.7500017"
@@ -379,18 +384,18 @@
          id="flowPara6052" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path6056"
-       d="M 8.3418168,58.557232 H 88.341816"
+       d="M 24.341817,58.557232 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="69.965454"
-       x="16.210514"
+       x="32.210514"
        height="5"
        width="70"
        id="rect6058"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g6066"
-       transform="translate(0,22.439799)">
+       transform="translate(16,22.439799)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse6060"
@@ -412,7 +417,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,68.557232 H 88.341816"
+       d="M 24.341817,68.557232 H 104.34182"
        id="path6086"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -435,7 +440,7 @@
        id="rect4605"
        width="70"
        height="5"
-       x="16.210514"
+       x="32.210514"
        y="74.965454" />
     <flowRoot
        id="flowRoot4619"
@@ -453,7 +458,7 @@
          id="flowPara4613" /><flowPara
          id="flowPara4615" /><flowPara
          id="flowPara4617" /></flowRoot>    <g
-       transform="translate(0,30.069339)"
+       transform="translate(16,30.069339)"
        id="g4635">
       <ellipse
          ry="1.7500017"
@@ -477,16 +482,16 @@
     <path
        inkscape:connector-curvature="0"
        id="path4637"
-       d="M 8.3418168,73.557232 H 88.341816"
+       d="M 24.341817,73.557232 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,78.557232 H 88.341816"
+       d="M 24.341817,78.557232 H 104.34182"
        id="path4639"
        inkscape:connector-curvature="0" />
     <rect
        y="79.965454"
-       x="16.210514"
+       x="32.210514"
        height="5"
        width="70"
        id="rect4641"
@@ -508,7 +513,7 @@
          id="flowPara4651" /><flowPara
          id="flowPara4653" /></flowRoot>    <g
        id="g4663"
-       transform="translate(0,35.069329)">
+       transform="translate(16,35.069329)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4657"
@@ -531,17 +536,17 @@
     <path
        inkscape:connector-curvature="0"
        id="path4665"
-       d="M 8.3418168,83.557232 H 88.341816"
+       d="M 24.341817,83.557232 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4667"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="84.965454" />
     <g
-       transform="translate(0,40.069342)"
+       transform="translate(16,40.069342)"
        id="g4689">
       <ellipse
          ry="1.7500017"
@@ -575,19 +580,19 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara4708">While pressing the SHIFT/WRITE-NEXT key, press the CLEAR button to choose the PRE-SCALE. </flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,93.557232 H 88.341816"
+       d="M 24.341817,93.557232 H 104.34182"
        id="path4710"
        inkscape:connector-curvature="0" />
     <rect
        y="94.965454"
-       x="16.210514"
+       x="32.210514"
        height="10"
        width="70"
        id="rect4712"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4720"
-       transform="translate(0,47.56934)">
+       transform="translate(16,47.56934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4714"
@@ -622,17 +627,17 @@
          id="flowPara4726">While pressing the CLEAR button, press a STEP button to set the desired pattern length (1-16)*.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4730"
-       d="M 8.3418168,103.55723 H 88.341816"
+       d="M 24.341817,103.55723 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4732"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="104.96545" />
     <g
-       transform="translate(0,57.56934)"
+       transform="translate(16,57.56934)"
        id="g4740">
       <ellipse
          ry="1.7500017"
@@ -667,19 +672,19 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara4746">Choose an instrument using the INSTRUMENT/TRACK selector buttons.</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,113.55723 H 88.341816"
+       d="M 24.341817,113.55723 H 104.34182"
        id="path4770"
        inkscape:connector-curvature="0" />
     <rect
        y="114.96545"
-       x="16.210514"
+       x="32.210514"
        height="10"
        width="70"
        id="rect4772"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4780"
-       transform="translate(0,67.56934)">
+       transform="translate(16,67.56934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4774"
@@ -714,17 +719,17 @@
          id="flowPara4786">Press the STEP buttons to program the instrument on the desired steps.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4790"
-       d="M 8.3418168,123.55723 H 88.341816"
+       d="M 24.341817,123.55723 H 104.34182"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4792"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="124.96545" />
     <g
-       transform="translate(0,77.56934)"
+       transform="translate(16,77.56934)"
        id="g4800">
       <ellipse
          ry="1.7500017"
@@ -759,7 +764,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara4806">Program the other instrument sounds and ACCENT by repeating       and      .</flowPara></flowRoot>    <g
        id="g4816"
-       transform="translate(18.525796,89.116488)">
+       transform="translate(34.525796,89.116488)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4810"
@@ -780,7 +785,7 @@
            y="41.863308">9</tspan></text>
     </g>
     <g
-       transform="translate(27.928082,89.116488)"
+       transform="translate(43.928082,89.116488)"
        id="g4824">
       <ellipse
          ry="1.7500017"
@@ -803,20 +808,20 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 88.341816,143.55723 V 32.248372 H 8.3418168 V 143.55723 Z"
+       d="M 104.34182,143.55723 V 32.248372 H 24.341817 V 143.55723 Z"
        id="path4828"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
        y="134.96545"
-       x="16.210514"
+       x="32.210514"
        height="10"
        width="70"
        id="rect4830"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4838"
-       transform="translate(0,87.56934)">
+       transform="translate(16,87.56934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4832"
@@ -851,28 +856,28 @@
          id="flowPara4844">Press the START/STOP button when programming has been completed.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4864"
-       d="m 104.99222,38.557232 h 80"
+       d="m 120.99222,38.557232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text4868"
        y="36.964218"
-       x="112.53861"
+       x="128.5386"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4866"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="36.964218"
-         x="112.53861"
+         x="128.5386"
          sodipodi:role="line">Manual Play</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4870"
        width="70"
        height="5"
-       x="112.86091"
+       x="128.8609"
        y="39.845997" />
     <g
-       transform="translate(96.650403,0.06933691)"
+       transform="translate(112.6504,0.06933691)"
        id="g4878">
       <ellipse
          ry="1.7500017"
@@ -896,29 +901,29 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 111.08809,106.17723 0,30"
+       d="m 127.08809,106.17723 v 30"
        id="path4880"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,43.557232 h 80"
+       d="m 120.99222,43.557232 h 80"
        id="path4882"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4884"
-       d="m 104.99222,43.557232 h 80"
+       d="m 120.99222,43.557232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="43.557232"
-       x="112.86091"
+       x="128.8609"
        height="10"
        width="70"
        id="rect4902"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4910"
-       transform="translate(96.650403,7.56934)">
+       transform="translate(112.6504,7.56934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4904"
@@ -956,7 +961,7 @@
          id="flowPara4922" /><flowPara
          id="flowPara4924" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,53.557232 h 80"
+       d="m 120.99222,53.557232 h 80"
        id="path4928"
        inkscape:connector-curvature="0" />
     <rect
@@ -964,10 +969,10 @@
        id="rect4930"
        width="70"
        height="10"
-       x="112.86091"
+       x="128.8609"
        y="53.557232" />
     <g
-       transform="translate(96.650403,15.069347)"
+       transform="translate(112.6504,15.069347)"
        id="g4938">
       <ellipse
          ry="1.7500017"
@@ -991,18 +996,18 @@
     <path
        inkscape:connector-curvature="0"
        id="path4940"
-       d="m 104.99222,63.557232 h 80"
+       d="m 120.99222,63.557232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="64.965454"
-       x="112.86091"
+       x="128.8609"
        height="5"
        width="70"
        id="rect4956"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4978"
-       transform="translate(96.650403,25.069347)">
+       transform="translate(112.6504,25.069347)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4972"
@@ -1024,7 +1029,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,68.557232 h 80"
+       d="m 120.99222,68.557232 h 80"
        id="path4980"
        inkscape:connector-curvature="0" />
     <rect
@@ -1032,13 +1037,13 @@
        id="rect4984"
        width="70"
        height="5"
-       x="112.86091"
+       x="128.8609"
        y="69.965454" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5124"
-       d="M 184.99222,172.48723 V 32.248372 h -80 V 172.48723 Z"
+       d="M 200.99222,172.48723 V 32.248372 h -80 V 172.48723 Z"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
@@ -1048,7 +1053,9 @@
            x="0"
            y="0"
            xlink:href="#rect4870"
-           id="use5166" /></flowRegion><flowPara
+           id="use5166"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
          id="flowPara5168">Set the MODE selector to MANUAL PLAY.</flowPara><flowPara
          id="flowPara5170" /><flowPara
          id="flowPara5172" /><flowPara
@@ -1071,36 +1078,36 @@
          id="flowPara5190" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5196"
-       d="m 104.99222,74.867232 h 80"
+       d="m 120.99222,74.867232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,89.867232 h 80"
+       d="m 120.99222,89.867232 h 80"
        id="path5198"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path5200"
-       d="m 111.08809,38.557232 0,30"
+       d="m 127.08809,38.557232 v 30"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472228px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="112.53861"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="128.5386"
        y="72.88398"
        id="text5208"><tspan
          sodipodi:role="line"
-         x="112.53861"
+         x="128.5386"
          y="72.88398"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472228px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan5206">Intro</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5210"
        width="70"
        height="10"
-       x="112.86091"
+       x="128.8609"
        y="74.867233" />
     <flowRoot
        xml:space="preserve"
@@ -1119,7 +1126,7 @@
          id="flowPara5250" /><flowPara
          id="flowPara5252" /></flowRoot>    <g
        id="g5260"
-       transform="translate(96.650403,38.879334)">
+       transform="translate(112.6504,38.879334)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5254"
@@ -1140,7 +1147,7 @@
            y="41.863308">1</tspan></text>
     </g>
     <g
-       transform="translate(96.650403,46.111394)"
+       transform="translate(112.6504,46.111394)"
        id="g5268">
       <ellipse
          ry="1.7500017"
@@ -1163,7 +1170,7 @@
     </g>
     <g
        id="g5276"
-       transform="translate(96.650403,51.379356)">
+       transform="translate(112.6504,51.379356)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5270"
@@ -1186,11 +1193,11 @@
     <path
        inkscape:connector-curvature="0"
        id="path5278"
-       d="m 104.99222,94.867232 h 80"
+       d="m 120.99222,94.867232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="89.867233"
-       x="112.86091"
+       x="128.8609"
        height="5"
        width="70"
        id="rect5280"
@@ -1215,42 +1222,42 @@
        id="rect5296"
        width="70"
        height="5"
-       x="112.86091"
+       x="128.8609"
        y="94.899834" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,99.867232 h 80"
+       d="m 120.99222,99.867232 h 80"
        id="path5312"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path5314"
-       d="m 104.99222,106.17723 h 80"
+       d="m 120.99222,106.17723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text5318"
        y="104.20776"
-       x="112.53861"
+       x="128.5386"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan5316"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="104.20776"
-         x="112.53861"
+         x="128.5386"
          sodipodi:role="line">Fill In (MANUAL)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path5320"
-       d="m 111.08809,74.965451 0,24.901781"
+       d="M 127.08809,74.965451 V 99.867232"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,121.17723 h 80"
+       d="m 120.99222,121.17723 h 80"
        id="path5322"
        inkscape:connector-curvature="0" />
     <g
-       transform="translate(96.650403,67.689334)"
+       transform="translate(112.6504,67.689334)"
        id="g5330">
       <ellipse
          ry="1.7500017"
@@ -1273,7 +1280,7 @@
     </g>
     <rect
        y="106.19616"
-       x="112.86091"
+       x="128.8609"
        height="10"
        width="70"
        id="rect5332"
@@ -1296,10 +1303,10 @@
          id="flowPara5344" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5348"
-       d="m 104.99222,84.867232 h 80"
+       d="m 120.99222,84.867232 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(96.650403,56.379328)"
+       transform="translate(112.6504,56.379328)"
        id="g5356">
       <ellipse
          ry="1.7500017"
@@ -1325,7 +1332,7 @@
        id="rect5358"
        width="70"
        height="5"
-       x="112.86091"
+       x="128.8609"
        y="84.867233" />
     <flowRoot
        xml:space="preserve"
@@ -1344,7 +1351,7 @@
          id="flowPara5368" /><flowPara
          id="flowPara5370" /></flowRoot>    <g
        id="g5382"
-       transform="translate(96.650403,82.689336)">
+       transform="translate(112.6504,82.689336)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5376"
@@ -1366,7 +1373,7 @@
     </g>
     <rect
        y="121.19616"
-       x="112.86091"
+       x="128.8609"
        height="5"
        width="70"
        id="rect5384"
@@ -1389,10 +1396,10 @@
          id="flowPara5396" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5400"
-       d="m 104.99222,126.17723 h 80"
+       d="m 120.99222,126.17723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(96.650403,90.189341)"
+       transform="translate(112.6504,90.189341)"
        id="g5408">
       <ellipse
          ry="1.7500017"
@@ -1418,7 +1425,7 @@
        id="rect5410"
        width="69.999992"
        height="9.9810629"
-       x="112.86091"
+       x="128.8609"
        y="126.19617" />
     <flowRoot
        xml:space="preserve"
@@ -1437,17 +1444,17 @@
          id="flowPara5420" /><flowPara
          id="flowPara5422" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,136.17723 h 80"
+       d="m 120.99222,136.17723 h 80"
        id="path5426"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,111.17723 h 80"
+       d="m 120.99222,111.17723 h 80"
        id="path5428"
        inkscape:connector-curvature="0" />
     <g
        id="g5436"
-       transform="translate(96.650403,75.189348)">
+       transform="translate(112.6504,75.189348)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5430"
@@ -1472,7 +1479,7 @@
        id="rect5438"
        width="70"
        height="10"
-       x="112.86091"
+       x="128.8609"
        y="111.19616" />
     <flowRoot
        xml:space="preserve"
@@ -1497,7 +1504,9 @@
            x="0"
            y="0"
            xlink:href="#rect4956"
-           id="use5458" /></flowRegion><flowPara
+           id="use5458"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
          id="flowPara5460">Start the sequencer by pressing the START/STOP button.</flowPara><flowPara
          id="flowPara5462" /><flowPara
          id="flowPara5464" /><flowPara
@@ -1517,7 +1526,7 @@
          id="flowPara5476" /><flowPara
          id="flowPara5478" /><flowPara
          id="flowPara5480" /></flowRoot>    <g
-       transform="translate(0,97.58786)"
+       transform="translate(16,97.58786)"
        id="g5488">
       <ellipse
          ry="1.7500017"
@@ -1543,7 +1552,7 @@
        id="rect5490"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="48.557232" />
     <flowRoot
        transform="translate(0,12.13955)"
@@ -1563,7 +1572,7 @@
          id="flowPara5502" /><flowPara
          id="flowPara5504" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.3418168,133.55723 H 88.341816"
+       d="M 24.341817,133.55723 H 104.34182"
        id="path5508"
        inkscape:connector-curvature="0" />
     <rect
@@ -1571,7 +1580,7 @@
        id="rect5512"
        width="70"
        height="10"
-       x="16.210514"
+       x="32.210514"
        y="144.96545" />
     <flowRoot
        transform="translate(0,60.438975)"
@@ -1588,44 +1597,44 @@
          id="flowPara5518">In the case of programming 16 steps setting the pattern length is unnecessary.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:52.91666412px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="15.055532"
+       x="31.055532"
        y="147.68314"
        id="text5524"><tspan
          sodipodi:role="line"
          id="tspan5522"
-         x="15.055532"
+         x="31.055532"
          y="147.68314"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.26458332px">*</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="112.53861"
+       x="128.5386"
        y="140.54526"
        id="text5530"><tspan
          sodipodi:role="line"
-         x="112.53861"
+         x="128.5386"
          y="140.54526"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan5528">Fill In (AUTOMATIC)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path5532"
-       d="m 111.08809,142.48723 v 30"
+       d="m 127.08809,142.48723 v 30"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,142.48723 h 80"
+       d="m 120.99222,142.48723 h 80"
        id="path5534"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path5536"
-       d="m 104.99222,162.48723 h 80"
+       d="m 120.99222,162.48723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g5544"
-       transform="translate(96.650403,106.49934)">
+       transform="translate(112.6504,106.49934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5538"
@@ -1650,7 +1659,7 @@
        id="rect5546"
        width="70"
        height="10"
-       x="112.86091"
+       x="128.8609"
        y="142.50616" />
     <flowRoot
        xml:space="preserve"
@@ -1668,7 +1677,7 @@
          id="flowPara5554" /><flowPara
          id="flowPara5556" /><flowPara
          id="flowPara5558" /></flowRoot>    <g
-       transform="translate(96.650403,123.99933)"
+       transform="translate(112.6504,123.99933)"
        id="g5568">
       <ellipse
          ry="1.7500017"
@@ -1694,7 +1703,7 @@
        id="rect5570"
        width="70"
        height="5"
-       x="112.86091"
+       x="128.8609"
        y="162.50616" />
     <flowRoot
        xml:space="preserve"
@@ -1713,12 +1722,12 @@
          id="flowPara5580" /><flowPara
          id="flowPara5582" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 104.99222,167.48723 h 80"
+       d="m 120.99222,167.48723 h 80"
        id="path5586"
        inkscape:connector-curvature="0" />
     <g
        id="g5594"
-       transform="translate(96.650403,128.99934)">
+       transform="translate(112.6504,128.99934)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5588"
@@ -1740,7 +1749,7 @@
     </g>
     <rect
        y="167.50618"
-       x="112.86091"
+       x="128.8609"
        height="4.98105"
        width="69.999992"
        id="rect5596"
@@ -1763,10 +1772,10 @@
          id="flowPara5608" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5614"
-       d="m 104.99222,152.48723 h 80"
+       d="m 120.99222,152.48723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(96.650403,116.49934)"
+       transform="translate(112.6504,116.49934)"
        id="g5622">
       <ellipse
          ry="1.7500017"
@@ -1789,7 +1798,7 @@
     </g>
     <rect
        y="152.50616"
-       x="112.86091"
+       x="128.8609"
        height="10"
        width="70"
        id="rect5624"
@@ -1812,34 +1821,34 @@
          id="flowPara5636" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5642"
-       d="m 104.99222,172.48723 h 80"
+       d="m 120.99222,172.48723 h 80"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,164.18132 H 88.166817"
+       d="M 24.166817,164.18132 H 104.16682"
        id="path5644"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="15.713208"
+       x="31.713207"
        y="162.5883"
        id="text5648"><tspan
          sodipodi:role="line"
-         x="15.713208"
+         x="31.713207"
          y="162.5883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan5646">Compose</tspan></text>
+         id="tspan5646">Track Compose</tspan></text>
     <rect
        y="165.47008"
-       x="16.035505"
+       x="32.035507"
        height="5"
        width="70"
        id="rect5650"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g5658"
-       transform="translate(-0.17500072,125.69342)">
+       transform="translate(15.824999,125.69342)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5652"
@@ -1862,11 +1871,11 @@
     <path
        inkscape:connector-curvature="0"
        id="path5662"
-       d="M 8.1668168,169.18132 H 88.166817"
+       d="M 24.166817,169.18132 H 104.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,169.18132 H 88.166817"
+       d="M 24.166817,169.18132 H 104.16682"
        id="path5664"
        inkscape:connector-curvature="0" />
     <rect
@@ -1874,10 +1883,10 @@
        id="rect5666"
        width="70"
        height="10"
-       x="16.035505"
+       x="32.035507"
        y="169.18132" />
     <g
-       transform="translate(-0.17500072,133.19343)"
+       transform="translate(15.824999,133.19343)"
        id="g5674">
       <ellipse
          ry="1.7500017"
@@ -1899,7 +1908,7 @@
            style="stroke-width:0.00254px">2</tspan></text>
     </g>
     <flowRoot
-       transform="translate(-0.17500072,132.47126)"
+       transform="translate(-0.17500072,132.76363)"
        id="flowRoot5690"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -1916,18 +1925,18 @@
          id="flowPara5688" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path5692"
-       d="M 8.1668168,179.18132 H 88.166817"
+       d="M 24.166817,184.18132 H 104.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="179.18132"
-       x="16.035505"
+       y="184.18132"
+       x="32.035507"
        height="10"
        width="70"
        id="rect5694"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g5702"
-       transform="translate(-0.17500072,140.69343)">
+       transform="translate(15.824999,140.83965)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5696"
@@ -1949,18 +1958,18 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,189.18132 H 88.166817"
+       d="M 24.166817,194.18132 H 104.16682"
        id="path5704"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5706"
        width="70"
-       height="5"
-       x="16.035505"
-       y="190.58954" />
+       height="8.5917816"
+       x="32.035507"
+       y="195.58954" />
     <g
-       transform="translate(-0.17500072,150.69343)"
+       transform="translate(15.824999,148.19344)"
        id="g5714">
       <ellipse
          ry="1.7500017"
@@ -1984,18 +1993,18 @@
     <path
        inkscape:connector-curvature="0"
        id="path5716"
-       d="M 8.1668168,194.18132 H 88.166817"
+       d="M 24.166817,244.18132 H 104.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="195.58954"
-       x="16.035505"
+       y="245.58954"
+       x="32.035507"
        height="5"
        width="70"
        id="rect5718"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 88.166817,248.21591 0,-90.34345 H 8.1668168 l 0,90.34345 z"
+       d="M 104.16682,280.49132 V 157.87246 H 24.166817 v 122.61886 z"
        id="path5720"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -2016,7 +2025,7 @@
          id="flowPara5730" /><flowPara
          id="flowPara5732" /><flowPara
          id="flowPara5734" /></flowRoot>    <flowRoot
-       transform="translate(-96.825403,127.47127)"
+       transform="translate(-96.825403,132.76363)"
        id="flowRoot5750"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -2027,45 +2036,45 @@
            xlink:href="#rect4930"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara5742">Use the STEP buttons to select the first Rythm Pattern of the Track </flowPara><flowPara
+         id="flowPara5742">Use the STEP buttons to select the first Rythm Pattern of the Track. </flowPara><flowPara
          id="flowPara5744" /><flowPara
          id="flowPara5746" /><flowPara
          id="flowPara5748" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,200.49132 H 88.166817"
+       d="M 24.166817,250.49132 H 104.16682"
        id="path5752"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path5754"
-       d="M 8.1668168,215.49132 H 88.166817"
+       d="M 24.166817,265.49132 H 104.16682"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14.262687,164.18132 v 30"
+       d="m 30.262687,164.18132 v 80"
        id="path5756"
        inkscape:connector-curvature="0" />
     <text
        id="text5760"
-       y="198.50806"
-       x="15.713208"
+       y="248.50806"
+       x="31.713207"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan5758"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:5.04472208px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.08;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="198.50806"
-         x="15.713208"
-         sodipodi:role="line">Intro</tspan></text>
+         y="248.50806"
+         x="31.713207"
+         sodipodi:role="line">Track Play</tspan></text>
     <rect
-       y="200.49132"
-       x="16.035505"
-       height="10"
+       y="250.49132"
+       x="32.035507"
+       height="5.0000024"
        width="70"
        id="rect5762"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(-96.825403,127.76307)"
+       transform="translate(-96.825403,176.91232)"
        id="flowRoot5776"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -2076,11 +2085,11 @@
            xlink:href="#rect5210"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara5768">Use STEP buttons 13 - 16 to select the Intro Rhythm Pattern you want to play.   </flowPara><flowPara
+         id="flowPara5768">Set the MODE selector to PLAY.  </flowPara><flowPara
          id="flowPara5770" /><flowPara
          id="flowPara5772" /><flowPara
          id="flowPara5774" /></flowRoot>    <g
-       transform="translate(-0.17500072,164.50342)"
+       transform="translate(15.824999,212.00343)"
        id="g5784">
       <ellipse
          ry="1.7500017"
@@ -2103,7 +2112,7 @@
     </g>
     <g
        id="g5792"
-       transform="translate(-0.17500072,171.73548)">
+       transform="translate(15.824999,219.50343)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5786"
@@ -2124,7 +2133,7 @@
            y="41.863308">2</tspan></text>
     </g>
     <g
-       transform="translate(-0.17500072,177.00344)"
+       transform="translate(15.824999,229.50343)"
        id="g5800">
       <ellipse
          ry="1.7500017"
@@ -2147,34 +2156,19 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,220.49132 H 88.166817"
+       d="M 24.166817,275.49132 H 104.16682"
        id="path5802"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5804"
        width="70"
-       height="5"
-       x="16.035505"
-       y="215.49132" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot5818"
-       transform="translate(-96.825403,141.89433)"><flowRegion
-         id="flowRegion5808"><use
-           x="0"
-           y="0"
-           xlink:href="#rect5210"
-           id="use5806"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara5810">Press the TAP button to activate the Intro.</flowPara><flowPara
-         id="flowPara5812" /><flowPara
-         id="flowPara5814" /><flowPara
-         id="flowPara5816" /></flowRoot>    <rect
-       y="220.52391"
-       x="16.035505"
+       height="10.032593"
+       x="32.035507"
+       y="265.49133" />
+    <rect
+       y="275.52393"
+       x="32.035507"
        height="5"
        width="70"
        id="rect5820"
@@ -2182,17 +2176,17 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14.262687,200.58954 v 24.90178"
+       d="m 30.262687,250.58954 v 29.90178"
        id="path5830"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.1668168,210.49132 H 88.166817"
+       d="M 24.166817,255.49132 H 104.16682"
        id="path5858"
        inkscape:connector-curvature="0" />
     <g
        id="g5866"
-       transform="translate(-0.17500072,182.00341)">
+       transform="translate(15.824999,237.00341)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse5860"
@@ -2213,14 +2207,14 @@
            y="41.863308">4</tspan></text>
     </g>
     <rect
-       y="210.49132"
-       x="16.035505"
-       height="5"
+       y="256.86386"
+       x="32.035507"
+       height="8.6274586"
        width="70"
        id="rect5868"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(-96.825403,136.89431)"
+       transform="translate(-96.825403,182.76308)"
        id="flowRoot5882"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -2231,26 +2225,11 @@
            xlink:href="#rect5210"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara5874">Press the I/F - VAR button to select the Intro variation.</flowPara><flowPara
+         id="flowPara5874">Choose the Track to play using the INSTRUMENT/TRACK selector buttons.</flowPara><flowPara
          id="flowPara5876" /><flowPara
          id="flowPara5878" /><flowPara
          id="flowPara5880" /></flowRoot>    <flowRoot
-       id="flowRoot5974"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"
-       transform="translate(-96.825403,125.62409)"><flowRegion
-         id="flowRegion5964"><use
-           id="use5962"
-           xlink:href="#rect4956"
-           y="0"
-           x="0"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara5966">Set the Variation to A or B.</flowPara><flowPara
-         id="flowPara5968" /><flowPara
-         id="flowPara5970" /><flowPara
-         id="flowPara5972" /></flowRoot>    <flowRoot
-       transform="translate(-96.825403,126.58674)"
+       transform="translate(-96.825403,181.58674)"
        id="flowRoot5988"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -2264,5 +2243,290 @@
          id="flowPara5980">Start the sequencer by pressing the START/STOP button.</flowPara><flowPara
          id="flowPara5982" /><flowPara
          id="flowPara5984" /><flowPara
-         id="flowPara5986" /></flowRoot>  </g>
+         id="flowPara5986" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6105"
+       d="M 24.166817,209.18132 H 104.16682"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6107"
+       d="M 24.166817,204.18132 H 104.16682"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6109"
+       transform="translate(0,0.73042215)"><flowRegion
+         id="flowRegion6111"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5706"
+           id="use6113"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara6115">Press the BASIC VARIATION button to select Variation A or Variation B.</flowPara><flowPara
+         id="flowPara6117" /><flowPara
+         id="flowPara6119" /><flowPara
+         id="flowPara6121" /></flowRoot>    <g
+       id="g6129"
+       transform="translate(15.824999,158.19343)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse6123"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text6127"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan6125"
+           x="10.836131"
+           y="41.863308">5</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6131"
+       width="70"
+       height="5"
+       x="32.035507"
+       y="204.21126" />
+    <flowRoot
+       transform="translate(-96.825403,165.33144)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6147"><flowRegion
+         id="flowRegion6135"><use
+           height="100%"
+           width="100%"
+           x="0"
+           y="0"
+           xlink:href="#rect4870"
+           id="use6133" /></flowRegion><flowPara
+         id="flowPara6137">Press the START/STOP button to start the sequencer.</flowPara><flowPara
+         id="flowPara6139" /><flowPara
+         id="flowPara6141" /><flowPara
+         id="flowPara6143" /><flowPara
+         id="flowPara6145" /></flowRoot>    <g
+       transform="translate(15.824999,165.69343)"
+       id="g6155">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse6149"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text6153"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan6151"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">6</tspan></text>
+    </g>
+    <rect
+       y="209.21126"
+       x="32.035507"
+       height="9.9700623"
+       width="70"
+       id="rect6157"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6175"
+       transform="translate(0,2.109327)"><flowRegion
+         id="flowRegion6177"><use
+           x="0"
+           y="0"
+           xlink:href="#rect6157"
+           id="use6179"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara6181">Press the SHIFT-WRITE/NEXT key to advance to the next measure. </flowPara><flowPara
+         id="flowPara6183" /><flowPara
+         id="flowPara6185" /><flowPara
+         id="flowPara6187" /><flowPara
+         id="flowPara6189" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.166817,219.18132 H 104.16682"
+       id="path6191"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6199"
+       transform="translate(15.824999,173.19343)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse6193"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text6197"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan6195"
+           x="10.836131"
+           y="41.863308">7</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6201"
+       width="70"
+       height="9.9700623"
+       x="32.035507"
+       y="219.21126" />
+    <flowRoot
+       id="flowRoot6217"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,12.667723)"><flowRegion
+         id="flowRegion6205"><use
+           height="100%"
+           width="100%"
+           id="use6203"
+           xlink:href="#rect6157"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara6207">Use the STEP buttons to select a different Rythm Pattern, if desired.  Press the SHIFT-WRITE/NEXT key to save the  Rhythm Pattern and advance to the next measure.</flowPara><flowPara
+         id="flowPara6209" /><flowPara
+         id="flowPara6211" /><flowPara
+         id="flowPara6213" /><flowPara
+         id="flowPara6215" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6219"
+       d="M 24.166817,179.18132 H 104.16682"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(15.824999,185.69343)"
+       id="g6227">
+      <ellipse
+         ry="1.7500017"
+         rx="1.7500015"
+         cy="40.987888"
+         cx="11.509055"
+         id="ellipse6221"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text6225"
+         y="41.863308"
+         x="10.836131"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="41.863308"
+           x="10.836131"
+           id="tspan6223"
+           sodipodi:role="line"
+           style="stroke-width:0.00254px">8</tspan></text>
+    </g>
+    <g
+       id="g6235"
+       transform="translate(15.824999,198.19343)">
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.000585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse6229"
+         cx="11.509055"
+         cy="40.987888"
+         rx="1.7500015"
+         ry="1.7500017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.4694469px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.836131"
+         y="41.863308"
+         id="text6233"><tspan
+           style="stroke-width:0.00254px"
+           sodipodi:role="line"
+           id="tspan6231"
+           x="10.836131"
+           y="41.863308">9</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6237"
+       width="70"
+       height="5"
+       x="32.035507"
+       y="180.47008" />
+    <flowRoot
+       transform="translate(-96.825403,140.6238)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6253"><flowRegion
+         id="flowRegion6241"><use
+           height="100%"
+           width="100%"
+           x="0"
+           y="0"
+           xlink:href="#rect4870"
+           id="use6239" /></flowRegion><flowPara
+         id="flowPara6243">Press the CLEAR button.</flowPara><flowPara
+         id="flowPara6245" /><flowPara
+         id="flowPara6247" /><flowPara
+         id="flowPara6249" /><flowPara
+         id="flowPara6251" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6255"
+       d="M 24.166817,234.18132 H 104.16682"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6259"
+       width="70"
+       height="9.9700623"
+       x="32.035507"
+       y="234.19406" />
+    <flowRoot
+       id="flowRoot6275"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,26.803476)"><flowRegion
+         id="flowRegion6263"><use
+           height="100%"
+           width="100%"
+           id="use6261"
+           xlink:href="#rect6157"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara6265">At the last measure of the composition, stop the sequencer by pressing the START/STOP button.</flowPara><flowPara
+         id="flowPara6267" /><flowPara
+         id="flowPara6269" /><flowPara
+         id="flowPara6271" /><flowPara
+         id="flowPara6273" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot6277"
+       transform="translate(0,2.1380882)"><flowRegion
+         id="flowRegion6279"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5804"
+           id="use6281"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara6283">Press the BASIC VARIATION button to select Variation A or Variation B.</flowPara><flowPara
+         id="flowPara6285" /><flowPara
+         id="flowPara6287" /><flowPara
+         id="flowPara6289" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6291"
+       d="M 24.166817,280.49132 H 104.16682"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>
