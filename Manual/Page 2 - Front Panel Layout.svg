@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,13 +47,13 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1"
-     inkscape:cx="631.21201"
-     inkscape:cy="427.24868"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="765.11262"
+     inkscape:cy="302.14092"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -70,8 +70,8 @@
      showguides="false"
      inkscape:guide-bbox="true"
      showborder="true"
-     inkscape:measure-start="33.3888,762.754"
-     inkscape:measure-end="33.3888,794.081"
+     inkscape:measure-start="516.364,195.994"
+     inkscape:measure-end="516.364,196.736"
      units="mm">
     <sodipodi:guide
        position="460.05478,700.90973"
@@ -172,6 +172,36 @@
        position="359.40792,254.91027"
        orientation="0,1"
        id="guide6446"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="541.61307,244.97743"
+       orientation="1,0"
+       id="guide5997"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="614.90321,192.93893"
+       orientation="0,1"
+       id="guide5999"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="517.11004,196.73631"
+       orientation="0,1"
+       id="guide6003"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="517.11004,189.14995"
+       orientation="0,1"
+       id="guide6005"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="851.12171,235.90055"
+       orientation="1,0"
+       id="guide6019"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="889.80728,235.90055"
+       orientation="1,0"
+       id="guide6021"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <desc
@@ -361,7 +391,62 @@
      id="layer4"
      inkscape:label="grey"
      style="display:inline"
-     transform="translate(189.92642,34.929431)" />
+     transform="translate(189.92642,34.929431)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.08484125px;line-height:7.6495142px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:0.34770519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="344.77383"
+       y="568.05035"
+       id="text5995"><tspan
+         sodipodi:role="line"
+         id="tspan5993"
+         x="344.77383"
+         y="568.05035"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:7.6495142px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.05px;fill:#5a5a5a;fill-opacity:1;stroke-width:0.34770519px">LIVE</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6001"
+       width="16.727722"
+       height="6.828898"
+       x="343.32278"
+       y="562.4187" />
+    <text
+       id="text6009"
+       y="568.05035"
+       x="694.54297"
+       style="font-style:normal;font-weight:normal;font-size:6.08484125px;line-height:7.6495142px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:0.34770519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:7.6495142px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.05px;fill:#5a5a5a;fill-opacity:1;stroke-width:0.34770519px"
+         y="568.05035"
+         x="694.54297"
+         id="tspan6007"
+         sodipodi:role="line">INS</tspan></text>
+    <rect
+       y="562.4187"
+       x="692.29041"
+       height="6.8289185"
+       width="15.180926"
+       id="rect6011"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.08484125px;line-height:7.6495142px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:0.34770519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="655.01538"
+       y="568.05035"
+       id="text6015"><tspan
+         sodipodi:role="line"
+         id="tspan6013"
+         x="655.01538"
+         y="568.05035"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:7.6495142px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.05px;fill:#5a5a5a;fill-opacity:1;stroke-width:0.34770519px">DEL</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6023"
+       width="15.180926"
+       height="6.8289185"
+       x="653.60486"
+       y="562.4187" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
