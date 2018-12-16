@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3618124"
-     inkscape:cx="419.91437"
-     inkscape:cy="330.59753"
+     inkscape:zoom="1.9258936"
+     inkscape:cx="458.61825"
+     inkscape:cy="297.26208"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -407,11 +407,11 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="flowPara10233">In MANUAL MODE the Instrument Selector buttons can be used to trigger the drum voices.  This allows the different drum sounds to be audtioned to try out rhythms in real-time and can also be used to improvise over top of a currently playing rhythm pattern.</flowPara><flowPara
+         id="flowPara10233">In MANUAL MODE the Instrument Selector buttons can be used to trigger the drum voices.  This allows the different drum sounds to be audtioned to try out rhythms in real-time and can also be used to improvise over top of a currently playing Rhythm Pattern.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="flowPara7358" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="flowPara7360">Live drum hits can only be triggered in MANUAL MODE when LIVE HITS is activated. To activate LIVE HITS, press and hold the SHIFT/WRITE-NEXT key and press STEP 7 ([LIVE]).  The STEP 7 LED will light indicating that the LIVE HITS mode is active. You may now use the Instrument Selector buttons to trigger the drum voices. </flowPara><flowPara
+         id="flowPara7360">Live drum hits can only be triggered in MANUAL MODE when Audition Mode is activated. To activate Audition Mode, press and hold the SHIFT/WRITE-NEXT key and press STEP 7 ([AUD]).  The STEP 7 LED will light indicating that Audition Mode is active. You may now use the Instrument Selector buttons to trigger the drum voices. </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="flowPara10250" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -441,7 +441,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="flowPara7362" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="flowPara7364">When LIVE HITS is active, you lose the ability to select the current instrument for rolls.  To disable LIVE HITS, press and hold the SHIFT/WRITE-NEXT key and press STEP 7 again to disable the LIVE HITS mode.</flowPara><flowPara
+         id="flowPara7364">When Audition Mode is active, you lose the ability to select the current instrument for rolls.  To disable Audtion Mode, press and hold the SHIFT/WRITE-NEXT key and press STEP 7 again to disable drum auditioning.</flowPara><flowPara
          style="font-size:2.11666656px"
          id="flowPara5922" /></flowRoot>  </g>
 </svg>

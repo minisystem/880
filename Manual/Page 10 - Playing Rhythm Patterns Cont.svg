@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96294678"
-     inkscape:cx="336.73986"
-     inkscape:cy="811.08924"
+     inkscape:zoom="1.9258936"
+     inkscape:cx="373.01622"
+     inkscape:cy="835.47816"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -293,7 +293,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara16898">ROLL Mode is a performance feature that allows you to repeatedly trigger an instrument to create drum rolls.  The ROLL feature can be used in any of the edit, play or compose modes.  ROLL settings are not saved to memory. </flowPara><flowPara
          id="flowPara16900" /><flowPara
-         id="flowPara16904">To enable roll, start the sequencer and select the inst-rument you wish to roll.  Press and hold the SHIFT-WRITE/NEXT key. Step LED 9 (ROLL OFF) will light.  Use STEP buttons 10 through 14 to select the desired roll resolution.  ROLL 2 will trigger the currently select-ed instrument twice a measure, on steps 1 and 9. ROLL 4, 8 and 16 will trigger the current instrument 4,</flowPara></flowRoot>    <flowRoot
+         id="flowPara16904">To enable a roll, start the sequencer and select the instrument you wish to roll.  Press and hold the SHIFT-WRITE/NEXT key. Step LED 9 (ROLL OFF) will light.  Use STEP buttons 10 through 14 to select the desired roll resolution.  ROLL 2 will trigger the currently select-ed instrument twice a measure, on steps 1 and 9. ROLL 4, 8 and 16 will trigger the current instrument 4,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot16906"><flowRegion

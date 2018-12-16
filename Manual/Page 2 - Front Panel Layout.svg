@@ -47,9 +47,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="765.11262"
-     inkscape:cy="302.14092"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="637.48608"
+     inkscape:cy="278.82812"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -395,21 +395,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.08484125px;line-height:7.6495142px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:0.34770519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="344.77383"
+       x="345.25766"
        y="568.05035"
        id="text5995"><tspan
          sodipodi:role="line"
          id="tspan5993"
-         x="344.77383"
+         x="345.25766"
          y="568.05035"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:7.6495142px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.05px;fill:#5a5a5a;fill-opacity:1;stroke-width:0.34770519px">LIVE</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6001"
-       width="16.727722"
-       height="6.828898"
-       x="343.32278"
-       y="562.4187" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:7.6495142px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.05px;fill:#5a5a5a;fill-opacity:1;stroke-width:0.34770519px">AUD</tspan></text>
     <text
        id="text6009"
        y="568.05035"
@@ -446,6 +439,13 @@
        height="6.8289185"
        x="653.60486"
        y="562.4187" />
+    <rect
+       y="562.4187"
+       x="344.09619"
+       height="6.8289185"
+       width="15.180926"
+       id="rect53319"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

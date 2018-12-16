@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="464.43264"
-     inkscape:cy="143.65664"
+     inkscape:cx="413.4252"
+     inkscape:cy="290.0636"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -312,7 +312,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara24236">Press the MODE selector button to select COMOPSE mode. Use the Instrument/Track buttons to select the Rhythm Track memory slot you wish to use.  Press the CLEAR button to clear the Rhythm Track. The COMPOSE LED will flash rapidly to indicate that the currently selected Rhythm Track is being cleared in memory.</flowPara><flowPara
          id="flowPara24250" /><flowPara
-         id="flowPara24252">Start the sequencer.  The first pattern in the first bank will start to play. If you wish to change the pattern bank, press and hold the ALT key and STEP buttons 1 to 12 to select a new pattern bank.</flowPara><flowPara
+         id="flowPara24252">Start the sequencer.  The first pattern in the first bank will start to play. If you wish to change the pattern bank, press and hold the ALT key and use STEP buttons 1 to 12 to select a new pattern bank.</flowPara><flowPara
          id="flowPara24328" /><flowPara
          id="flowPara24330">Using the the STEP buttons, select the pattern you wish to play for the first measure of the Rhythm Track. Press the SHIFT-WRITE/NEXT key to commit the pattern to memory and advance to the next measure.  To commit the same pattern to memory, simply press the SHIFT-WRITE/NEXT key again and advance to the next measure.  When you want to select a new pattern, use the STEP buttons to select it. You may also use the ALT key to select a different pattern bank.</flowPara><flowPara
          id="flowPara24242" /><flowPara
@@ -377,9 +377,9 @@
            id="use10382"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara10384">you can change the pattern using the STEP buttons or change to a different pattern bank by pressing and holding the ALT key and selecting a new pattern bank.  These changes to the current measure are auto-matically committed to memory. Too fucking bad. </flowPara><flowPara
+         id="flowPara10384">you can change the pattern using the STEP buttons or change to a different pattern bank by pressing and holding the ALT key and selecting a new pattern bank.  These changes to the current measure are auto-matically committed to memory. </flowPara><flowPara
          id="flowPara10386" /><flowPara
-         id="flowPara10388">The current measure can be deleted by pressing and holding the SHIFT-WRITE/NEXT key and then pressing Step #16 (DEL).  The length of the Rhythm Track will be reduced by one measure and the pattern stored in the meausure after the deleted measure will be moved to the current measure. If you are editing the last measure of the Rhythm Track, then the delete function simply deletes the last measure.</flowPara><flowPara
+         id="flowPara10388">The current measure can be deleted by pressing and holding the SHIFT-WRITE/NEXT key and then pressing Step #16 (DEL).  The length of the Rhythm Track will be reduced by one measure and the pattern stored in the measure after the deleted measure will be moved to the current measure. If you are editing the last measure of the Rhythm Track, then the delete function simply deletes the last measure.</flowPara><flowPara
          id="flowPara10390" /><flowPara
          id="flowPara10392">A new measure can be inserted into the Rhythm Track by pressing and holding the SHIFT-WRITE/NEXT key and then pressing Step #15 (INS).  The length of the Rhythm Track will be extended by one measure.  If you are editing the last measure of the Rhythm Track then the current pattern is simply appended to the end of the Rhythm Track.</flowPara><flowPara
          id="flowPara10394" /><flowPara
@@ -462,7 +462,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara10538">To play back a recorded Rhythm Track set the MODE selector to PLAY.  Use the Instrument/Track buttons to select the Rhythm Track you wish to play and start the sequencer.  The first measure of the Rhythm Track will begin to play and the sequencer will stop once the Rhythm Track's last measure has played.</flowPara><flowPara
          id="flowPara10650" /><flowPara
-         id="flowPara10652">If you would like the Rhythm Track to loop back to the first measure and continue playing then press and hold the SHIFT-WRITE/NEXT key when pressing the START button. Nope. Note implemented yet. </flowPara></flowRoot>    <flowRoot
+         id="flowPara10652">If you would like the Rhythm Track to loop back to the first measure and continue playing then press and hold the SHIFT-WRITE/NEXT key when pressing the START button.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot10540"><flowRegion

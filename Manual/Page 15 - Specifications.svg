@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="349.00691"
-     inkscape:cy="952.89692"
+     inkscape:zoom="2.3439622"
+     inkscape:cx="527.5692"
+     inkscape:cy="862.18603"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -128,6 +128,11 @@
        position="24.42025,185.02225"
        orientation="0,1"
        id="guide17217"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="138.81254,201.91286"
+       orientation="0,1"
+       id="guide58213"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -351,7 +356,7 @@
            xlink:href="#rect24625"
            y="0"
            x="0" /></flowRegion><flowPara
-         id="flowPara34823">*Depth includes connected power, DIN expander and Trigger Expander headers</flowPara><flowPara
+         id="flowPara34823">   epth includes connected power, DIN expander and Trigger Expander headers</flowPara><flowPara
          id="flowPara34825" /></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path34864"
@@ -479,5 +484,18 @@
          id="flowPara17251">1-32 steps per measure × 2 Basic Variations </flowPara><flowPara
          id="flowPara17253" /><flowPara
          id="flowPara17255" /><flowPara
-         id="flowPara17257" /></flowRoot>  </g>
+         id="flowPara17257" /></flowRoot>    <flowRoot
+       transform="translate(68.773917)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot58211"><flowRegion
+         id="flowRegion58205"><use
+           x="0"
+           y="0"
+           xlink:href="#rect24625"
+           id="use58203"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara58207">*D</flowPara><flowPara
+         id="flowPara58209" /></flowRoot>  </g>
 </svg>

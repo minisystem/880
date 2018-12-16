@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1848329"
-     inkscape:cx="502.69283"
-     inkscape:cy="741.63713"
+     inkscape:cx="348.24067"
+     inkscape:cy="302.75668"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -383,11 +383,11 @@
            id="use6679"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara6689">This manual is a dynamic document that is edited and upated to make it current with the latest 880 firmware.  For the latest version of the the firmware and corresponding manual, please visit:</flowPara><flowPara
+         id="flowPara6689">This manual is a dynamic document that is edited and upated to make it current with the latest 880 firmware.  For the latest version of the the firmware and corresponding manual please visit:</flowPara><flowPara
          id="flowPara6698" /><flowPara
          id="flowPara6696">http://system80.net/product/880/</flowPara><flowPara
          id="flowPara6700" /><flowPara
          id="flowPara6702">This edition is for firmware version <flowSpan
-   style="-inkscape-font-specification:'FreeSans Semi-Bold';font-family:FreeSans;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
    id="flowSpan6704">0.9.7</flowSpan></flowPara></flowRoot>  </g>
 </svg>

@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6574316"
-     inkscape:cx="405.4491"
-     inkscape:cy="325.06498"
+     inkscape:cx="473.58843"
+     inkscape:cy="175.95944"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -656,7 +656,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara28927">Use the Instrument/Track buttons to select the instrument you wish to assign to the Trigger Output.</flowPara><flowPara
          id="flowPara28929" /><flowPara
-         id="flowPara28931">By default Trigger 1 is assigned to the Accent and Trigger 2 is assigned to the Cowbell.  Trigger assignments are stored in non-volatile memory for recall after power off. But not yet, oh no, not yet... </flowPara></flowRoot>    <path
+         id="flowPara28931">By default Trigger 1 is assigned to the Accent and Trigger 2 is assigned to the Cowbell.  Trigger assignments are stored in non-volatile memory for recall after power off.</flowPara></flowRoot>    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.486532,206.20434 H 201.48654"
        id="path9349"

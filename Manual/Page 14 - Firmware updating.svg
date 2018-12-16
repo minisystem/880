@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="293.03477"
-     inkscape:cy="732.33215"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="432.82659"
+     inkscape:cy="816.61887"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -272,7 +272,7 @@
          id="flowPara21763">    your MIDI interface to the MIDI-DIN socket on the</flowPara><flowPara
          id="flowPara21765">    880.</flowPara><flowPara
          id="flowPara21737" /><flowPara
-         id="flowPara21767">3. Power up the 880 while holding down the START/</flowPara><flowPara
+         id="flowPara21767">3. Power on the 880 while holding down the START/</flowPara><flowPara
          id="flowPara21771">    STOP button.  Continue to hold the START/STOP </flowPara><flowPara
          id="flowPara21773">    button until the SYNC LED turns red.  The 880 is </flowPara><flowPara
          id="flowPara21775">    now ready to accept the firmware sysex file.  </flowPara><flowPara
