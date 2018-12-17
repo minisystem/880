@@ -124,8 +124,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1719811"
-     inkscape:cx="569.14594"
-     inkscape:cy="705.06754"
+     inkscape:cx="413.00008"
+     inkscape:cy="500.28608"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6888,10 +6888,10 @@
        id="text7868"
        y="245.8821"
        x="19.995918"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:51.62838745px;line-height:51.62837601px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-2.27772212px;word-spacing:0px;fill:#000000;fill-opacity:0.14070351;stroke:none;stroke-width:2.27772212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:51.62838745px;line-height:51.62837601px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-2.27772212px;word-spacing:0px;fill:none;fill-opacity:0.14070351;stroke:none;stroke-width:2.27772212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan7866"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:51.62838745px;line-height:51.62837601px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-2.27772212px;fill:#000000;fill-opacity:0.14070351;stroke:none;stroke-width:2.27772212px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:51.62838745px;line-height:51.62837601px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-2.27772212px;fill:none;fill-opacity:0.14070351;stroke:none;stroke-width:2.27772212px;"
          y="245.8821"
          x="19.995918"
          sodipodi:role="line">DRAFT</tspan></text>

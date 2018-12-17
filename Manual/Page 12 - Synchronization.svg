@@ -75,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.507457"
-     inkscape:cx="496.09693"
-     inkscape:cy="279.71183"
+     inkscape:zoom="0.62686425"
+     inkscape:cx="770.96536"
+     inkscape:cy="672.89886"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -436,7 +436,7 @@
     <rect
        y="208.94539"
        x="49.758167"
-       height="51.50668"
+       height="62.480602"
        width="65"
        id="rect10444"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -460,9 +460,9 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara10652">When in MIDI IN Mode the DIN socket is configured as a MIDI input.  The 880 will respond to MIDI Start, Stop and Clock messages to control the sequencer.  The START/STOP button is ignored in MIDI IN Mode, as is any clock input present on the SYNC IN jack. </flowPara><flowPara
          id="flowPara22379" /><flowPara
-         id="flowPara22377">MIDI IN Mode is a clock SLAVE mode that requires an active MIDI clock signal present on the DIN socket.  You may need to configure your MIDI master device to continuously send MIDI clock data.</flowPara><flowPara
+         id="flowPara22377">MIDI IN Mode is a clock SLAVE mode that requires an active MIDI clock signal present on the DIN socket to drive the sequencer's user interface.  You may need to configure your MIDI master device to continuously send MIDI clock data (see NOTE).</flowPara><flowPara
          id="flowPara28781" /><flowPara
-         id="flowPara28783">When the sequencer is stopped, the 880 may be</flowPara></flowRoot>    <flowRoot
+         id="flowPara28783">When the sequencer is stopped, the 880 may be used as a MIDI drum module. The BASS DRUM is triggered from MIDI note 0 (C−2) and the rest of the</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot10540"><flowRegion
@@ -473,11 +473,11 @@
            id="use10544"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara10667">used as a MIDI drum module. The BASS DRUM is triggered from MIDI note 0 (C−2) and the rest of the voices are mapped across the MIDI note scale up to the MARACAS on MIDI note 15 (D#−1).  MIDI notes with a velocity value greater than 63 will be accented.</flowPara><flowPara
+         id="flowPara10667">voices are mapped across the MIDI note scale up to the MARACAS on MIDI note 15 (D#−1).  MIDI notes with a velocity value greater than 63 will be accented.</flowPara><flowPara
          id="flowPara28610" /><flowPara
          id="flowPara28612">To change the 880's MIDI receive channel see Quick Tips on Page 5.</flowPara><flowPara
          id="flowPara28777" /><flowPara
-         id="flowPara28779">NOTE: MIDI triggering of drum voices is only enabled in MIDI IN mode with the sequencer stopped.</flowPara><flowPara
+         id="flowPara28779">NOTE: MIDI triggering of drum voices is only enabled in MIDI IN mode with the sequencer stopped.  To use the 880 as a MIDI drum module you will need to configure your MIDI master device so that it doesn't send MIDI transport control (Start, Stop, Clock). </flowPara><flowPara
          id="flowPara10661" /><flowPara
          id="flowPara10663" /><flowPara
          id="flowPara10554" /><flowPara
