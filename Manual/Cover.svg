@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1719811"
-     inkscape:cx="413.00008"
-     inkscape:cy="500.28608"
+     inkscape:zoom="1.6574316"
+     inkscape:cx="341.34131"
+     inkscape:cy="190.95784"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -295,11 +295,11 @@
          id="tspan26684">880</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861073px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861073px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        x="8.7603073"
        y="284.90747"
        id="text4762"><tspan
-         style="stroke-width:0.06499999"
+         style="stroke-width:0.06499999;stroke:none;"
          id="tspan4764"
          sodipodi:role="line"
          x="8.7603073"
@@ -321,13 +321,13 @@
        id="text9528"
        y="284.90747"
        x="99.069725"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861073px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.06499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861073px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.14111109px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="stroke-width:0.06499999"
+         style="stroke-width:0.06499999;stroke:none;"
          y="284.90747"
          x="99.069725"
          sodipodi:role="line"
-         id="tspan9530">rev. 12/18</tspan></text>
+         id="tspan9530">rev. 01/19</tspan></text>
     <g
        id="g19651"
        transform="translate(-205.58306,-30.78418)">
