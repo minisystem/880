@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1240.381"
-     inkscape:cy="247.61414"
+     inkscape:zoom="0.73782928"
+     inkscape:cx="770.38371"
+     inkscape:cy="576.01401"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -134,6 +134,11 @@
        orientation="1,0"
        id="guide9222"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="131.09208,295.54667"
+       orientation="0,1"
+       id="guide12380"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -143,7 +148,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -679,13 +684,13 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara5068"
-         style="text-anchor:start;text-align:justify">Already know how to use an 808? Great! You're ready to start playing right away. Just take a quick look at some of the following tips and functionial highlights that distinguish the 880's sequencer from an original TR-808.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">Already know how to use an 808? Great! You're ready to start playing right away. Just take a quick look at some of the following tips and functional highlights that distinguish the 880's sequencer from an original TR-808.</flowPara><flowPara
          id="flowPara5070"
-         style="text-anchor:start;text-align:justify" /><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara5072"
-         style="text-anchor:start;text-align:justify">Never used an 808-style sequencer before? It's easy to pick up, but you might want to refer to the Operational Manual:</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">Never used an 808-style sequencer before? It's easy to pick up, but you might want to refer to the Operational Manual:</flowPara><flowPara
          id="flowPara5074"
-         style="font-style:italic;text-anchor:start;text-align:justify">http://system80.net/product/880/</flowPara></flowRoot>    <path
+         style="font-style:italic;text-align:justify;text-anchor:start">http://system80.net/product/880/</flowPara></flowRoot>    <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19174394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 4.3039606,31.298839 126.7881194,0"
@@ -742,19 +747,19 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara5434"
-         style="text-anchor:start;text-align:justify">The MODE selector control is located in the upper left corner of the control panel and is used to select different operations for both programming and playing the 880. Pressing the MODE key cycles through each of the six modes: PATTERN CLEAR, 1st PART, 2nd PART, MANUAL PLAY, PLAY, and COMPOSE. </flowPara><flowPara
+         style="text-align:justify;text-anchor:start">The MODE selector control is located in the upper left corner of the control panel and is used to select different operations for both programming and playing the 880. Pressing the MODE key cycles through each of the six modes: PATTERN CLEAR, 1st PART, 2nd PART, MANUAL PLAY, PLAY, and COMPOSE. </flowPara><flowPara
          id="flowPara5436"
-         style="text-anchor:start;text-align:justify" /><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara5438"
-         style="text-anchor:start;text-align:justify"><flowSpan
-   style="font-weight:bold;text-anchor:start;text-align:justify"
-   id="flowSpan5444">Essential Tip</flowSpan>: Holding the SHIFT-WRITE/NEXT key while pressing the MODE key reverses the direction ofthe selection cycle. You will find that</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"><flowSpan
+   style="font-weight:bold;text-align:justify;text-anchor:start"
+   id="flowSpan5444">Essential Tip!</flowSpan> Holding the SHIFT-WRITE/NEXT key while pressing the MODE key reverses the direction of the selection cycle. You will find that</flowPara><flowPara
          id="flowPara5446"
-         style="text-anchor:start;text-align:justify">reversing the direction of the MODE selection with the SHIFT key is the fastest way to switch between adjacent modes (eg. 1st PART to CLEAR, or 2nd PART to 1st PART). </flowPara><flowPara
+         style="text-align:justify;text-anchor:start">reversing the direction of the MODE selection with the SHIFT key is the fastest way to switch between adjacent modes (eg. 1st PART to CLEAR, or 2nd PART to 1st PART). </flowPara><flowPara
          id="flowPara5440"
-         style="text-anchor:start;text-align:justify" /><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara5442"
-         style="text-anchor:start;text-align:justify" /></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start" /></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861121px;line-height:3.2984724px;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.13229167px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot5450"><flowRegion
@@ -766,7 +771,9 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara5456"
-         style="text-anchor:start;text-align:justify">The 880 may be synced to external MIDI clock, DIN Sync24 clock or an analog clock pulse on the SYNC IN jack.  Press the AUTO FILL IN selector button while holding down the SHIFT-WRITE/NEXT key to change the Synchronization Mode. Refer to Synchronization on Page 12 of the Operation Manual for more information.</flowPara><flowPara
+         style="text-anchor:start;text-align:justify">The 880 may be synced to external MIDI clock, DIN Sync24 clock or an analog clock pulse on the SYNC IN jack.  Press the AUTO FILL IN selector button while holding down the SHIFT-WRITE/NEXT key to change the Synchronization Mode. Refer to <flowSpan
+   style="font-style:italic"
+   id="flowSpan15169">Synchronization</flowSpan> on Page 12 of the Operation Manual for more information.</flowPara><flowPara
          id="flowPara5458"
          style="text-anchor:start;text-align:justify" /><flowPara
          id="flowPara5460"
@@ -12796,7 +12803,7 @@
          id="flowPara8936"
          style="text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;line-height:3.2984724px;text-align:justify;text-anchor:start"
-   id="flowSpan8942">Caution!</flowSpan> Do not apply power to the 880 when it is not securely installed in a Eurorack case. </flowPara><flowPara
+   id="flowSpan8942">Caution!</flowSpan> Except during calibration, do not apply power to the 880 when it is not securely installed in a Eurorack case. </flowPara><flowPara
          id="flowPara8938"
          style="text-align:justify;text-anchor:start" /><flowPara
          id="flowPara8940"
@@ -12891,7 +12898,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="fold lines"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.50000001, 1.00000003;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 135.88569,-0.00741357 V 304.8"
